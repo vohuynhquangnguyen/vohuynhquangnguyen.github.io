@@ -1,6 +1,8 @@
-title: Minimal theme
+title: Quang-Nguyen Vo-Huynh
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description:
+  Engineering and Science Enthusiast
+  <a href = 'https://www.linkedin.com/in/quangnguyen-vohuynh/'>View My Linkedin Profile</a>
+  <a href = 'https://github.com/vohuynhquangnguyen'>View My GitHub Profile</a>
 google_analytics:
 theme: jekyll-theme-minimal
