@@ -2,5 +2,5 @@
 layout: default
 ---
 
-[Link to another page](./_pages/cv.html).
+[Link to another page](./_pages/cv.md).
 
