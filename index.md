@@ -1,3 +1,6 @@
+## Ahoy There!
+My name is Quang-Nguyen Vo-Huynh, Lucius for short. I am an engineering and science enthusiast with a strong industrial background in Computer Vision (CV), ArtifiMachine Learning (ML), and Deep Learning (DL). I am currently working at **Intel Products Vietnam**, which is an assembly/test manufacturing site belonged to **Intel Corp** located in Vietnam. My works at **Intel Products Vietnam** comprise mostly the development and deployment of automated inspection solutions for downstream processes as well as mentoring programming and ML methods for aspiring engineers as an Intel AI Center of Excellence associate. Besides that, I work as a contributor for **AI Vietnam**, which is one of the largest Vietnamese community of AI enthuasists.
+
 ## Portfolio
 
 ---
