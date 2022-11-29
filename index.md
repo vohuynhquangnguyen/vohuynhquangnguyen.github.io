@@ -4,3 +4,10 @@ My name is Quang-Nguyen Vo-Huynh, Lucius for short. I am an engineering and scie
 I am currently seeking opportunities to pursue a doctorate. My research interests data-driven solutions, with an emphasis on machine vision, to enable smart manufacturing of semiconductor devices. I am proficient in Python, statistical analysis with JMP, data retrieval and processing with SQL, and data visualization with Matplotlib/Seaborn. Additionally, I am excel in digital image processing with OpenCV, ML/DL model development and deployment with scikit-learn and TensorFlow. These proficiencies are exemplarily demonstrated by Data Science projects I have completed. More details about these projects can be found at:
 
 [View My Portfolio](/sample_page)
+
+## My Prior Life!
+Before joining **Intel Products Vietnam**, 
+
+## My Prior prior Life!
+Before starting my M.Sc. at A 
+
