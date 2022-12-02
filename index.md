@@ -1,4 +1,4 @@
-[Portfolio](/sample_page)    [Publication](/sample_page)    [CV](/sample_page)
+[Portfolio](/pages/portfolio)    [Publication](/pages/publication)    [CV](/pages/cv)
 
 
 ## Ahoy There!
