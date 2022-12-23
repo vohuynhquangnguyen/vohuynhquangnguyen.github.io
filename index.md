@@ -1,4 +1,4 @@
-[Portfolio](/pages/portfolio)&nbsp; &nbsp; &nbsp;[Publication](/pages/publication)&nbsp; &nbsp; &nbsp;[CV](/pages/cv)
+[Portfolio](/pages/portfolio) &nbsp; &nbsp; &nbsp; [Publication](/pages/publication) &nbsp; &nbsp; &nbsp; [CV](/pages/cv)
 
 ***
 
