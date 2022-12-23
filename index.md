@@ -1,6 +1,6 @@
-[Portfolio](/pages/portfolio) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Publication](/pages/publication) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[CV](/pages/cv) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Portfolio](/pages/portfolio) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Publication](/pages/publication) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[CV](/pages/cv) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ***
 
