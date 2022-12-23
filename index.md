@@ -1,3 +1,6 @@
+| [Portfolio]() 	| [Publication]() 	| [CV]() 	|
+|---------------	|-----------------	|--------	|
+
 [Portfolio    ](/pages/portfolio) 
 [Publication    ](/pages/publication) 
 [CV    ](/pages/cv)
