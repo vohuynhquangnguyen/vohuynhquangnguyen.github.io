@@ -1,8 +1,6 @@
-<div class="masthead"><div class="masthead__inner-wrap"><div class="masthead__menu"><nav id="site-nav" class="greedy-nav"> <button class="hidden" count="0"><div class="navicon"></div></button><ul class="visible-links"><li class="masthead__menu-item masthead__menu-item--lg"><a href="https://paritoshpr.github.io/">paritosh ramanan</a></li><li class="masthead__menu-item"><a href="https://paritoshpr.github.io/publications/">Publications</a></li><li class="masthead__menu-item"><a href="https://paritoshpr.github.io/talks/">Talks</a></li><li class="masthead__menu-item"><a href="https://paritoshpr.github.io/files/CurriculumVitae_Aug2022_v1.pdf">CV</a></li></ul><ul class="hidden-links hidden"></ul></nav></div></div></div>
-
-[Portfolio](/pages/portfolio) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[Publication](/pages/publication) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[CV](/pages/cv) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Portfolio](/pages/portfolio) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[Publication](/pages/publication) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[CV](/pages/cv) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ***
 
