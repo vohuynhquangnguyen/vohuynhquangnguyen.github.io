@@ -16,7 +16,7 @@ My name is Quang-Nguyen Vo-Huynh, Lucius for short. I am an engineering and scie
 I am looking for opportunities to pursue a Ph.D. program in System Engineering and Computed Intelligence. My research interests are machine-vision-based and data-driven solutions to enable the smart manufacturing of semiconductor devices. I am proficient in Python, statistical analysis with JMP, data retrieval and processing with SQL, and data visualization with Matplotlib/Seaborn. Additionally, I excel in digital image processing with OpenCV, ML/DL model development, and deployment with scikit-learn and TensorFlow. These proficiencies are exemplarily demonstrated by the Data Science projects I have completed. More details about these projects can be found at my <a href = "/pages/portfolio">portfolio</a>.
 </div>
 
-<br></br>
+<br>
 
 ## My Prior Life!
 <div style="text-align: justify">
@@ -24,7 +24,7 @@ Before joining <b>Intel Products Vietnam</b>, I received my degree of M.Sc with 
 </div>
 
 
-<br></br>
+<br>
 
 ## My Prior prior Life!
 <div style="text-align: justify">
