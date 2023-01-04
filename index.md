@@ -11,11 +11,12 @@
 My name is Quang-Nguyen Vo-Huynh, Lucius for short. I am an engineering and science enthusiast with an industrial background in Computer Vision (CV), Artificial Intelligent (AI), Machine Learning (ML), and Deep Learning (DL). I am currently working at <b>Intel Products Vietnam</b>, which is an assembly/test manufacturing site belonging to <b>Intel Corp</b> located in Vietnam. My work at <b>Intel Products Vietnam</b> comprises: (1) the development and deployment of automated inspection solutions for downstream processes; (2) mentoring programming and ML methods for aspiring engineers as an associate of both Intel AI and Intel Image Analytics Centers of Excellence. Moreover, I am a contributor for <b>AI Vietnam</b>, which is one of the largest Vietnamese communities of AI enthusiasts.
 </div>
 
-
+<br>
 <div style="text-align: justify">
 I am looking for opportunities to pursue a Ph.D. program in System Engineering and Computed Intelligence. My research interests are machine-vision-based and data-driven solutions to enable the smart manufacturing of semiconductor devices. I am proficient in Python, statistical analysis with JMP, data retrieval and processing with SQL, and data visualization with Matplotlib/Seaborn. Additionally, I excel in digital image processing with OpenCV, ML/DL model development, and deployment with scikit-learn and TensorFlow. These proficiencies are exemplarily demonstrated by the Data Science projects I have completed. More details about these projects can be found at my <a href = "/pages/portfolio">portfolio</a>.
 </div>
 
+<br>
 <br>
 
 ## My Prior Life!
@@ -24,6 +25,7 @@ Before joining <b>Intel Products Vietnam</b>, I received my degree of M.Sc with 
 </div>
 
 
+<br>
 <br>
 
 ## My Prior prior Life!
