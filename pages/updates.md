@@ -11,3 +11,5 @@
 **Dec 26, 2022**: at Intel Corp, there are two most pretigious conferences namely the Intel Manufacturing Excellence Conference (IMEC) and Intel AI Everywhere Conference (IAIEC). For the 2023 AIEC, I submited three projects that I was leading to the conference, and I got all three accepted! This was truly a marvelous achievement not only for my team but also for Intel Vietnam as this was the first time Intel Vietnam participated an AI-related conference within the corporation.
 
 <img title = "Screenshots of the emails sent by the 2023 IAIEC organizers regarding their decisions of my submissions." src = "/images/intel2023AIE.png">
+
+__Screenshots of the emails sent by the 2023 IAIEC organizers regarding their decisions of my submissions.__
