@@ -11,4 +11,4 @@ I bid you welcome to my archive. Here you can find many of my works by topics.
 
 # Lectures
 ## Computer Vision
-1. [EEET2600 - Electronics, RMIT Vietnam] <a href = "/resources/how_to_make_friends_and_infer_people.pptx">How to make frames and infer people</a>
+1. [EEET2600 - Electronics, RMIT Vietnam] <a href = "/resources/how_to_make_friends_and_infer_people.pptx">How to make frames and infer people</a>. This guest lecture is inspired by the Introduction to Computer Vision material authored by Dr. [Jonathan Byrne](https://scholar.google.com/citations?user=2nfjKNgAAAAJ&hl=en) and I during my time as a member of Intel Image Analytics COE.
