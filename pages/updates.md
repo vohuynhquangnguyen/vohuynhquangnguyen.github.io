@@ -12,4 +12,4 @@
 
 <img title = "Screenshots of the emails sent by the 2023 IAIEC organizers regarding their decisions of my submissions." src = "/images/intel2023AIE.png">
 
-__Screenshots of the emails sent by the 2023 IAIEC organizers regarding their decisions of my submissions.__
+*Screenshots of the emails sent by the 2023 IAIEC organizers regarding their decisions of my submissions.*
