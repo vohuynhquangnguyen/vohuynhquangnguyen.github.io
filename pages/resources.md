@@ -17,7 +17,8 @@ I bid you welcome to my archive. Here you can find many of my works by topics.
 ## Mathematics
 Here you can find exercises (solutions included) to work on your Mathematics skills.
 
-| Calculus                   |   |
+| Topics                     |   |
 |----------------------------|---|
+| Calculus                   |   |
 | Linear Algebra             |   |
 | Probability and Statistics |   |
