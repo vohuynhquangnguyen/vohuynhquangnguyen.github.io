@@ -6,4 +6,5 @@ description: >
   <a href = 'https://www.linkedin.com/in/quangnguyen-vohuynh/'>View My Linkedin Profile</a>
   <p class="" style="margin: 4px;"></p>
   <a href = 'https://github.com/vohuynhquangnguyen'>View My GitHub Profile</a>
+show_downloads: true
 theme: jekyll-theme-minimal
