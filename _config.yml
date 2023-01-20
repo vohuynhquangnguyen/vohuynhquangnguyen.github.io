@@ -2,9 +2,5 @@ title: Lucius Vo-Huynh
 logo: "/images/logo.png?raw=true"
 description: > 
   Engineering and Science Enthusiast
-  <br></br>
-  <a href = 'https://www.linkedin.com/in/quangnguyen-vohuynh/'>View My Linkedin Profile</a>
-  <p class="" style="margin: 4px;"></p>
-  <a href = 'https://github.com/vohuynhquangnguyen'>View My GitHub Profile</a>
 show_downloads: true
 theme: jekyll-theme-minimal
