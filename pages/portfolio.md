@@ -8,3 +8,6 @@
 
 # Welcome, welcome!
 Here you can find a showcase of my projects.
+
+# Python
+1. [Installation Guide on how to setup Anaconda, Python, TensorFlow, OpenCV, etc. in Windows.]() 
