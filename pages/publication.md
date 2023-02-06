@@ -4,7 +4,6 @@
 [UPDATES](/pages/updates) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [CV](/pages/vohuynhquangnguyen_cv.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-
 ***
 
 # Hi There!
