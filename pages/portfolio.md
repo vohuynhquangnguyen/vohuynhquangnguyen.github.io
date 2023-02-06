@@ -10,4 +10,4 @@
 Here you can find a showcase of my projects.
 
 # Python
-1. [Installation Guide on how to setup Anaconda, Python, TensorFlow, OpenCV, etc. in Windows.]() 
+1. [Installation Guide on how to setup Anaconda, Python, TensorFlow, OpenCV, etc. in Windows.](https://github.com/vohuynhquangnguyen/vohuynhquangnguyen.github.io/blob/main/resources/tutorials/installation_guide/installation_guide.ipynb) 
