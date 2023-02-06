@@ -5,6 +5,7 @@
 [CV](/pages/vohuynhquangnguyen_cv.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ***
+**Feb 05, 2023**: I was admitted to the PhD program in Industrial Engineering and Management at Oklahoma State University, Stillwater (OSU)!
 
 **Jan 12, 2023**: in Late November 2022, I had been invited by Mr. Khuong Nguyen Vinh, who is currently an Associated Lecturer of RMIT Vietnam, to give a guest lecture about the application of optics or optoelectronics in real life. I presented the lecture in Jan 11, 2023. The lecture slides can be found [here](/resources/lectures/how_to_make_frames_and_infer_people.pptx).
 
