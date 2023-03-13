@@ -5,6 +5,13 @@
 [CV](/pages/vohuynhquangnguyen_cv.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ***
+**March 13, 2023**: After an arduous wait, I was finally admitted to the PhD program in Data Science and Engineering at Arizona State University, Ira A. Fulton School (ASU)!
+
+<img title = "Screenshot of the acceptance letter sent by the Graduate College of ASU." src = "/images/ASU2023PhD.png">
+
+*Screenshot of the acceptance letter sent by the Graduate College of ASU.*
+
+<br>
 
 **Feb 05, 2023**: I was admitted to the PhD program in Industrial Engineering and Management at Oklahoma State University, Stillwater (OSU)!
 
