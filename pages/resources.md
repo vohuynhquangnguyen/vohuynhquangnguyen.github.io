@@ -25,4 +25,4 @@ Here you can find exercises (solutions included) to work on your Mathematics ski
 
 # Tutorials & Workshop
 ## Python
-1. Installation Guide on how to setup Anaconda, Python, TensorFlow, OpenCV, etc. in Windows.[View with Jupyter nbiewer]() 
+1. Installation Guide on how to setup Anaconda, Python, TensorFlow, OpenCV, etc. in Windows.[View with Jupyter nbiewer](https://nbviewer.org/github/vohuynhquangnguyen/vohuynhquangnguyen.github.io/blob/main/resources/tutorials%26workshop/installation_guide/installation_guide.ipynb) 
