@@ -22,3 +22,7 @@ Here you can find exercises (solutions included) to work on your Mathematics ski
 | Calculus                   |   |
 | Linear Algebra             |   |
 | Probability and Statistics |   |
+
+# Tutorials & Workshop
+## Python
+1. [Installation Guide on how to setup Anaconda, Python, TensorFlow, OpenCV, etc. in Windows.](https://github.com/vohuynhquangnguyen/vohuynhquangnguyen.github.io/blob/main/resources/tutorials/installation_guide/installation_guide.ipynb) 
