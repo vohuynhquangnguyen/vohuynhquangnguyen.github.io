@@ -5,6 +5,11 @@
 [CV](/pages/vohuynhquangnguyen_cv.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ***
+**March 15, 2023**: I wrote a post about my experience of applying for a Ph.D. program in the US, which I hoped would serve as either a guide or at least a reference for those preparing for their Ph.D. program application. The post is available to read [here]().
+
+<br>
+
+
 **March 13, 2023**: After an arduous wait, I was finally admitted to the PhD program in Data Science and Engineering at Arizona State University, Ira A. Fulton School (ASU)!
 
 <img title = "Screenshot of the acceptance letter sent by the Graduate College of ASU." src = "/images/ASU2023PhD.png">
