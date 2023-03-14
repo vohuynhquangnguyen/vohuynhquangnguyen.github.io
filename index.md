@@ -13,7 +13,7 @@ I am currently pursuing a Ph.D. program in Industrial Engineering and Management
 
 Moreover, I am a contributor for <b>AI Vietnam</b> since June 2021, which is one of the largest Vietnamese communities of AI enthusiasts. The community was co-lead by Dr. Vinh Dinh Quang (currently tenuring at Vietnamese-German University) and Dr. Phuc Nguyen Hong (currently tenuring at Eastern International University).
 
-I love writing, a lot! Hence, you can find many posts where I share my experiences in how to learn English, how to start coding in several programming languages such as Python, how to prepare a good profile to apply for doctoral studies, as well as my commentaries <a href = "/pages/updates">updates</a>.
+I love writing, a lot! Hence, you can find many posts where I share my experiences in how to learn English, how to start coding in several programming languages such as Python, how to prepare a good profile to apply for doctoral studies, as well as my commentaries in the <a href = "/pages/updates">updates</a>.
 
 # My Prior Life!
 From April 2021 to December 2022, I worked at <b>Intel Products Vietnam</b>, which is an assembly/test manufacturing site belonging to <b>Intel Corp</b> located in Vietnam. My work at <b>Intel Products Vietnam</b> primarily comprised: (1) the development and deployment of automated inspection solutions for downstream processes; (2) mentoring programming and ML methods for aspiring engineers as an associate of both Intel AI and Intel Image Analytics Centers of Excellence. Additionally, I was a member of Intel NextGen (Vietnam branch), which is an initiative to streamline and enhance the integration experience of new hires.
