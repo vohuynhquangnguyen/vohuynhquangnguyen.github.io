@@ -5,7 +5,7 @@
 [CV](/pages/vohuynhquangnguyen_cv.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ***
-**March 15, 2023**: I wrote a post about my experience of applying for a Ph.D. program in the US, which I hoped would serve as either a guide or at least a reference for those preparing for their Ph.D. program application. The post is available to read [here](../updates/PhD_appllication/PhD_guide.html).
+**March 15, 2023**: I wrote a post about my experience of applying for a Ph.D. program in the US, which I hoped would serve as either a guide or at least a reference for those preparing for their Ph.D. program application. The post is available to read [here](../updates/how-to-prepare-a-profile-to-apply-for-doctoral-studies/how-to-prepare-a-profile-to-apply-for-doctoral-studies.html).
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <br>
 
-**Jan 12, 2023**: in Late November 2022, I had been invited by Mr. Khuong Nguyen Vinh, who is currently an Associated Lecturer of RMIT Vietnam, to give a guest lecture about the application of optics or optoelectronics in real life. I presented the lecture in Jan 11, 2023. The lecture slides can be found [here](/resources/lectures/how_to_make_frames_and_infer_people.pptx).
+**Jan 12, 2023**: in Late November 2022, I had been invited by Mr. Khuong Nguyen Vinh, who is currently an Associated Lecturer of RMIT Vietnam, to give a guest lecture about the application of optics or optoelectronics in real life. I presented the lecture in Jan 11, 2023. The lecture slides can be found [here](/resources/lectures/how-to-make-frames-and-infer-people.pptx).
 
 <br>
 
