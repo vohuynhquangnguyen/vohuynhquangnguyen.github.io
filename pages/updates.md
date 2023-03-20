@@ -2,10 +2,10 @@
 [PUBLICATION](/pages/publication) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [RESOURCES](/pages/resources) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [UPDATES](/pages/updates) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[CV](/pages/vohuynhquangnguyen_cv.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[CV](/pages/vohuynhquangnguyen-cv.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ***
-**March 15, 2023**: I wrote a post about my experience of applying for a Ph.D. program in the US, which I hoped would serve as either a guide or at least a reference for those preparing for their Ph.D. program application. The post is available to read [here](../updates/how-to-prepare-a-profile-to-apply-for-doctoral-studies/how-to-prepare-a-profile-to-apply-for-doctoral-studies.html).
+**March 15, 2023**: I wrote a post about my experience of applying for a Ph.D. program in the US, which I hoped would serve as either a guide or at least a reference for those preparing for their Ph.D. program application. The post is available to read [here].
 
 <br>
 

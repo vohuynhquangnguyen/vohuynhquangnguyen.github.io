@@ -2,7 +2,7 @@
 [PUBLICATION](/pages/publication) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [RESOURCES](/pages/resources) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [UPDATES](/pages/updates) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[CV](/pages/vohuynhquangnguyen_cv.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[CV](/pages/vohuynhquangnguyen-cv.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ***
 
