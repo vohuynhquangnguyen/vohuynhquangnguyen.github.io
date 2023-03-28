@@ -47,7 +47,7 @@ Additionally, I strongly recommend creating your own Linkedin profile. An impres
 
 Here is a detailed breakdown of these steps.
 
-### Step 1: Prepare for standardized tests.
+## Step 1: Prepare for standardized tests.
 There is a common reply from the Graduate College, who is responsible for reviewing your application, of every university you apply to whenever you inquire what is the standardized test's lowest scores for admission: "We don't require specific GRE/GMAT scores for admission. GRE/GMAT scores are reviewed alongside the rest of your application materials to determine admissibility." As far as I know, this reply is correct yet it does not paint a whole picture. Why? The reason lies in the cutoff rate: because many people also apply to the same university as you do, your application would not stand out if you do not have sufficiently high scores. In other words, you need to reside above the 75 percentile to have a chance of being admitted to the program. So, how can you accomplish this? Here is my recommendation according to my experience (I managed to get an overall score of 318 on the GRE, 700 on GMAT, and 8.0 on IELTS, respectively).
 1. **Before preparing for the standardized tests, you need to ensure that you have a good command of IELTS**: Since these tests are organized in English, you cannot take them without a proper command of the language. In case you do not, I strongly recommend first focusing on your grammar, then enriching your vocabulary, and finally improving your language skills (Listening, Reading, Writing, and Speaking).
 2. **Use authentic materials to prepare for the tests, and find a good tutor/mentor**: using authentic materials allow you to familiarize yourself with the tests in the most genuine manner. Moreover, a good tutor/mentor can provide valuable feedback so you can improve your performance, which is especially applicable for any writing-related and speaking-related tasks in the tests. 
@@ -56,10 +56,10 @@ There is a common reply from the Graduate College, who is responsible for review
 3. **Allow yourself enough time to prepare for the tests**: by doing so, you gain enough confidence to slay the beasts (and of course, you use up all available preparation materials, so nothing is wasted)! As for me, I spent 6 months preparing for the GRE, 2 months for GMAT, and 3 months for IELTS. 
 4. **Spend at least 2 hours a day to prepare for each test**: remember that active recall and spaced repetition are the keys to victory!
 
-### Step 2: Earn letters of recommendation.
+## Step 2: Earn letters of recommendation.
 Letters of recommendation (LORs) play a vital role in your application, which can significantly boost your chance of admission. Therefore, you must **prove yourself at work and/or at school** to secure these golden tickets! During my time as a Process and Equipment Engineer at Intel Vietnam, I always made a good impression on my manager by hitting my marks and demonstrating Intel's core values. As a result, my direct manager (Mr. Harley Fagan) and my both-mentor-and-colleague (Dr. Jonathan Byrne from Intel Ireland) gladly provided me with the LORs I needed. Moreover, I managed to stay in touch with my former supervisor at Aalto University (Dr. Petri Kärhä) and thesis advisor (Mr. Khuong Nguyen-Vinh), respectively. Hence, they also supported me with the LORs when I applied for Ph.D. programs.
 
-### Step 3: Learn how to write a statement of purpose, writing sample, and how to create a CV
+## Step 3: Learn how to write a statement of purpose, writing sample, and how to create a CV
 A captivating statement of purpose (SOP) as well as an excellent presentation of a CV can increase your chance of admission many-folds. Meanwhile, a good writing sample can demonstrate your capability as a researcher. So, how can we write such documents?
 1. You can use this structure proposed in [a post by Jordan](https://writeivy.com/structure-is-magic-a-guide-to-the-graduate-sop/) to plan your SOP. This structure uses the most iconic story (or archetype) as its template - a hero's journey. I used the very same structure to plan and write my SOP.
 2. For the writing sample, submit an article where you are one of its corresponding authors, preferably an article that is published in Q1 or Q2 journals. If you do not have such things at hand, you can submit your thesis.
