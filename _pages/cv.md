@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,20 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-# About Me
-======
+## About Me
 I am an engineering and science enthusiast having the core values of agility, responsibility, and teamwork. To fulfil my dream of becoming an influential researcher in my field, I always push myself out of my comfort zone to achieve my goals. During my free time, I devote wholeheartedly to my lifelong passions: liberal arts, and language.
 
 I can offer my solid understanding of Semiconductor Devices, Optical Metrology, Computer Vision, and Data Science thanks to the experiences I accumulated from my work placements and my studies. Besides, I possess an excellent eye for detail, a hard-working and responsible personality, and project management skills. These skills and experience should make me an ideal candidate for positions related to Semiconductor Design and Manufacturing, Data Analytics, and Machine Learning Operations.
 
-# Education
-======
+## Education
 * B.Tech. in Electronics, Metropolia University of Applied Sciences (Helsinki, Finland), 2014 - 2018
 * M.Sc. in Translational Engineering, Aalto University (Espoo, Finland), 2018 - 2020
 * Ph.D. in Industrial Engineering and Management, Oklahoma State University (Stillwater, USA), 2023 - 2028 (expected)
 
-# Work Experience
-======
+## Work Experience
 * April 2021 - December 2022: Process and Equipment Engineer - Deep Learning Scientist
   * Intel Products Vietnam (VNAT), located at Saigon Hi-Tech Park, Ho Chi Minh City, Vietnam
   * Supervisor: Harley L. Fagan
@@ -37,8 +34,7 @@ I can offer my solid understanding of Semiconductor Devices, Optical Metrology, 
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-# Skills
-======
+## Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -46,20 +42,17 @@ I can offer my solid understanding of Semiconductor Devices, Optical Metrology, 
   * Sub-skill 2.3
 * Skill 3
 
-# Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Talks
-======
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 # Teaching
-======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
