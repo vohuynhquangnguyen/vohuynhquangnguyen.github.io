@@ -51,7 +51,7 @@ I can offer my solid understanding of Semiconductor Devices, Optical Metrology, 
   * Supervisor: Petri Karha
   * Responsibilities:
     * Research: Assisted the research team in a project that was funded by EMPIR about the characterization and standardization of solar cell performance. The project was completed successfully, and the results were published as a conference paper for the Optics in Engineering Symposium (OIE2019) in the Optical Review journal, Springer.
-   * Miscellaneous: Assisted in the measurement, evaluation, and calibration of optical spectrometry devices.
+    * Miscellaneous: Assisted in the measurement, evaluation, and calibration of optical spectrometry devices.
 
 * March 2018 - November 2018: Electronics Manufacturing and Test Engineer  
   * Noiseless Acoustics Oy, located in Helsinki, Finland
@@ -66,13 +66,13 @@ I can offer my solid understanding of Semiconductor Devices, Optical Metrology, 
     * Project (Bachelor Thesis): Developed a system for Machine Safety for Construction Industry. The thesis was completed successfully and served as a precursor to creating one of MDS' first products.
     * Analysis: Conducted a study about the Safety of Excavators in the Finnish Construction Industry that helped the company to realize there was a potential market for safety systems in this industry.
 
+***
+
 # Skills
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: English (certified C2 level by IELTS).
+* Programming: Python (incl. scikit-learn, Pandas, Numpy, TensorFlow, and OpenCV); MATLAB; LabVIEW; Arduino; LaTEX.
+*  Knowledge: Computer Vision; Data Science; Semiconductor Engineering; Optical Metrology; Power Electronics.
+*  Soft-skills: Project Management; Event Planning and Coordination; Public Speaking.
 
 ## Publications
   <ul>{% for post in site.publications %}
