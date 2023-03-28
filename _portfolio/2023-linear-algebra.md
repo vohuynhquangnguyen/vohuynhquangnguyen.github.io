@@ -9,10 +9,10 @@ This section contains lecture notes as well as solutions to exercises of what I 
 2. The contents are based on:
     * The [Linear Algebra course](https://www.coursera.org/learn/machine-learning-linear-algebra/home/) offered by deeplearning.ai in Coursera.
     * The [Linear Algebra course](https://www.coursera.org/learn/linear-algebra-machine-learning/home/) offered by Imperial College London in Coursera.
-    * The two courses **MS-A001 Matrix Algebra** and **MS-C1342 Linear Algebra** taught at Aalto University, Finland.
-    * The two textbooks **Linear Algebra** by Jim Hefferon and **Mathematics for Machine Learning** by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.
+    * The two courses [MS-A001 Matrix Algebra](https://mycourses.aalto.fi/course/view.php?id=36345) and [MS-C1342 Linear Algebra](https://mycourses.aalto.fi/course/view.php?id=32610) taught at Aalto University, Finland.
+    * The two textbooks [Linear Algebra](https://hefferon.net/linearalgebra/) by Jim Hefferon and [Mathematics for Machine Learning](https://mml-book.github.io/) by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.
 
-### [Linear Algebra by deeplearng.ai](https://www.coursera.org/learn/machine-learning-linear-algebra/home/)
+<!-- ### [Linear Algebra by deeplearng.ai](https://www.coursera.org/learn/machine-learning-linear-algebra/home/)
 |           | Assignments | Slides |
 |-----------|-------------|
 | Week 1    |             |
@@ -50,4 +50,4 @@ Note: only selected exercises in the textbook are solved.
 | Week 2    |             |
 | Week 3    |             |
 | Week 4    |             |
-| Week 5    |             |
+| Week 5    |             | -->
