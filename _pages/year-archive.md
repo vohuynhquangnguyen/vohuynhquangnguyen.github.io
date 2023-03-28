@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Updates"
+title: ""
 author_profile: true
 redirect_from:
 ---
