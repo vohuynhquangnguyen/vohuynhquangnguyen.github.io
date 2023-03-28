@@ -1,7 +1,53 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Linear Algebra for Machine Learning and Data Science"
+excerpt: ""
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This section contains lecture notes as well as solutions to exercises of what I have learnt about linear algebra. Here is the disclaimer:
+1. Only the topics in linear algebra that is applicable for Machine Learning and Data Science are included in this folder.
+2. The contents are based on:
+    * The [Linear Algebra course](https://www.coursera.org/learn/machine-learning-linear-algebra/home/) offered by deeplearning.ai in Coursera.
+    * The [Linear Algebra course](https://www.coursera.org/learn/linear-algebra-machine-learning/home/) offered by Imperial College London in Coursera.
+    * The two courses **MS-A001 Matrix Algebra** and **MS-C1342 Linear Algebra** taught at Aalto University, Finland.
+    * The two textbooks **Linear Algebra** by Jim Hefferon and **Mathematics for Machine Learning** by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.
+
+### [Linear Algebra by deeplearng.ai](https://www.coursera.org/learn/machine-learning-linear-algebra/home/)
+|           | Assignments | Slides |
+|-----------|-------------|
+| Week 1    |             |
+| Week 2    |             |
+| Week 3    |             |
+| Week 4    |             |
+| Week 5    |             |
+
+### MS-A001 Matrix Algebra and MS-C1342 Linear Algebra by Aalto University
+|           | Assignments |
+|-----------|-------------|
+| Week 1    |             |
+| Week 2    |             |
+| Week 3    |             |
+| Week 4    |             |
+| Week 5    |             |
+
+
+### Linear Algebra by Jim Hefferon
+Note: only selected exercises in the textbook are solved.
+|           | Assignments |
+|-----------|-------------|
+| Week 1    |             |
+| Week 2    |             |
+| Week 3    |             |
+| Week 4    |             |
+| Week 5    |             |
+
+
+### **Mathematics for Machine Learning** by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
+Note: only selected exercises in the textbook are solved.
+|           | Assignments |
+|-----------|-------------|
+| Week 1    |             |
+| Week 2    |             |
+| Week 3    |             |
+| Week 4    |             |
+| Week 5    |             |
