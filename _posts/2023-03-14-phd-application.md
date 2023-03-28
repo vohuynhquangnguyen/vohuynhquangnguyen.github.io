@@ -1,12 +1,12 @@
 ---
-title: 'How to prepare a profile to apply for doctoral studies in the U.S.'
+title: 'How to prepare a profile to apply for doctoral studies'
 date: 2023-03-14
 permalink: /posts/2023/03/phd-application/
 tags:
   - Ph.D. Application
 ---
 
-This is a recollection of my own experience when applying for a doctoral study opportunity in the US. I hope it can serve as either a guide or a reference to help you prepare your profile and application for doctoral studies. This recollection is written in two languages: Vietnamese (display first) and English.
+This is a recollection of my own experience when applying for a doctoral study opportunity in the US. I hope it can serve as either a guide or a reference to help you prepare your profile and application for doctoral studies not only in the US but also other countries. This recollection is written in two languages: Vietnamese (display first) and English.
 
 # Vietnamese version
 
