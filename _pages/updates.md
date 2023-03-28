@@ -1,6 +1,7 @@
 ---
-permalink: /markdown/
+layout: archive
 title: ""
+permalink: /markdown/
 author_profile: true
 redirect_from: 
   - /markdown/
