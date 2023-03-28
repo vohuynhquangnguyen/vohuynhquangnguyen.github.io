@@ -1,9 +1,9 @@
 ---
-permalink: /updates/
+permalink: /markdown/
 title: ""
 author_profile: true
 redirect_from: 
-  - /updates/
+  - /markdown
 ---
 
 **March 15, 2023**: I wrote a post about my experience of applying for a Ph.D. program in the US, which I hoped would serve as either a guide or at least a reference for those preparing for their Ph.D. program application. The post is available to read [here](../_posts/2023-03-14-phd-application.md).
