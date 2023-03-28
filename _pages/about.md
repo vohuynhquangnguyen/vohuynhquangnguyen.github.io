@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Vo Huynh Quang Nguyen's Homepage."
+title: ""
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
