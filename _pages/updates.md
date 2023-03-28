@@ -1,6 +1,6 @@
 ---
 layout: archive 
-title: "" 
+title: "Updates" 
 permalink: /markdown/ 
 author_profile: true 
 ---

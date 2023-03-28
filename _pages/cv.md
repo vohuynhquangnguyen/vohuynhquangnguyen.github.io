@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,21 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-# About Me
+## About Me
 I am an engineering and science enthusiast having the core values of agility, responsibility, and teamwork. To fulfil my dream of becoming an influential researcher in my field, I always push myself out of my comfort zone to achieve my goals. During my free time, I devote wholeheartedly to my lifelong passions: liberal arts, and language.
 
 I can offer my solid understanding of Semiconductor Devices, Optical Metrology, Computer Vision, and Data Science thanks to the experiences I accumulated from my work placements and my studies. Besides, I possess an excellent eye for detail, a hard-working and responsible personality, and project management skills. These skills and experience should make me an ideal candidate for positions related to Semiconductor Design and Manufacturing, Data Analytics, and Machine Learning Operations.
 
 ***
 
-# Education
+## Education
 * B.Tech. in Electronics, Metropolia University of Applied Sciences (Helsinki, Finland), 2014 - 2018
 * M.Sc. in Translational Engineering, Aalto University (Espoo, Finland), 2018 - 2020
 * Ph.D. in Industrial Engineering and Management, Oklahoma State University (Stillwater, USA), 2023 - 2028 (expected)
 
 *** 
 
-# Work Experience
+## Work Experience
 * April 2021 - December 2022: Process and Equipment Engineer - Deep Learning Scientist
   * Intel Products Vietnam (VNAT), located in Saigon Hi-Tech Park, Ho Chi Minh City, Vietnam
   * Supervisor: Harley L. Fagan
@@ -68,15 +68,15 @@ I can offer my solid understanding of Semiconductor Devices, Optical Metrology, 
 
 ***
 
-# Skills
+## Skills
 * Languages: English (certified C2 level by IELTS).
 * Programming: Python (incl. scikit-learn, Pandas, Numpy, TensorFlow, and OpenCV); MATLAB; LabVIEW; Arduino; LaTEX.
-*  Knowledge: Computer Vision; Data Science; Semiconductor Engineering; Optical Metrology; Power Electronics.
-*  Soft-skills: Project Management; Event Planning and Coordination; Public Speaking.
+* Knowledge: Computer Vision; Data Science; Semiconductor Engineering; Optical Metrology; Power Electronics.
+* Soft-skills: Project Management; Event Planning and Coordination; Public Speaking.
 
 ***
 
-# Publications
+## Publications
 * Book chapter:
   * Case study: Utilising of Deep Learning Models for Fault Detection and Diagnosis of Photovoltaic Modules to Improve Solar Energy Constructions' O&M Activities Quality. Khuong Nguyen-Vinh, Huynh Vo, Khoa Nguyen-Minh, Minh Hoang. Information Systems Research in Vietnam (Second Volume). Springer; 2023. Accepted for publishing. Link to the book is [here](https://infosys-vietnam-book.github.io/).
 * Articles:
@@ -87,7 +87,7 @@ I can offer my solid understanding of Semiconductor Devices, Optical Metrology, 
 
 *** 
 
-# Teaching
+## Teaching
 * March 2019 - June 2019: Teaching and Exercises Assistant 
   * Aalto University, located in Espoo, Finland
   * Training: Pedagogy Training for Teaching Assistant.
