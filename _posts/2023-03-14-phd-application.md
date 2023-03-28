@@ -8,8 +8,9 @@ tags:
 
 This is a recollection of my own experience when applying for a doctoral study opportunity in the US. I hope it can serve as either a guide or a reference to help you prepare your profile and application for doctoral studies not only in the US but also other countries. This recollection is written in two languages: Vietnamese (display first) and English.
 
-# Vietnamese version
+***
 
+# Vietnamese version
 Chung quy lại thì bản thân mình thấy việc chuẩn bị một hồ sơ có sức hút lớn với Bộ Phận Giáo Vụ (n/v: Graduate College) của các trường gồm có 3 bước chính:
 1. Ôn tập thật kĩ lưỡng để đạt kết quả cao cho những kì thi của các chứng chỉ bắt buộc khi làm hồ sơ đăng kí học (bao gồm GRE và IELTS).
 2. Chuẩn bị những lá thư giới thiệu (n/v: reference letter) 'cực chất' từ quản lý/giáo viên hướng dẫn hiện tại hoặc trước đây của bạn.
