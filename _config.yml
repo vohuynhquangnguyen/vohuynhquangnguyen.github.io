@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Lucius Vo"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "Doctoral Candidate|Data Scientist|Computer Vision Researcher"
   location         : "Ho Chi Minh City, Vietnam"
   employer         : "Oklahoma State University"
@@ -120,6 +120,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
