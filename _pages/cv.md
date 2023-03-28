@@ -74,16 +74,19 @@ I can offer my solid understanding of Semiconductor Devices, Optical Metrology, 
 *  Knowledge: Computer Vision; Data Science; Semiconductor Engineering; Optical Metrology; Power Electronics.
 *  Soft-skills: Project Management; Event Planning and Coordination; Public Speaking.
 
-## Publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-## Talks
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+***
+
+# Publications
+* Book chapter:
+  * Case study: Utilising of Deep Learning Models for Fault Detection and Diagnosis of Photovoltaic Modules to Improve Solar Energy Constructions' O&M Activities Quality. Khuong Nguyen-Vinh, Huynh Vo, Khoa Nguyen-Minh, Minh Hoang. Information Systems Research in Vietnam (Second Volume). Springer; 2023. Accepted for publishing. Link to the book is [here](https://infosys-vietnam-book.github.io/).
+* Articles:
+  * Measurement setup for differential spectral responsivity of solar cells. Petri Karha, Hans Baumgartner, Janne Askola, Kasperi Kylmanen, Benjamin Oksanen, Kinza Maham, Huynh Vo, and Erkki Ikonen. Optical Review, Volume 27, p. 195–204. Springer; 2020. Link to the article is [here](https://link.springer.com/article/10.1007/s10043-020-00584-x).
+* Theses:
+  * Safety System in Construction Industry: A protection system preventing fatal injuries by excavators in construction sites. Bachelor Thesis. Huynh Vo. Open Repository of the Universities of Applied Sciences; 2018. Link to the thesis is [here](https://www.theseus.fi/handle/10024/139396).
+  *  Realization and Verification of Deep Learning models for Fault Detection and Diagnosis of Photovoltaic Modules. Master Thesis. Huynh Vo. Aalto Learning Center; 2020. Link to the thesis is [here](https://aaltodoc.aalto.fi/handle/123456789/102461).  
+
+*** 
+
 # Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
