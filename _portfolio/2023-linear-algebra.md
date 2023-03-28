@@ -1,10 +1,10 @@
 ---
 title: "Linear Algebra for Machine Learning and Data Science"
-excerpt: ""
+excerpt: "This section contains lecture notes as well as solutions to exercises of my self-learning about linear algebra from online courses and textbooks."
 collection: portfolio
 ---
 
-This section contains lecture notes as well as solutions to exercises of what I have learnt about linear algebra. Here is the disclaimer:
+This section contains lecture notes as well as solutions to exercises of my self-learning about linear algebra from online courses and textbooks. Here is the disclaimer:
 1. Only the topics in linear algebra that is applicable for Machine Learning and Data Science are included in this folder.
 2. The contents are based on:
     * The [Linear Algebra course](https://www.coursera.org/learn/machine-learning-linear-algebra/home/) offered by deeplearning.ai in Coursera.
