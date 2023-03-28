@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Lucius Vo"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Doctoral Candidate|Data Scientist|Computer Vision Researcher"
   location         : "Ho Chi Minh City, Vietnam"
   employer         : "Oklahoma State University"
