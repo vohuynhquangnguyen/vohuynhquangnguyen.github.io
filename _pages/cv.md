@@ -88,7 +88,14 @@ I can offer my solid understanding of Semiconductor Devices, Optical Metrology, 
 *** 
 
 # Teaching
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* March 2019 - June 2019: Teaching and Exercises Assistant 
+  * Aalto University, located in Espoo, Finland
+  * Training: Pedagogy Training for Teaching Assistant.
+  * Courses: ELEC-E5710 Sensors and Measurement Methods by Dr. Petri Karha.
 
+* January 2022 - June 2022: Master Thesis Advisor
+  * Master Thesis: Crown-of-Thorns Starfish (COTS) detection by state-of-the-art YOLOv5, authored by Phuong Truong.
+
+* January 2023: Visiting Lecturer
+  * RMIT University Vietnam, located in Ho Chi Minh City, Vietnam
+  * Guest Lecture: Optics/Optoelectronic Applications in Reality - How to make frames and infer people.
