@@ -70,7 +70,7 @@ I can offer my solid understanding of Semiconductor Devices, Optical Metrology, 
 
 ## Skills
 * Languages: English (certified C2 level by IELTS).
-* Programming: Python (incl. scikit-learn, Pandas, Numpy, TensorFlow, and OpenCV); MATLAB; LabVIEW; Arduino; LaTEX.
+* Programming & Softwares: Python (incl. scikit-learn, Pandas, Numpy, TensorFlow, and OpenCV); MATLAB; LabVIEW; Arduino; LaTEX; SAS JMP.
 * Knowledge: Computer Vision; Data Science; Semiconductor Engineering; Optical Metrology; Power Electronics.
 * Soft-skills: Project Management; Event Planning and Coordination; Public Speaking.
 
