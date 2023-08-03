@@ -14,14 +14,12 @@ I am an engineering and science enthusiast having the core values of agility, re
 
 I can offer my solid understanding of Semiconductor Devices, Optical Metrology, Computer Vision, and Data Science thanks to the experiences I accumulated from my work placements and my studies. Besides, I possess an excellent eye for detail, a hard-working and responsible personality, and project management skills. These skills and experience should make me an ideal candidate for positions related to Semiconductor Design and Manufacturing, Data Analytics, and Machine Learning Operations.
 
-***
 
 ## Education
 * B.Tech. in Electronics, Metropolia University of Applied Sciences (Helsinki, Finland), 2014 - 2018
 * M.Sc. in Translational Engineering, Aalto University (Espoo, Finland), 2018 - 2020
 * Ph.D. in Industrial Engineering and Management, Oklahoma State University (Stillwater, USA), 2023 - 2028 (expected)
-
-*** 
+ 
 
 ## Work Experience
 * April 2021 - December 2022: Process and Equipment Engineer - Deep Learning Scientist
@@ -66,15 +64,12 @@ I can offer my solid understanding of Semiconductor Devices, Optical Metrology, 
     * Project (Bachelor Thesis): Developed a system for Machine Safety for Construction Industry. The thesis was completed successfully and served as a precursor to creating one of MDS' first products.
     * Analysis: Conducted a study about the Safety of Excavators in the Finnish Construction Industry that helped the company to realize there was a potential market for safety systems in this industry.
 
-***
 
 ## Skills
 * Languages: English (certified C2 level by IELTS).
 * Programming & Softwares: Python (incl. scikit-learn, Pandas, Numpy, TensorFlow, and OpenCV); MATLAB; LabVIEW; Arduino; LaTEX; SAS JMP.
 * Knowledge: Computer Vision; Data Science; Semiconductor Engineering; Optical Metrology; Power Electronics.
 * Soft-skills: Project Management; Event Planning and Coordination; Public Speaking.
-
-***
 
 ## Publications
 * Book chapter:
@@ -84,8 +79,7 @@ I can offer my solid understanding of Semiconductor Devices, Optical Metrology, 
 * Theses:
   * Safety System in Construction Industry: A protection system preventing fatal injuries by excavators in construction sites. Bachelor Thesis. Huynh Vo. Open Repository of the Universities of Applied Sciences; 2018. Link to the thesis is [here](https://www.theseus.fi/handle/10024/139396).
   *  Realization and Verification of Deep Learning models for Fault Detection and Diagnosis of Photovoltaic Modules. Master Thesis. Huynh Vo. Aalto Learning Center; 2020. Link to the thesis is [here](https://aaltodoc.aalto.fi/handle/123456789/102461).  
-
-*** 
+ 
 
 ## Teaching
 * March 2019 - June 2019: Teaching and Exercises Assistant 
