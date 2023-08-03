@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "English Self-learning"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Online Platform"
+date: 2023-07-01
+location: "Ho Chi Minh City, Vietnam"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
