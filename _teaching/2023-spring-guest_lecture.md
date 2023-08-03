@@ -2,7 +2,7 @@
 title: "Optics/Optoelectronics - How to make frames and infer people"
 collection: teaching
 type: "Guest Lecture - Undergraduate Course"
-permalink: /teaching/2023-12-guest-lecture
+permalink: /teaching/2023-spring-guest_lecture
 venue: "RMIT University Vietnam, Department of Electrical Engineering"
 date: 2023-01-12
 location: "Ho Chi Minh City, Vietnam"
