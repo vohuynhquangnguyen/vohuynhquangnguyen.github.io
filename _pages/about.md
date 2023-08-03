@@ -17,7 +17,6 @@ Moreover, I am a contributor for AI Vietnam since June 2021, which is one of the
 
 I love writing a lot! Hence, you can find many posts where I share my experiences in how to learn English, how to start coding in several programming languages such as Python, how to prepare a good profile to apply for doctoral studies, as well as my commentaries on this [page](../_pages/year-archive.md).
 
-***
 
 ## My Prior Life!
 From April 2021 to December 2022, I worked at Intel Products Vietnam, which is an assembly/test manufacturing site belonging to Intel Corp located in Vietnam. My work at Intel Products Vietnam primarily comprised: (1) the development and deployment of automated inspection solutions for downstream processes; (2) mentoring programming and ML methods for aspiring engineers as an associate of both Intel AI and Intel Image Analytics Centers of Excellence. Additionally, I was a member of Intel NextGen (Vietnam branch), which is an initiative to streamline and enhance the integration experience of new hires.
@@ -26,7 +25,6 @@ Before joining Intel Products Vietnam, I had the blessing to join First Solar Vi
 
 Before working at Intel Products Vietnam and First Solar Vietnam, I received my degree of M.Sc with a master <a href = "https://aaltodoc.aalto.fi/handle/123456789/102461">thesis</a> in ML/DL from Aalto University, Finland in December 2020. At Aalto University, I worked with <a href = "https://research.aalto.fi/en/persons/petri-k%C3%A4rh%C3%A4">Dr. Petri Kärhä</a> and <a href = "https://research.aalto.fi/en/persons/erkki-ikonen">Prof. Erkki Ikonen</a> on developing a measurement setup to determine the differential spectral responsivity of solar cells. We also worked, albeit for a limited time, on an estimation method to include uncertainties of spectral mismatch in solar cell calibration. 
 
-***
 
 ## My Prior prior Life!
 Before starting my M.Sc. at Aalto University in Autumn 2018, I went to Helsinki Metropolia University of Applied Science, Finland where I did my bachelor's in Electronics. As an undergraduate student, I did some research in wireless sensor networks under Dr. Matti Fisher (currently retired).
