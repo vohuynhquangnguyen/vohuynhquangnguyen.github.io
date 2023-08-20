@@ -1,7 +1,7 @@
 ---
 title: 'How to prepare a profile to apply for doctoral studies'
 date: 2023-03-14
-permalink: /posts/2023/03/phd-application
+permalink: /posts/2023/03/phd-application/
 tags:
   - Ph.D. Application
 ---
