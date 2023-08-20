@@ -12,9 +12,9 @@ This note is part of my collection of proposed lessons for self-learning English
 
 # English version 
 The IELTS Academic Writing test is meticulously designed to evaluate a wide range of writing skills, including how well you
-    1. write a response appropriately
-    2. organize ideas
-    3. use a range of vocabulary and grammar accurately
+  * write a response appropriately
+  * organize ideas
+  * use a range of vocabulary and grammar accurately
 
 Here is a summary of the information you need to know about the Academic Writing test:
 1. Format: Write in a formal style in the IELTS Academic Writing test.
