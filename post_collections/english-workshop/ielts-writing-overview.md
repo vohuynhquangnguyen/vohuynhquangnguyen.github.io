@@ -1,3 +1,11 @@
+---
+title: "An overview of the IELTS Academic Writing Test"
+date: 2023-07-01
+permalink: /post_collections/english-workshop/ielts-writing-overview.md
+tags:
+  - English Learning
+---
+
 <aside>
 💡 This note is based on the Official Guidance of IELTS Academic Writing. You can find further information [here](https://www.ielts.org/for-test-takers/test-format).
 
