@@ -13,6 +13,10 @@ Here is my proposed syllabus for self-studying English in a structured and effec
 
 Writing
 ======
+1. [An overview of the IELTS Academic Writing Test](../_posts/2023-07-01-english-workshop/ielts-writing-overview.md)
+2. How to get a Band 7.0+ for the IELTS Academic Writing Test
+    * Introducing the Graph
+    * Language of Changes
 
 Reading
 ======
