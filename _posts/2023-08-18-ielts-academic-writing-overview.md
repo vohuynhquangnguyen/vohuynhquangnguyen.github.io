@@ -43,7 +43,7 @@ Bài kiểm tra Viết Học Thuật (Academic Writing) của kì thi IELTS đư
 Sau đây là những thông tin chung mà bạn cần biết về bài kiểm tra này:
   1. Hình thức thi: Bài thi sẽ yêu cầu bạn viết theo phong cách học thuật qua việc trả lời hai Nhiệm Vụ (Task) sau đây.
     * Trong Task 1, bạn sẽ được trình bày một đồ thị, bảng, biểu đồ hoặc sơ đồ. Bạn sẽ được yêu cầu mô tả, tóm tắt hoặc giải thích thông tin bằng lời văn của bản thân bạn. Điều này có thể liên quan đến việc mô tả và giải thích dữ liệu, mô tả các giai đoạn của một quá trình/cách hoạt động của một đối tượng hoặc sự kiện.
-      * Trong Task 2, bạn sẽ được yêu cầu viết một bài luận để đáp lại một quan điểm, tranh luận hoặc vấn đề. Các quan điểm hay vấn đề ở Task 2 được lựa chọn dựa theo tiêu chí dễ hiểu và thú vị đối với thí sinh.
+    * Trong Task 2, bạn sẽ được yêu cầu viết một bài luận để đáp lại một quan điểm, tranh luận hoặc vấn đề. Các quan điểm hay vấn đề ở Task 2 được lựa chọn dựa theo tiêu chí dễ hiểu và thú vị đối với thí sinh.
   2. Thời gian: Bài kiểm tra sẽ kéo dài 60 phút.
     * Về nguyên tắc chung, bạn sẽ phải dành 20 phút cho Task 1 và 40 phút cho Task 2.
     * Bạn sẽ cần quản lý thời gian của riêng mình, vì vậy hãy chắc chắn rằng bạn chuyển sang Task 2 ngay sau khi bài thi đã được diễn ra 20 phút.
