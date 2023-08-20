@@ -11,8 +11,9 @@ Here is my proposed syllabus for self-studying English in a structured and effec
 * Most of the lessons here are created with the intention of preparing the readers for IELTS. However, even those not preparing for IELTS may find the lessons useful.
 * The lessons are written in both English and Vietnamese, making it a great reference for Vietnamese learners struggling with the language.
 
-Writing
-======
+# Writing
+
+## IELTS Academic Writing
 1. [An overview of the IELTS Academic Writing Test](../_posts/2023-07-01-english-workshop/ielts-writing-overview.md)
 2. How to get a Band 7.0+ for the IELTS Academic Writing Test
     * Introducing the Graph
