@@ -2,7 +2,7 @@
 title: "Measurement setup for differential spectral responsivity of solar cells"
 collection: publications
 permalink: /publication/2020-02-12-measurement-setup
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'A setup for measuring differential spectral responsivities of unifacial and bifacial solar cells under bias light conditions.'
 date: '2022-02-12'
 venue: 'Optical Review'
 paperurl: 'https://link.springer.com/article/10.1007/s10043-020-00584-x'
@@ -16,5 +16,4 @@ We have developed a setup for measuring differential spectral responsivities of 
 The contents of this article can be accessed [here](https://link.springer.com/article/10.1007/s10043-020-00584-x)
 
 # Citation
-
 Recommended citation: Kärhä, P., Baumgartner, H., Askola, J. et al. Measurement setup for differential spectral responsivity of solar cells. Opt Rev 27, 195–204 (2020). https://doi.org/10.1007/s10043-020-00584-x
