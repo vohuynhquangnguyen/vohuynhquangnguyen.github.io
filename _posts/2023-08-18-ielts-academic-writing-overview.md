@@ -7,9 +7,7 @@ tags:
   - IELTS Academic Test
 ---
 
-<aside>
 This note is part of my collection of proposed lessons for self-learning English. The contents of this note are based on the Official Guidance of IELTS Academic Writing. Further information about the IELTS Academic Writing Test can be found [here](https://www.ielts.org/for-test-takers/test-format).
-</aside>
 
 # English version 
 1. The IELTS Academic Writing test is meticulously designed to evaluate a wide range of writing skills, including how well you
