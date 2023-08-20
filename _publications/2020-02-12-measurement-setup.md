@@ -14,6 +14,3 @@ We have developed a setup for measuring differential spectral responsivities of 
 
 # Contents
 The contents of this article can be accessed [here](https://link.springer.com/article/10.1007/s10043-020-00584-x)
-
-# Citation
-Recommended citation: Kärhä, P., Baumgartner, H., Askola, J. et al. Measurement setup for differential spectral responsivity of solar cells. Opt Rev 27, 195–204 (2020). https://doi.org/10.1007/s10043-020-00584-x
