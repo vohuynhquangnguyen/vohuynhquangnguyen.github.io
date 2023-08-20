@@ -1,31 +1,50 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Ahoy There!
-My name is Vo Huynh Quang Nguyen, or Lucius for short. I am an engineering and science enthusiast with an industrial background in Computer Vision (CV), Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL).
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-I am currently pursuing a Ph.D. program in Industrial Engineering and Management at Oklahoma State University, Stillwater (OSU). My research interests are primarily data science, computed intelligence, and computational architecture with a focus on machine-vision-based and data-driven solutions to enable the smart manufacturing of semiconductor devices. I am proficient in Python, statistical analysis with [SAS JMP](https://www.jmp.com/en_us/home.html), data retrieval and processing with [SQL](https://www.iso.org/standard/63555.html), and data visualization with [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/). I also excel in digital image processing with [OpenCV](https://opencv.org/), ML/DL model development, and deployment with [scikit-learn](https://scikit-learn.org/stable/index.html#) and [TensorFlow](https://www.tensorflow.org/). These proficiencies are exemplarily demonstrated by the Data Science projects I have completed as well as the guest lectures I have given at various universities. More details about these projects can be found at my [portfolio](../_pages/portfolio.md). Feel free to check this [page](../_pages/teaching.md) if you are interested in my lectures, tutorials, and workshops.
+A data-driven personal website
+======
+Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Moreover, I am a contributor for AI Vietnam since June 2021, which is one of the largest Vietnamese communities of AI enthusiasts. The community was co-led by Dr. Vinh Dinh Quang (currently tenuring at Vietnamese-German University) and Dr. Phuc Nguyen Hong (currently tenuring at Eastern International University).
+Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-I love writing a lot! Hence, you can find many posts where I share my experiences in how to learn English, how to start coding in several programming languages such as Python, how to prepare a good profile to apply for doctoral studies, as well as my commentaries on this [page](../_pages/year-archive.md).
+Getting started
+======
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
 
+Site-wide configuration
+------
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-## My Prior Life!
-From April 2021 to December 2022, I worked at Intel Products Vietnam, which is an assembly/test manufacturing site belonging to Intel Corp located in Vietnam. My work at Intel Products Vietnam primarily comprised: (1) the development and deployment of automated inspection solutions for downstream processes; (2) mentoring programming and ML methods for aspiring engineers as an associate of both Intel AI and Intel Image Analytics Centers of Excellence. Additionally, I was a member of Intel NextGen (Vietnam branch), which is an initiative to streamline and enhance the integration experience of new hires.
+Create content & metadata
+------
+For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-Before joining Intel Products Vietnam, I had the blessing to join First Solar Vietnam from November 2020 to April 2021 as an engineering trainee to work on a project in commonality analysis for defects generated by laser scribing processes on thin-film solar panels.
+**Markdown generator**
 
-Before working at Intel Products Vietnam and First Solar Vietnam, I received my degree of M.Sc with a master <a href = "https://aaltodoc.aalto.fi/handle/123456789/102461">thesis</a> in ML/DL from Aalto University, Finland in December 2020. At Aalto University, I worked with <a href = "https://research.aalto.fi/en/persons/petri-k%C3%A4rh%C3%A4">Dr. Petri Kärhä</a> and <a href = "https://research.aalto.fi/en/persons/erkki-ikonen">Prof. Erkki Ikonen</a> on developing a measurement setup to determine the differential spectral responsivity of solar cells. We also worked, albeit for a limited time, on an estimation method to include uncertainties of spectral mismatch in solar cell calibration. 
+I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
+How to edit your site's GitHub repository
+------
+Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-## My Prior prior Life!
-Before starting my M.Sc. at Aalto University in Autumn 2018, I went to Helsinki Metropolia University of Applied Science, Finland where I did my bachelor's in Electronics. As an undergraduate student, I did some research in wireless sensor networks under Dr. Matti Fisher (currently retired).
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
+For more info
+------
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
