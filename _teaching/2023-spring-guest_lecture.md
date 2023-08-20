@@ -1,5 +1,5 @@
 ---
-title: "Optics/Optoelectronics - How to make frames and infer people"
+title: "How to make frames and infer people - A lecture in Optics and Computer Vision"
 collection: teaching
 type: "Guest Lecture - Undergraduate Course"
 permalink: /teaching/2023-spring-guest_lecture
