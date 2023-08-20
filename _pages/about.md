@@ -28,4 +28,3 @@ Before working at Intel Products Vietnam and First Solar Vietnam, I received my 
 
 ## My Prior prior Life!
 Before starting my M.Sc. at Aalto University in Autumn 2018, I went to Helsinki Metropolia University of Applied Science, Finland where I did my bachelor's in Electronics. As an undergraduate student, I did some research in wireless sensor networks under Dr. Matti Fisher (currently retired).
-
