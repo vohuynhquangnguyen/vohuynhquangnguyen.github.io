@@ -1,7 +1,7 @@
 ---
 title: "How to learn English in an effective manner"
 date: 2023-07-01
-permalink: /posts/2023/07/english-workshop.md
+permalink: /posts/2023/07/english-workshop
 tags:
   - English Learning
 ---
