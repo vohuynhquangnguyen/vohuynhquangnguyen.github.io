@@ -1,11 +1,9 @@
 ---
-title: "How to self-study English"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "Online Platform"
+title: "How to learn English in an effective manner"
 date: 2023-07-01
-location: "Ho Chi Minh City, Vietnam"
+permalink: /posts/2023/07/phd-application/
+tags:
+  - English Learning
 ---
 
 Here is my proposed syllabus for self-studying English in a structured and effective manner. Please note that:
@@ -13,12 +11,11 @@ Here is my proposed syllabus for self-studying English in a structured and effec
 * Most of the lessons here are created with the intention of preparing the readers for IELTS. However, even those not preparing for IELTS may find the lessons useful.
 * The lessons are written in both English and Vietnamese, making it a great reference for Vietnamese learners struggling with the language.
 
-
-Heading 1
+Writing
 ======
 
-Heading 2
+Reading
 ======
 
-Heading 3
+Speaking
 ======
