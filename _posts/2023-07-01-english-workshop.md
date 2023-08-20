@@ -26,7 +26,7 @@ The list of lessions are as follows:
 
 ## Writing
 ## IELTS Academic Writing
-1. [An overview of the IELTS Academic Writing Test](../_posts/2023-08-18-ielts-academic-writing-overview.md)
+1. [An overview of the IELTS Academic Writing Test](/posts/2023/08/ielts-academic-writing-overview/)
 2. How to get a Band 7.0+ for the IELTS Academic Writing Test
     * Introducing the Graph
     * Language of Changes
