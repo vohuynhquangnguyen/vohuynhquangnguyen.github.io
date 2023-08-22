@@ -30,6 +30,7 @@ You can consult the following questions, which have been structured according to
     
 
 3. Sau đây là một số những cách diễn đạt hữu ích các bạn có thể thử để chuẩn bị cho bài giới thiệu bản thân.
+
 Here are some useful expressions you can try when planning your introduction:
 * Introducing name and age (Giới thiệu tên tuổi):
     * My full name is [my full name].
@@ -47,6 +48,7 @@ Here are some useful expressions you can try when planning your introduction:
     * I consider myself as a [personality] person.
 
 4. Danh sách những từ hay được dùng để mô tả tính cách của bản thân hay một người nào đó.
+
 Here is the list of commonly used words to describe a person's personalities:
 * easy-going: dễ tính/ dễ chịu
 * frank: thẳng thắn
