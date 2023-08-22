@@ -9,13 +9,7 @@ tags:
 
 This note is part of my collection of proposed lessons for self-learning English. The contents of this note are based on my own experience preparing for both the IELTS Academic Test and the Duolingo English Test (DET). This note is written in both English and Vietnamese.
 
-1. Một trong những cách tốt nhất để giới thiệu bản thân là sử dụng hệ thống 5W1H để các bạn có thể tự chuẩn bị bài giới thiệu của các bạn.
-
-One of the best ways to introduce yourself is by using the 5W1H system to plan your introduction. 
-    
-2. Bạn có thể tham khảo các câu hỏi sau đây, được sắp xếp dựa trên hệ thống 5W1H, để có thể chuẩn bị bài giới thiệu bản thân.
-
-You can consult the following questions, which have been structured according to the 5W1H system, to plan your introduction:
+Một trong những cách tốt nhất để giới thiệu bản thân là sử dụng hệ thống 5W1H để các bạn có thể tự chuẩn bị bài giới thiệu của các bạn. Bạn có thể tham khảo các câu hỏi sau đây, được sắp xếp dựa trên hệ thống 5W1H, để có thể chuẩn bị bài giới thiệu bản thân (ENG: One of the best ways to introduce yourself is by using the 5W1H system to plan your introduction. You can consult the following questions, which have been structured according to the 5W1H system, to plan your introduction).
     
 | Question (Câu Hỏi) | Sample Answer (Câu Trả Lời Mẫu) |
 | --- | --- |
@@ -29,9 +23,8 @@ You can consult the following questions, which have been structured according to
 | How can I describe about myself (Personality) | I believe I am an empathetic, hard-working, and responsible person.  |
     
 
-3. Sau đây là một số những cách diễn đạt hữu ích các bạn có thể thử để chuẩn bị cho bài giới thiệu bản thân.
+Sau đây là một số những cách diễn đạt hữu ích các bạn có thể thử để chuẩn bị cho bài giới thiệu bản thân (ENG: Here are some useful expressions you can try when planning your introduction):
 
-Here are some useful expressions you can try when planning your introduction:
 * Introducing name and age (Giới thiệu tên tuổi):
     * My full name is [my full name].
     * I am in my [age numbers].
@@ -47,9 +40,7 @@ Here are some useful expressions you can try when planning your introduction:
 * Introducing personalities: (Giới thiệu tính cách):
     * I consider myself as a [personality] person.
 
-4. Danh sách những từ hay được dùng để mô tả tính cách của bản thân hay một người nào đó.
-
-Here is the list of commonly used words to describe a person's personalities:
+Sau đây là danh sách những từ hay được dùng để mô tả tính cách của bản thân hay một người nào đó (ENG: Here is the list of commonly used words to describe a person's personalities):
 * easy-going: dễ tính/ dễ chịu
 * frank: thẳng thắn
 * humorous: hài hước
