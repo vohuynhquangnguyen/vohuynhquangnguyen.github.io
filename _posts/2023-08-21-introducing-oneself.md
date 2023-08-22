@@ -9,6 +9,8 @@ tags:
 
 This note is part of my collection of proposed lessons for self-learning English. The contents of this note are based on my own experience preparing for both the IELTS Academic Test and the Duolingo English Test (DET). This note is written in both English and Vietnamese.
 
+---
+
 Một trong những cách tốt nhất để giới thiệu bản thân là sử dụng hệ thống 5W1H để các bạn có thể tự chuẩn bị bài giới thiệu của các bạn. Bạn có thể tham khảo các câu hỏi sau đây, được sắp xếp dựa trên hệ thống 5W1H, để có thể chuẩn bị bài giới thiệu bản thân (ENG: One of the best ways to introduce yourself is by using the 5W1H system to plan your introduction. You can consult the following questions, which have been structured according to the 5W1H system, to plan your introduction).
     
 | Question (Câu Hỏi) | Sample Answer (Câu Trả Lời Mẫu) |
