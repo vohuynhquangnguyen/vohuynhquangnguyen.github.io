@@ -19,51 +19,45 @@ You can consult the following questions, which have been structured according to
     
 | Question (Câu Hỏi) | Sample Answer (Câu Trả Lời Mẫu) |
 | --- | --- |
-| Who am I? 
-(My name or what people can call me) | Hello. My name is Quang Nguyen. You can call me Lucius. |
+| Who am I? (My name or what people can call me) | Hello. My name is Quang Nguyen. You can call me Lucius. |
 | How old am I? | I will be 28 years old by December this year. |
-| Where do I come from?
-(Hometown) | I was born in Ho Chi Minh City, the most populous city in Vietnam. Nevertheless, I am not a native of this city since my parents originally came from Hue - the ancient capital of Vietnam. They migrated to Ho Chi Minh City during the 1980s and had me a decade later. |
-| Who am I currently living with?
-(Families) | I am currently with my parents, and my grandmother on my mother’s side. My younger brother used to live with us but came to Germany last March for his Master’s studies. |
-| Where and What am I currently studying/working at the moment?
-(Work/Studies) | Currently, I am Graduate Research Fellow doing my doctoral studies at Oklahoma State University in Oklahoma, USA. I am responsible for the teachings of undergraduate students in the subjects of Mathematics, and Programming as well as research in new algorithms for Machine Learning applied for industrial engineering.  |
-| Why am I choose this/these place(s) for working/studying?
-(Work/Studies) | Previously, I worked for Intel Corporation as a Researcher in Computer Vision. During my time at Intel, I realized I needed to pursue a doctorate to advance my career. A friend of mine recommended his alma mater, which was Oklahoma State University. Hence, I applied and got admitted there. |
-| What are my hobbies?
-(Hobbies) | I have a passion for gaming since I was a young boy. Even now, I still set aside a couple of hours to play games that belong to my favourite genre: RPG (Role Playing Game). In addition to gaming, I also have a soft spot for reading: I always have a book with me so I can read anywhere at any time: during the waiting time for public transport, during my business trip, etc. |
-| How can I describe about myself
-(Personality) | I believe I am an empathetic, hard-working, and responsible person.  |
+| Where do I come from? (Hometown) | I was born in Ho Chi Minh City, the most populous city in Vietnam. Nevertheless, I am not a native of this city since my parents originally came from Hue - the ancient capital of Vietnam. They migrated to Ho Chi Minh City during the 1980s and had me a decade later. |
+| Who am I currently living with? (Families) | I am currently with my parents, and my grandmother on my mother’s side. My younger brother used to live with us but came to Germany last March for his Master’s studies. |
+| Where and What am I currently studying/working at the moment? (Work/Studies) | Currently, I am Graduate Research Fellow doing my doctoral studies at Oklahoma State University in Oklahoma, USA. I am responsible for the teachings of undergraduate students in the subjects of Mathematics, and Programming as well as research in new algorithms for Machine Learning applied for industrial engineering.  |
+| Why am I choose this/these place(s) for working/studying? (Work/Studies) | Previously, I worked for Intel Corporation as a Researcher in Computer Vision. During my time at Intel, I realized I needed to pursue a doctorate to advance my career. A friend of mine recommended his alma mater, which was Oklahoma State University. Hence, I applied and got admitted there. |
+| What are my hobbies? (Hobbies) | I have a passion for gaming since I was a young boy. Even now, I still set aside a couple of hours to play games that belong to my favourite genre: RPG (Role Playing Game). In addition to gaming, I also have a soft spot for reading: I always have a book with me so I can read anywhere at any time: during the waiting time for public transport, during my business trip, etc. |
+| How can I describe about myself (Personality) | I believe I am an empathetic, hard-working, and responsible person.  |
     
 
 3. Sau đây là một số những cách diễn đạt hữu ích các bạn có thể thử để chuẩn bị cho bài giới thiệu bản thân.
 Here are some useful expressions you can try when planning your introduction:
-    
-| Introducing name and age
-(Giới thiệu tên tuổi) | 1. My full name is [my full name].
-2. I am in my [age numbers].
-3. I am over/almost/nearly [age numbers].
-4. Everyone calls me [my nickname/preferred name].
-5. You can call me [my nickname/preferred name]. |
-| --- | --- |
-| Introducing hometown
-(Giới thiệu quê quán) | 1. I come from/grow up in an urban/suburban/rural area of [city’s name]. |
-| Introducing hobbies
-(Giới thiệu sở thích bản thân) | 1. I have a soft spot for [my likes]
-2. [My likes] is my cup of tea.
-3. [My dislikes] is not my cup of tea. |
-| Introducing personalities
-(Giới thiệu tính cách) | I consider myself as a [personality] person.
-1. easy-going: dễ tính/ dễ chịu
-2. frank: thẳng thắn
-3. humorous: hài hước
-4. modest/humble: khiêm tốn
-5. sincere: chân thành
-6. ambitious: tham vọng
-7. cooperative: có tính hợp tác/chịu hợp tác
-8. decisive: quyết đoán
-9. dedicated: cống hiến
-10. dynamic: năng nổ/ nhiệt huyết
-11. proactive: chủ động
-12. responsible: có trách nhiệm
-13. empathetic: thấu cảm |
+* Introducing name and age (Giới thiệu tên tuổi):
+    * My full name is [my full name].
+    * I am in my [age numbers].
+    * I am over/almost/nearly [age numbers].
+    * Everyone calls me [my nickname/preferred name].
+    * You can call me [my nickname/preferred name].
+* Introducing hometown (Giới thiệu quê quán):
+    * I come from/grow up in an urban/suburban/rural area of [city’s name].
+* Introducing hobbies (Giới thiệu sở thích bản thân):
+    * I have a soft spot for [my likes]
+    * [My likes] is my cup of tea.
+    * [My dislikes] is not my cup of tea.
+* Introducing personalities: (Giới thiệu tính cách):
+    * I consider myself as a [personality] person.
+
+4. Danh sách những từ hay được dùng để mô tả tính cách của bản thân hay một người nào đó.
+Here is the list of commonly used words to describe a person's personalities:
+* easy-going: dễ tính/ dễ chịu
+* frank: thẳng thắn
+* humorous: hài hước
+* modest/humble: khiêm tốn
+* sincere: chân thành
+* ambitious: tham vọng
+* cooperative: có tính hợp tác/chịu hợp tác
+* decisive: quyết đoán
+* dedicated: cống hiến
+* dynamic: năng nổ/ nhiệt huyết
+* proactive: chủ động
+* responsible: có trách nhiệm
+* empathetic: thấu cảm
