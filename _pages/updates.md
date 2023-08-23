@@ -12,7 +12,7 @@ author_profile: true
 
 ***
 
-**July 1, 2023** Learning English is surprisingly difficult. So, let me help you by sharing my own experience and suggestions of how to learn (as a series of posts that you can find [here](/posts/2023/07/english-workshop/)) this amazing language in an effective and structured manner. 
+**July 1, 2023** Learning English is surprisingly difficult. So, let me help you by sharing my own experience and suggestions of how to learn (as a series of posts that you can find [here](/posts/2023/07/english-workshop/)) this amazing language in an effective and structured manner. These posts are written in both English and Vietnamese.
 
 ***
 
