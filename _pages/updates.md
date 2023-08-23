@@ -7,12 +7,16 @@ author_profile: true
 
 **August 8, 2023**: I'm over the moon to announce that I'm officially married with my long-time girlfriend, (Mrs. now) Doan!
 
-<img title = "Just a picture of us signing our holy matrimony contract. " src = "../images/updates_images/matrimony.png">
-*Just a picture of us signing our holy matrimony contract.*
+<!-- <img title = "Just a picture of us signing our holy matrimony contract. " src = "../images/updates_images/matrimony.png">
+*Just a picture of us signing our holy matrimony contract.* -->
 
 ***
 
-**March 15, 2023**: I wrote a post about my experience of applying for a Ph.D. program in the US, which I hoped would serve as either a guide or at least a reference for those preparing for their Ph.D. program application. The post is available to read [here].
+**July 1, 2023** Learning English is surprisingly difficult. So, let me help you by sharing my own experience and suggestions of how to learn (as a series of posts that you can find [here](/posts/2023/07/english-workshop/)) this amazing language in an effective and structured manner. 
+
+***
+
+**March 15, 2023**: I wrote a post about my experience of applying for a Ph.D. program in the US, which I hoped would serve as either a guide or at least a reference for those preparing for their Ph.D. program application. The post is available to read [here](/posts/2023/03/phd-application/).
 
 ***
 
