@@ -56,3 +56,10 @@ Sau đây là danh sách những từ hay được dùng để mô tả tính c�
 * proactive: chủ động
 * responsible: có trách nhiệm
 * empathetic: thấu cảm
+
+# Practice
+Dưới đây là một số gợi ý về cách bạn có thể luyện tập giới thiệu bản thân (ENG: Here are some suggestions on how you can practice introducing yourself):
+
+1. Sử dụng các câu hỏi mà mình đã đề xuất ở trên như một hướng dẫn để chuẩn bị phần giới thiệu bản thân của các bạn và viết phần ấy trên một tờ giấy.(ENG: Use the suggested questions as a guideline to prepare your own introduction on a piece of paper).
+2. Sau đó, các bạn hãy đứng trước gương và đọc to phần giới thiệu của mình, đồng thời các bạn hãy cố gắng ghi nhớ nó. (ENG: Practice reading your introduction aloud in front of a mirror and try to memorize it).
+3. Sau khi các bạn đã ghi nhớ phần giới thiệu bản thân rồi, hãy đứng trước gương và kể lại phần giới thiệu của mình như thể bạn đang trò chuyện với một người khác (ENG: Once you have memorized your introduction, practice speaking in front of the mirror as if you are conversing with another person).

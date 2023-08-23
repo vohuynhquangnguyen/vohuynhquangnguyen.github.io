@@ -20,7 +20,7 @@ The list of lessions are as follows:
 
 ## Speaking
 ### General English Speaking Skills
-1. How to introduce yourself in English
+1. [How to introduce yourself in English](/posts/2023/08/introducing-oneself/)
 2. How to initiate small talks
 3. How to prepare for an English interview
 
