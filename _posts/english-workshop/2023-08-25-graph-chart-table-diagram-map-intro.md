@@ -1,7 +1,7 @@
 ---
 title: 'Writing an Introduction to a Graph or a Chart'
 date: 2023-08-25
-permalink: /posts/2023/08/graph-chart-table-diagram-map-intro/
+permalink: /posts/2023/08/graph-chart-table-intro/
 tags:
   - English Learning
   - IELTS Academic Test
