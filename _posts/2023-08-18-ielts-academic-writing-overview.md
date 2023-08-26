@@ -7,9 +7,7 @@ tags:
   - IELTS Academic Test
 ---
 
-This note is part of my collection of proposed lessons for self-learning English. You can navigate the entire collection [here](/posts/2023/07/english-workshop/).
-
-The contents of this note are based on the Official Guidance of IELTS Academic Writing. Further information about the IELTS Academic Writing Test can be found [here](https://www.ielts.org/for-test-takers/test-format).
+This note is part of my collection of proposed lessons for self-learning English. You can navigate the entire collection [here](/posts/2023/07/english-workshop/). The contents of this note are based on the Official Guidance of IELTS Academic Writing. Further information about the IELTS Academic Writing Test can be found [here](https://www.ielts.org/for-test-takers/test-format).
 
 
 # English version 
@@ -35,6 +33,7 @@ Here is a summary of the information you need to know about the Academic Writing
   * Lexical Resources.
   * Grammar.
 
+In the upcoming posts of our Writing series, we will delve into the techniques and strategies for crafting high-scoring responses to both Task 1 and Task 2 of the IELTS Academic Writing Test. Our goal is to provide you with the tools and knowledge you need to achieve a Band 7.0 or higher on this challenging exam. Stay tuned for more!
 
 # Vietnamese version 
 Bài kiểm tra Viết Học Thuật (Academic Writing) của kì thi IELTS được thiết kế để đánh giá kỹ năng viết Tiếng Anh của bạn trên phương thức học thuật (Academic English), bao gồm cách bạn:
@@ -58,3 +57,6 @@ Sau đây là những thông tin chung mà bạn cần biết về bài kiểm t
   * Tính liên kết và nhất quán trong việc trình bày ý tưởng (Coherence and Cohesion).
   * Lượng từ vựng bạn sử dụng trong bài thi (Lexical Resources).
   * Ngữ pháp.
+
+Trong những bài viết sắp tới, mình sẽ đào sâu vào các kỹ thuật và chiến lược để viết các câu trả lời đạt điểm cao cho cả Task 1 và Task 2. Những bài viết tới mình mong là sẽ cung cấp cho bạn các công cụ và kiến thức bạn cần để đạt được Band 7.0 hoặc cao hơn. Hãy theo dõi nhé!
+
