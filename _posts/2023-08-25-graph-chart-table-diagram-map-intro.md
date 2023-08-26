@@ -18,13 +18,13 @@ The contents of this note are based on the following textbooks:
 Một câu trả lời điển hình cho Task 1 của phần thi Viết Học Thuật của IELTS (Academic IELTS) bao gồm hai phần chính: Mở Bài (Introduction) và Thân Bài (Body). Trong bài viết này, chúng ta sẽ khám phá cách viết phần Introduction một cách hiệu quả. Bằng cách tuân theo những gì mà mình hướng dẫn ở đây, các bạn có thể đảm bảo rằng phần Mở Bài của các bạn sẽ trở nên rõ ràng hơn, ngắn gọn hơn, và hấp dẫn hơn. Hãy bắt đầu thôi nào!
 
 ## Cấu trúc của phần Mở Bài 
-Phần Mở Bài thường bao gồm hai phần chính như sau:
-* **Mô Tả**: Phần này nên cung cấp một cái nhìn tổng quan ngắn gọn về đồ thị, bao gồm những thông tin cơ bản như sau:
-  * Chúng ta đang mô tả loại đồ thị nào? 
-  * Thông tin nào hiện được trình bày? 
+Phần Mở Bài của Task 1, đặc biệt là cho những dạng bài về đồ thị và biểu đồ, thường bao gồm hai phần chính như sau:
+* **Mô Tả (What does the graph show?)**: Phần này nên cung cấp một cái nhìn ngắn gọn về biểu đồ/đồ thị được cho, bao gồm những thông tin cơ bản như sau:
+  * Chúng ta đang mô tả loại biểu đồ/đồ thị nào? 
+  * Thông tin nào hiện đang được trình bày? 
   * Thông tin này được đo lường như thế nào? 
   * Có yếu tố thời gian nào hay không?
-* **Tổng Quan**: Phần này nên cung cấp một tóm tắt cấp cao về các mẫu hoặc xu hướng chính được quan sát trong đồ thị, chẳng hạn như:
+* **Tổng Quan (What is the overview of the graph)**: Phần này nên cung cấp một tóm tắt sơ lược về các thay đổi hoặc xu thế xuất trong biểu đồ/đồ thị, chẳng hạn như:
   * Những thay đổi hoặc xu thế đáng kể nhất.
   * Bất kỳ sự giống nhau hoặc khác biệt đáng chú ý nào giữa các số liệu.
   * Bất kỳ các quan sát chính nào khác.
