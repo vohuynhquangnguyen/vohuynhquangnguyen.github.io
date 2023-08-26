@@ -15,7 +15,7 @@ The contents of this note are based on the following textbooks:
 
 ---
 # Vietnamese version
-Một câu trả lời điển hình cho Task 1 của phần thi Viết Học Thuật của IELTS (Academic IELTS) bao gồm hai phần chính: Mở Bài (Introduction) và Thân Bài (Body). Trong bài viết này, chúng ta sẽ khám phá cách viết phần Introduction một cách hiệu quả. Bằng cách tuân theo những gì mà mình hướng dẫn ở đây, các bạn có thể đảm bảo rằng phần Mở Bài của các bạn sẽ trở nên rõ ràng hơn, ngắn gọn hơn, và hấp dẫn hơn. Hãy bắt đầu thôi nào!
+Một câu trả lời điển hình cho Task 1 của phần thi Viết Học Thuật của IELTS (Academic IELTS) bao gồm hai phần chính: Mở Bài (Introduction) và Thân Bài (Body). Trong bài viết này, chúng ta sẽ khám phá cách viết phần Mở Bài một cách hiệu quả. Bằng cách tuân theo những gì mà mình hướng dẫn ở đây, các bạn có thể đảm bảo rằng phần Mở Bài của các bạn sẽ trở nên rõ ràng hơn, ngắn gọn hơn, và hấp dẫn hơn. Hãy bắt đầu thôi nào!
 
 ## Cấu trúc của phần Mở Bài 
 Phần Mở Bài của Task 1, đặc biệt là cho những dạng bài về đồ thị và biểu đồ, thường bao gồm hai phần chính như sau:
@@ -37,7 +37,9 @@ Lưu ý rằng khi viết phần Tổng Quan thì các bạn không nên đề c
   * Bắt đầu với các cụm từ thích hợp chẳng hạn như ``In general``, hoặc ``Overall``;
   * Nêu bật các thay đổi hoặc xu thế đáng kể nhất qua việc sử dụng ngôn ngữ một cách mạch lạc và súc tích.
 3. Về việc dùng thì:
-  * 
+  * Đối với dạng biểu đồ/đồ thị có yếu tố thời gian (graphs and charts with historical data): mình khuyến nghị sử dụng thì hiện tại ở thể chủ động (active present tenses) hoặc thì quá khứ đơn.
+  * Đối với dạng biểu đồ/đồ thị không có yếu tố thời gian: có thể sử dụng thì hiện tại (present tenses) hoặc quá khứ (past tenses). Lưu ý rằng phải có sự nhất quán trọng việc dùng thì.
+  * Đối với dạng biểu đồ/đồ thị có những sự kiện hay dự báo tương lai: mình khuyến nghị nên sử dụng thêm thì tương lai (future tenses).
 
 ## Phân tích các câu trả lời mẫu
 Hãy tìm hiểu một ví dụ như sau:
