@@ -31,6 +31,9 @@ Phần Mở Bài thường bao gồm hai phần chính như sau:
 
 Lưu ý rằng khi viết phần Tổng quan thì các bạn không nên đề cập tới các thông số thống kê (số liệu, phần trăm, v.v...) được đề cập.
 
+## Làm sao để viết phần Mở Bài 
+
+
 ***
 
 # English version
@@ -49,9 +52,9 @@ The introduction to a graph typically consists of two main parts:
   * Any notable similarities or differences between data sets.
   * Any other key observations that can be made from the graph.
 
-By including these two elements in your introduction, you can provide your reader with a clear and concise overview of the graph and its key features. Note that no statistical information about the graph (i.e. numbers, percentages, figures, etc.) is mentioned.
+Note that no statistical information about the graph (i.e. numbers, percentages, figures, etc.) is mentioned.
 
-# Làm sao để viết phần Mở Bài (How to write the introduction)
+## How to write the introduction
 1. In the first part of the introduction (**What type of graph are we describing?**), we typically paraphrase the description of the graph provided by the question.
 2. In the second part of the introduction (**What is the overview of this graph?**), we provide a high-level summary of the main trends or patterns observed in the graph. To do this effectively, we should:
   * Begin our sentences with appropriate phrases that indicate we are providing an overview, such as ``Overall``, or ``In general``;
@@ -61,7 +64,7 @@ By including these two elements in your introduction, you can provide your reade
 # Phân tích câu trả lời mẫu (Analyzing sample responses)
 Consider the following example:
 
-![](/_posts/posts_images/graph-chart-diagram-map-intro-1.png)
+![](/images/updates_images/ASU2023PhD.png)
 The line graph below shows changes in fast food consumed in the UK between 1970 and 1990. Summarize the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words. Source: Marc Roche.
 
 Let's analyze this example:
