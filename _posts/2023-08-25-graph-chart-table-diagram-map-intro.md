@@ -44,7 +44,7 @@ By including these two elements in your introduction, you can provide your reade
 # Phân tích câu trả lời mẫu (Analyzing sample responses)
 Consider the following example:
 
-<img title = "The line graph below shows changes in fast food consumed in the UK between 1970 and 1990. Summarize the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words." src = "../_posts/2023-08-25-graph-chart-table-diagram-map-intro/graph-chart-diagram-map-intro-1.png">
+<img title = "The line graph below shows changes in fast food consumed in the UK between 1970 and 1990. Summarize the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words." src = '../images/posts_images/graph-chart-diagram-map-intro-1.png'>
 
 *The line graph below shows changes in fast food consumed in the UK between 1970 and 1990. Summarize the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words. Source: Marc Roche.*
 
@@ -63,5 +63,3 @@ Here are some sample responses to this example:
 Dưới đây là một số gợi ý về cách các bạn có thể luyện tập viết phần Mở Bài nhé:
 1. Compose an introduction for each of the practice tests included in the Academic Student’s Books, spanning from Volume 1 to Volume 18.
 2. Submit your introductions to a certified teacher or instructor for feedback and suggestions.
-
-
