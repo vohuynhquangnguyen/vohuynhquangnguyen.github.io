@@ -33,11 +33,33 @@ Sau đây là những thông tin chung mà các bạn cần biết về bài ki�
   * Ngữ pháp (Grammar).
 
 ## Những quy tắc chung khi làm Task 1
+1. Sau đây là cấu trúc tiêu biểu của một bài viết cho Task 1:
+  * **Giới Thiệu**: tại đây, chúng ta sẽ giới thiệu loại biểu đồ/đồ thị mà chúng ta nhận được trong đề thi, và dữ liệu có biểu đồ/đồ thị đó là gì.
+  * **Tổng Quan**: tại đây, chúng ta sẽ trình bày một tóm tắt sơ lược những thông tin hay dữ liệu được đề cập trong biểu đồ/đồ thị mà chúng ta nhận được. Lưu ý rằng cả hai phần Giới Thiệu và Tổng Quan nên được trình bày trong cùng một đoạn văn.
+  * **Thân Bài**: thường thì một bài viết cho Task 1 sẽ có ít nhất hai đoạn văn.
+
+2. Sau đây là một câu trả lời mẫu cho một bài Task 1:
+  * **Giới Thiệu**: The table provided financial estimates of a police force in a particular region of Britain for a period of two years from 2017 to 2018, while the pie charts illustrated how the aforementioned figures were allocated for the same police force in the same period. 
+  * **Tổng Quan**: Overall, the police force received the most funding from the national government, and a majority of the received funds were allocated for the police officer and staff wages in both years. Besides, the total amount of funding experienced a slight increase.
+  * **Thân Bài - Đoạn 1**: Starting with the budget, in 2017, the police received a total of 304.7 million Great Britain Pounds (GBP). Over half of the funds came from the national government (at 175.5 million GBP); the remaining came from local taxes and other sources (e.g., grants) with 91.2 million and 38 million GBP, respectively. In the later year, the total amount of funds ballooned to 318 million GBP.  Specifically, the finances provided by the government and local taxes increased slightly to 177.8 million and 102.3 million GBP, respectively. The other figure increased marginally to 38.5 million GBP.
+  * **Thân Bài - Đoạn 2**: Moving to expenditure, salaries commensurate the greatest proportion of the expenditure with 75% and 69%, respectively. Next, were budgets allocated for technology (at 17% for both years), followed by allocations for buildings and transports (at 8% for 2017 and 14% for 2018). Among the figures, the percentage of payments for wages decreased slightly, while the proportion of technology almost doubled. The costs for buildings and transport remained constant.
+
+![](/images/posts_images/ielts-academic-writing-overview-1.png)
+
+*An example of a mixed-chart-question that is commonly occurred in Task 1 in the IELTS Writing Test. Source: Cambridge Academic 17.*
 
 ## Những quy tắc chung khi làm Task 2
+Chung quy lại, có năm bước các bạn cần phải thực hiện để đạt được 7.0+ Band trong IELTS Writing Task 2. Các bước ấy bao gồm:
+1. Hiểu câu hỏi được nêu ra. 
+2. Lên dàn ý cho câu trả lời của bạn. 
+3. Viết phần Mở Bài. 
+4. Viết phần Thân Bài. 
+5. Viết phần Kết Bài.
 
-
+## Lời Kết
 Trong những bài viết sắp tới, mình sẽ đào sâu vào các kỹ thuật và chiến lược để viết các câu trả lời đạt điểm cao cho cả Task 1 và Task 2. Những bài viết tới mình mong là sẽ cung cấp cho các bạn các công cụ và kiến thức các bạn cần để đạt được Band 7.0 hoặc cao hơn. Hãy theo dõi nhé!
+
+***
 
 # English version 
 The IELTS Academic Writing test is meticulously designed to evaluate a wide range of writing skills, including how well you
