@@ -1,5 +1,5 @@
 ---
-title: 'How to write an introduction of a graph, chart, diagram, etc.'
+title: 'How to write an introduction of a graph or a chart'
 date: 2023-08-25
 permalink: /posts/2023/08/graph-chart-table-diagram-map-intro/
 tags:
@@ -20,9 +20,9 @@ Một câu trả lời điển hình cho Task 1 của phần thi Viết Học Th
 (ENG: A typical response for Task 1 of the IELTS Academic Writing Test consists of two primary parts: an Introduction and a Body. In this article, we will explore how to craft a compelling Introduction that effectively sets the stage for the rest of your response. By following these guidelines, you can ensure that your Introduction is clear, concise, and engaging, capturing the attention of your reader and setting the tone for the rest of your essay. Let’s get started!)
 
 # Cấu trúc của phần Mở Bài (Structure of an introduction)
-The introduction to a graph description typically consists of two main parts:
-* **Description of the Graph, i.e., What does the graph show?:** This part should provide a brief overview of the graph, including:
-  * The type of graph being described, i.e. What type of graph are we describing?
+Phần Mở Bài thường bao gồm hai phần chính như sau (ENG: The introduction to a graph typically consists of two main parts):
+* Mô tả (ENG: **Description of the Graph, i.e., What does the graph show?**) Phần này nên cung cấp một cái nhìn tổng quan ngắn gọn về đồ thị, bao gồm những thông tin cơ bản như sau (ENG:This part should provide a brief overview of the graph including the following information):
+  * Chúng ta đang mô tả loại đồ thị nào (ENG: The type of graph being described, i.e. What type of graph are we describing?).
   * The information presented in the graph, i.e., What is the information?
   * The units of measurement used, i.e., How is this information measured?
   * The time period covered by the data (if applicable), i.e., Is there a time period?
