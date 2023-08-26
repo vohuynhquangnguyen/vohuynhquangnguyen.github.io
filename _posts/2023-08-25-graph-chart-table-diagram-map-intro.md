@@ -33,7 +33,7 @@ Lưu ý rằng khi viết phần Tổng Quan thì các bạn không nên đề c
 
 ## Làm sao để viết phần Mở Bài 
 1. Trong phần **Mô Tả**, chúng ta sẽ viết lại (paraphrase) những mô tả mà câu hỏi cung cấp cho chúng ta.
-2. Trong phần **Tổng Quan**, chúng ta cung cấp một tóm tắt cấp cao về các xu hướng hoặc mẫu chính được quan sát trong đồ thị. Để làm điều này hiệu quả, chúng ta nên:
+2. Trong phần **Tổng Quan**, để có thể viết được một tóm tắt sơ lược về những thay đổi hay xu thế chính sao cho hiệu quả, chúng ta nên:
   * Bắt đầu với các cụm từ thích hợp chẳng hạn như ``In general``, hoặc ``Overall``;
   * Nêu bật các thay đổi hoặc xu thế đáng kể nhất qua việc sử dụng ngôn ngữ một cách mạch lạc và súc tích.
 3. Về việc dùng thì:
@@ -53,9 +53,9 @@ Hãy tìm hiểu một ví dụ như sau:
 ![](/images/posts_images/graph-chart-diagram-map-intro-1.png)
 The line graph below shows changes in fast food consumed in the UK between 1970 and 1990. Summarize the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words. Nguồn: Marc Roche.
 
-Hãy thử phân tích biểu đồ này nè:
-* Loại biểu đồ mà chúng ta đang mô tả là gì?: biểu đồ đường.
-* Thông tin là gì?: thay đổi trong việc tiêu thụ thực phẩm nhanh trong ba loại (hamburger, cá và khoai tây chiên, và pizza) ở Anh.
+Hãy thử phân tích biểu đồ này qua những câu hỏi mà mình đã nêu ở trên nhé:
+* **Loại biểu đồ mà chúng ta đang mô tả là gì?**: biểu đồ đường.
+* **Thông tin là gì?**: thay đổi trong việc tiêu thụ thực phẩm nhanh trong ba loại (hamburger, cá và khoai tây chiên, và pizza) ở Anh.
 * Thông tin này được đo bằng cách nào?: theo gam mỗi tuần (g/t).
 * Có khoảng thời gian nào không?: trong một khoảng thời gian 20 năm từ 1970 đến 1990.
 
