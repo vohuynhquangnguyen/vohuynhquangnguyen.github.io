@@ -110,6 +110,18 @@ Note that no statistical information about the graph (i.e. numbers, percentages,
   * Historical data in a graph with dates: the safest option is using active, past simple tense.
   * Graph with no date: either present or past tense (must be consistent).
   * Future events and forecasts: use future tenses.
+4. Here are some phrases that we can use to:
+  * Begin our first part:
+    * ``The graph illustrates ...``
+    * ``The graph shows ...``
+    * ``The graph depicts ...``
+    * ``The graph provides information about ...``
+  * Begin our second part:
+    * `Generally speaking, [...] is the most striking feature`.
+    * `It is important to note that X`.
+    * `It is noticeable that `.
+    * `The most striking feature is the …`. 
+    * `The most significant facts to emerge from the graph are that …`.
 
 ## Analyzing sample responses
 Consider the following example:
