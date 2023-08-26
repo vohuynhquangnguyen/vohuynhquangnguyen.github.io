@@ -64,7 +64,13 @@ Here is a summary of the information you need to know about the Academic Writing
   * **Body Paragraph(s)**: usually, a response for Task 1 has at least two Body paragraphs.
 
 2. Here is a sample reponse for IELTS Task 1:
+  * **Introduction**: The table provided financial estimates of a police force in a particular region of Britain for a period of two years from 2017 to 2018, while the pie charts illustrated how the aforementioned figures were allocated for the same police force in the same period. 
+  * **Overview**: Overall, the police force received the most funding from the national government, and a majority of the received funds were allocated for the police officer and staff wages in both years. Besides, the total amount of funding experienced a slight increase.
+  * **Body (1)**: Starting with the budget, in 2017, the police received a total of 304.7 million Great Britain Pounds (GBP). Over half of the funds came from the national government (at 175.5 million GBP); the remaining came from local taxes and other sources (e.g., grants) with 91.2 million and 38 million GBP, respectively. In the later year, the total amount of funds ballooned to 318 million GBP.  Specifically, the finances provided by the government and local taxes increased slightly to 177.8 million and 102.3 million GBP, respectively. The other figure increased marginally to 38.5 million GBP.
+  * **Body (2)**: Moving to expenditure, salaries commensurate the greatest proportion of the expenditure with 75% and 69%, respectively. Next, were budgets allocated for technology (at 17% for both years), followed by allocations for buildings and transports (at 8% for 2017 and 14% for 2018). Among the figures, the percentage of payments for wages decreased slightly, while the proportion of technology almost doubled. The costs for buildings and transport remained constant.
 
+![](/images/posts_images/ielts-academic-writing-overview-1.png)
+*An example of a mixed-chart-question that is commonly occurred in Task 1 in the IELTS Writing Test. Source: Cambridge Academic 17.*
 
 ## General rules of IELTS Task 2
 
