@@ -58,5 +58,7 @@ Here are some sample responses to this example:
 * Mẫu 3 - đây là câu trả lời mà mình tự viết (My own response): The line chart describes the changes in the consumption of fast foods in the UK for a period of 20 years from 1970 to 1990. The data are measured in grams per week (g/w) and are broken down into three categories namely hamburgers, fish & chips, and pizzas. Overall, there was an upward trend in the consumption of hamburgers and fish & chips, while the number of pizzas consumed declined over the period.
 
 # Luyện tập (Practice)
+Dưới đây là một số gợi ý về cách các bạn có thể luyện tập giới thiệu bản thân 
+IELTS 17 Academic Student's Book
 
 

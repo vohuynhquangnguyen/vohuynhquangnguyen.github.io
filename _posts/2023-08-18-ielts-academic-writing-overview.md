@@ -36,27 +36,27 @@ Here is a summary of the information you need to know about the Academic Writing
 In the upcoming posts of our Writing series, we will delve into the techniques and strategies for crafting high-scoring responses to both Task 1 and Task 2 of the IELTS Academic Writing Test. Our goal is to provide you with the tools and knowledge you need to achieve a Band 7.0 or higher on this challenging exam. Stay tuned for more!
 
 # Vietnamese version 
-Bài kiểm tra Viết Học Thuật (Academic Writing) của kì thi IELTS được thiết kế để đánh giá kỹ năng viết Tiếng Anh của bạn trên phương thức học thuật (Academic English), bao gồm cách bạn:
+Bài kiểm tra Viết Học Thuật (Academic Writing) của kì thi IELTS được thiết kế để đánh giá kỹ năng viết Tiếng Anh của các bạn trên phương thức học thuật (Academic English), bao gồm cách các bạn:
   * trả lời những yêu cầu được nêu trong bài thi một cách thích hợp
   * tổ chức ý tưởng
   * sử dụng từ ngữ và ngữ pháp một cách chính xác
 
-Sau đây là những thông tin chung mà bạn cần biết về bài kiểm tra này:
-1. Hình thức thi: Bài thi sẽ yêu cầu bạn viết theo phong cách học thuật qua việc trả lời hai Nhiệm Vụ (Task) sau đây.
-  * Trong Task 1, bạn sẽ được trình bày một đồ thị, bảng, biểu đồ hoặc sơ đồ. Bạn sẽ được yêu cầu mô tả, tóm tắt hoặc giải thích thông tin bằng lời văn của bản thân bạn. Điều này có thể liên quan đến việc mô tả và giải thích dữ liệu, mô tả các giai đoạn của một quá trình/cách hoạt động của một đối tượng hoặc sự kiện.
-  * Trong Task 2, bạn sẽ được yêu cầu viết một bài luận để đáp lại một quan điểm, tranh luận hoặc vấn đề. Các quan điểm hay vấn đề ở Task 2 được lựa chọn dựa theo tiêu chí dễ hiểu và thú vị đối với thí sinh.
+Sau đây là những thông tin chung mà các bạn cần biết về bài kiểm tra này:
+1. Hình thức thi: Bài thi sẽ yêu cầu các bạn viết theo phong cách học thuật qua việc trả lời hai Nhiệm Vụ (Task) sau đây.
+  * Trong Task 1, các bạn sẽ được trình bày một đồ thị, bảng, biểu đồ hoặc sơ đồ. các bạn sẽ được yêu cầu mô tả, tóm tắt hoặc giải thích thông tin bằng lời văn của bản thân các bạn. Điều này có thể liên quan đến việc mô tả và giải thích dữ liệu, mô tả các giai đoạn của một quá trình/cách hoạt động của một đối tượng hoặc sự kiện.
+  * Trong Task 2, các bạn sẽ được yêu cầu viết một bài luận để đáp lại một quan điểm, tranh luận hoặc vấn đề. Các quan điểm hay vấn đề ở Task 2 được lựa chọn dựa theo tiêu chí dễ hiểu và thú vị đối với thí sinh.
 2. Thời gian: Bài kiểm tra sẽ kéo dài 60 phút.
-  * Về nguyên tắc chung, bạn sẽ phải dành 20 phút cho Task 1 và 40 phút cho Task 2.
-  * Bạn sẽ cần quản lý thời gian của riêng mình, vì vậy hãy chắc chắn rằng bạn chuyển sang Task 2 ngay sau khi bài thi đã được diễn ra 20 phút.
+  * Về nguyên tắc chung, các bạn sẽ phải dành 20 phút cho Task 1 và 40 phút cho Task 2.
+  * các bạn sẽ cần quản lý thời gian của riêng mình, vì vậy hãy chắc chắn rằng các bạn chuyển sang Task 2 ngay sau khi bài thi đã được diễn ra 20 phút.
 3. Số lượng câu hỏi: 2 câu hỏi
-  * Thể loại: Bài thi viết gồm có hai Tasks. Bạn sẽ được yêu cầu viết ít nhất 150 từ cho Task 1 và ít nhất 250 từ cho Task 2.
-  * Điểm số: Bài kiểm tra Viết của bạn sẽ được chấm điểm bởi ít nhất 2 giám khảo IELTS. Về thang phân bổ điểm thì Task 2 có giá trị gấp đôi so với Task 1.
+  * Thể loại: Bài thi viết gồm có hai Tasks. các bạn sẽ được yêu cầu viết ít nhất 150 từ cho Task 1 và ít nhất 250 từ cho Task 2.
+  * Điểm số: Bài kiểm tra Viết của các bạn sẽ được chấm điểm bởi ít nhất 2 giám khảo IELTS. Về thang phân bổ điểm thì Task 2 có giá trị gấp đôi so với Task 1.
 
-Điểm số của bạn được chấm dựa theo các tiêu chí sau:
-  * Khả năng bạn hoàn thành yêu cầu của bài thi (Task Achievement).
+Điểm số của các bạn được chấm dựa theo các tiêu chí sau:
+  * Khả năng các bạn hoàn thành yêu cầu của bài thi (Task Achievement).
   * Tính liên kết và nhất quán trong việc trình bày ý tưởng (Coherence and Cohesion).
-  * Lượng từ vựng bạn sử dụng trong bài thi (Lexical Resources).
+  * Lượng từ vựng các bạn sử dụng trong bài thi (Lexical Resources).
   * Ngữ pháp (Grammar).
 
-Trong những bài viết sắp tới, mình sẽ đào sâu vào các kỹ thuật và chiến lược để viết các câu trả lời đạt điểm cao cho cả Task 1 và Task 2. Những bài viết tới mình mong là sẽ cung cấp cho bạn các công cụ và kiến thức bạn cần để đạt được Band 7.0 hoặc cao hơn. Hãy theo dõi nhé!
+Trong những bài viết sắp tới, mình sẽ đào sâu vào các kỹ thuật và chiến lược để viết các câu trả lời đạt điểm cao cho cả Task 1 và Task 2. Những bài viết tới mình mong là sẽ cung cấp cho các bạn các công cụ và kiến thức các bạn cần để đạt được Band 7.0 hoặc cao hơn. Hãy theo dõi nhé!
 
