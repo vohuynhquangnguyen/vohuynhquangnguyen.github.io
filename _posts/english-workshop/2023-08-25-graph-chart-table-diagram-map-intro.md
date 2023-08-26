@@ -13,7 +13,7 @@ The contents of this note are based on the following textbooks:
 * IELTS Writing Masterclass 8.5 by Marc Roche.
 * Collins Get Ready for IELTS Writing by Fiona Aish and Jo Tomlinson.
 
----
+***
 
 # Mục Lục (Table of Contents)
 1. [Bản Tiếng Việt (Vietnamese version)](#vietnamese)
