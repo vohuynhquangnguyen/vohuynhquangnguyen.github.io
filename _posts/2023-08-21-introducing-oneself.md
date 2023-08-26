@@ -57,7 +57,7 @@ Sau đây là danh sách những từ hay được dùng để mô tả tính c�
 * responsible: có trách nhiệm
 * empathetic: thấu cảm
 
-# Practice (Luyện tập)
+# Luyện tập (Practice)
 Dưới đây là một số gợi ý về cách bạn có thể luyện tập giới thiệu bản thân (ENG: Here are some suggestions on how you can practice introducing yourself):
 
 1. Sử dụng các câu hỏi mà mình đã đề xuất ở trên như một hướng dẫn để chuẩn bị phần giới thiệu bản thân của các bạn và viết phần ấy trên một tờ giấy (ENG: Use the suggested questions as a guideline to prepare your own introduction on a piece of paper).

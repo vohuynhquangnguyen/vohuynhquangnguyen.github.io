@@ -57,5 +57,6 @@ Here are some sample responses to this example:
 * Mẫu 2 (Response 2): The graph shows the amount of fast food eaten between 1970 and 1990 in grams per person per week. Overall, the amount of fast food consumed more than doubled during the period.
 * Mẫu 3 - đây là câu trả lời mà mình tự viết (My own response): The line chart describes the changes in the consumption of fast foods in the UK for a period of 20 years from 1970 to 1990. The data are measured in grams per week (g/w) and are broken down into three categories namely hamburgers, fish & chips, and pizzas. Overall, there was an upward trend in the consumption of hamburgers and fish & chips, while the number of pizzas consumed declined over the period.
 
+# Luyện tập (Practice)
 
 
