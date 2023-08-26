@@ -37,7 +37,7 @@ Lưu ý rằng khi viết phần Tổng Quan thì các bạn không nên đề c
   * Bắt đầu với các cụm từ thích hợp chẳng hạn như ``In general``, hoặc ``Overall``;
   * Nêu bật các thay đổi hoặc xu thế đáng kể nhất qua việc sử dụng ngôn ngữ một cách mạch lạc và súc tích.
 3. Về việc dùng thì:
-  * Đối với dạng biểu đồ/đồ thị có yếu tố thời gian (graphs and charts with historical data): mình khuyến nghị sử dụng thì hiện tại ở thể chủ động (active present tenses) hoặc thì quá khứ đơn.
+  * Đối với dạng biểu đồ/đồ thị có yếu tố thời gian (graphs and charts with historical data): mình khuyến nghị sử dụng thì hiện tại ở thể chủ động (active present tenses) hoặc thì quá khứ đơn (simple past tense).
   * Đối với dạng biểu đồ/đồ thị không có yếu tố thời gian: có thể sử dụng thì hiện tại (present tenses) hoặc quá khứ (past tenses). Lưu ý rằng phải có sự nhất quán trọng việc dùng thì.
   * Đối với dạng biểu đồ/đồ thị có những sự kiện hay dự báo tương lai: mình khuyến nghị nên sử dụng thêm thì tương lai (future tenses).
 4. Ngoài ra, các bạn còn có thể dùng những cụm từ sau đây để bắt đầu phần Tổng Quan của mình:
