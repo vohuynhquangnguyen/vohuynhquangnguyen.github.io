@@ -10,7 +10,13 @@ This is a recollection of my own experience when applying for a doctoral study o
 
 ***
 
-# Vietnamese version
+# Mục Lục (Table of Contents)
+1. [Bản Tiếng Việt (Vietnamese version)](#vietnamese)
+2. [Bản Tiếng Anh (English version)](#english)
+
+***
+
+# Vietnamese version <a name = 'vietnamese'></a>
 Chung quy lại thì bản thân mình thấy việc chuẩn bị một hồ sơ có sức hút lớn với Bộ Phận Giáo Vụ (Graduate College) của các trường gồm có 3 bước chính:
 1. Ôn tập thật kĩ lưỡng để đạt kết quả cao cho những kì thi của các chứng chỉ bắt buộc khi làm hồ sơ đăng kí học (bao gồm GRE và IELTS).
 2. Chuẩn bị những lá thư giới thiệu (reference letter) 'cực chất' từ quản lý/giáo viên hướng dẫn hiện tại hoặc trước đây của bạn.
@@ -39,7 +45,7 @@ Nếu bạn gửi email trực tiếp hỏi Bộ Phận Giáo Vụ của các tr
 
 ***
 
-# English version
+# English version <a name = 'english'></a>
 Looking from an overall perspective, I believe we can divide our application preparation process into three primary steps:
 1. Prepare carefully for the mandatory standardized tests (GRE, GMAT, IELTS, etc.).
 2. Earn letters of recommendation from your direct managers, supervisors, professors, etc.
