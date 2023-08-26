@@ -29,13 +29,15 @@ Phần Mở Bài của Task 1, đặc biệt là cho những dạng bài về đ
   * Bất kỳ sự giống nhau hoặc khác biệt đáng chú ý nào giữa các số liệu.
   * Bất kỳ các quan sát chính nào khác.
 
-Lưu ý rằng khi viết phần Tổng quan thì các bạn không nên đề cập tới các thông số thống kê (số liệu, phần trăm, v.v...) được đề cập.
+Lưu ý rằng khi viết phần Tổng Quan thì các bạn không nên đề cập tới các thông số thống kê (chẳng hạn như số liệu, phần trăm, v.v...).
 
 ## Làm sao để viết phần Mở Bài 
 1. Trong phần **Mô Tả**, chúng ta sẽ viết lại (paraphrase) những mô tả mà câu hỏi cung cấp cho chúng ta.
 2. Trong phần **Tổng Quan**, chúng ta cung cấp một tóm tắt cấp cao về các xu hướng hoặc mẫu chính được quan sát trong đồ thị. Để làm điều này hiệu quả, chúng ta nên:
   * Bắt đầu với các cụm từ thích hợp chẳng hạn như ``In general``, hoặc ``Overall``;
   * Nêu bật các thay đổi hoặc xu thế đáng kể nhất qua việc sử dụng ngôn ngữ một cách mạch lạc và súc tích.
+3. Về việc dùng thì:
+  * 
 
 ## Phân tích các câu trả lời mẫu
 Hãy tìm hiểu một ví dụ như sau:
