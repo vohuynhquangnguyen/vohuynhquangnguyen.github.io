@@ -99,7 +99,7 @@ The introduction to a graph (or a chart) typically consists of two main parts:
   * Any notable similarities or differences between data sets.
   * Any other key observations that can be made from the graph.
 
-Note that no statistical information about the graph (i.e. numbers, percentages, figures, etc.) is mentioned.
+Note that no statistical information about the graph (i.e. numbers, percentages, figures, etc.) should be mentioned in the Overview part of the Introduction.
 
 ## How to write the introduction
 1. In the first part of the introduction (**What type of graph are we describing?**), we typically paraphrase the description of the graph provided by the question.
