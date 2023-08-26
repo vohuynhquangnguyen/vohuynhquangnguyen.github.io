@@ -124,7 +124,7 @@ Here are some phrases that we can use to:
   * `The most striking feature is the ...`. 
   * `The most significant facts to emerge from the graph are that ... `.
 
-## Analyzing sample responses
+## Example
 Consider the following example:
 
 ![](/images/posts_images/graph-chart-diagram-map-intro-1.png)
