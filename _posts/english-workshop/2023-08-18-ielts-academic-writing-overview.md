@@ -57,5 +57,16 @@ Here is a summary of the information you need to know about the Academic Writing
   * Lexical Resources.
   * Grammar.
 
+## General rules of IELTS Task 1
+1. Here is a typical structure of a response for Task 1 in the IELTS Academic Writing test:
+  * **Introduction**: introduce what kind of graphs/charts we have, and what are the data.
+  * **Overview**: present the big picture of our data. Please note that both the **Introduction** and **Overview** should be in the same paragraph. Usually, we can paraphrase the introductory information provided by the test.
+  * **Body Paragraph(s)**: usually, a response for Task 1 has at least two Body paragraphs.
+
+2. Here is a sample reponse for IELTS Task 1:
+
+
+## General rules of IELTS Task 2
+
 In the upcoming posts of our Writing series, we will delve into the techniques and strategies for crafting high-scoring responses to both Task 1 and Task 2 of the IELTS Academic Writing Test. Our goal is to provide you with the tools and knowledge you need to achieve a Band 7.0 or higher on this challenging exam. Stay tuned for more!
 
