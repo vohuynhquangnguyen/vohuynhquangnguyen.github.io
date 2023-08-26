@@ -32,6 +32,11 @@ Sau đây là những thông tin chung mà các bạn cần biết về bài ki�
   * Lượng từ vựng các bạn sử dụng trong bài thi (Lexical Resources).
   * Ngữ pháp (Grammar).
 
+## Những quy tắc chung khi làm Task 1
+
+## Những quy tắc chung khi làm Task 2
+
+
 Trong những bài viết sắp tới, mình sẽ đào sâu vào các kỹ thuật và chiến lược để viết các câu trả lời đạt điểm cao cho cả Task 1 và Task 2. Những bài viết tới mình mong là sẽ cung cấp cho các bạn các công cụ và kiến thức các bạn cần để đạt được Band 7.0 hoặc cao hơn. Hãy theo dõi nhé!
 
 # English version 
@@ -73,6 +78,12 @@ Here is a summary of the information you need to know about the Academic Writing
 *An example of a mixed-chart-question that is commonly occurred in Task 1 in the IELTS Writing Test. Source: Cambridge Academic 17.*
 
 ## General rules of IELTS Task 2
+Overall, there are five steps you must follow to earn a 7.0+ Band in IELTS Writing Task 2:
+    1. Understand the question.
+    2. Plan your answer.
+    3. Write the introduction.
+    4. Write body paragraphs.
+    5. Write the conclusion.
 
+## Final words.
 In the upcoming posts of our Writing series, we will delve into the techniques and strategies for crafting high-scoring responses to both Task 1 and Task 2 of the IELTS Academic Writing Test. Our goal is to provide you with the tools and knowledge you need to achieve a Band 7.0 or higher on this challenging exam. Stay tuned for more!
-
