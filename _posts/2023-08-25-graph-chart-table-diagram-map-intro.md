@@ -22,10 +22,10 @@ Một câu trả lời điển hình cho Task 1 của phần thi Viết Học Th
 # Cấu trúc của phần Mở Bài (Structure of an introduction)
 Phần Mở Bài thường bao gồm hai phần chính như sau (ENG: The introduction to a graph typically consists of two main parts):
 * Mô tả (ENG: **Description of the Graph, i.e., What does the graph show?**) Phần này nên cung cấp một cái nhìn tổng quan ngắn gọn về đồ thị, bao gồm những thông tin cơ bản như sau (ENG:This part should provide a brief overview of the graph including the following information):
-  * Chúng ta đang mô tả loại đồ thị nào (ENG: The type of graph being described, i.e. What type of graph are we describing?).
-  * The information presented in the graph, i.e., What is the information?
-  * The units of measurement used, i.e., How is this information measured?
-  * The time period covered by the data (if applicable), i.e., Is there a time period?
+  * Chúng ta đang mô tả loại đồ thị nào? (ENG: The type of graph being described, i.e. What type of graph are we describing?).
+  * Thông tin nào hiện được trình bày? (ENG: The information presented in the graph, i.e., What is the information?).
+  * Thông tin này được đo lường như thế nào? (ENG: The units of measurement used, i.e., How is this information measured?).
+  * Có yếu tố thời gian nào hay không? (ENG: The time period covered by the data (if applicable), i.e., Is there a time period?).
 
 * **Overview of the Graph, i.e., What is the overview of this graph?:** This part should provide a high-level summary of the main patterns or trends observed in the graph, such as:
   * The most significant changes or movements.
