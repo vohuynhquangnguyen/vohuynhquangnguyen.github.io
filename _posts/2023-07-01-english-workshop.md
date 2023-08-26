@@ -64,7 +64,7 @@ The list of lessions are as follows:
     * Describing Bar Charts
     * Describing Pie Charts
     * Describing Tables
-    * Describing Process Flows
+    * [Describing Process Flows]
     * Describing Maps
 
 ## Reading
