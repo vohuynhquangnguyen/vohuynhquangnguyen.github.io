@@ -7,7 +7,9 @@ tags:
   - Basic Communication Skills 
 ---
 
-This note is part of my collection of proposed lessons for self-learning English. The contents of this note are based on my own experience preparing for both the IELTS Academic Test and the Duolingo English Test (DET). This note is written in both English and Vietnamese.
+This note is part of my collection of proposed lessons for self-learning English. You can navigate the entire collection [here](/posts/2023/07/english-workshop/).
+
+The contents of this note are based on my own experience preparing for both the IELTS Academic Test and the Duolingo English Test (DET). This note is written in both English and Vietnamese.
 
 ---
 
