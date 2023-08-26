@@ -66,7 +66,7 @@ Dưới đây là một số câu trả lời mẫu cho ví dụ này mà các b
 
 ## Luyện tập
 Dưới đây là một số gợi ý về cách các bạn có thể luyện tập viết phần Mở Bài nhé:
-1. Các bạn hãy viết phần Mở Bài cho các đề Writing trong bộ Cambridge (từ Cuốn 1 tới Cuốn 18).
+1. Các bạn hãy viết phần Mở Bài cho các đề Writing trong bộ Cambridge (từ Cuốn 1 tới Cuốn 18). Các bạn có thể lên trang web [Study4](study4.com) để truy cập vào các đề Writing trong bộ Cambridge nhe.
 2. Sau khi đã viết xong, các bạn hãy gửi phần Mở Bài mình viết cho các anh chị giáo viên IELTS có kinh nghiệm để được nhận xét và sửa lỗi.
 
 ***
