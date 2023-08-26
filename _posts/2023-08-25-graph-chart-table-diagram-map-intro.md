@@ -28,13 +28,34 @@ The introduction to a graph description typically consists of two main parts:
   * The time period covered by the data (if applicable), i.e., Is there a time period?
 
 * **Overview of the Graph, i.e., What is the overview of this graph?:** This part should provide a high-level summary of the main patterns or trends observed in the graph, such as:
-  * The most significant changes or movements
-  * Any notable similarities or differences between data sets
-  * Any other key observations that can be made from the graph
+  * The most significant changes or movements.
+  * Any notable similarities or differences between data sets.
+  * Any other key observations that can be made from the graph.
 
 By including these two elements in your introduction, you can provide your reader with a clear and concise overview of the graph and its key features. Note that no statistical information about the graph (i.e. numbers, percentages, figures, etc.) is mentioned.
 
 # Làm sao để viết phần Mở Bài (How to write the introduction)
+1. In the first part of the introduction (**What type of graph are we describing?**), we typically paraphrase the description of the graph provided by the question.
+2. In the second part of the introduction (**What is the overview of this graph?**), we provide a high-level summary of the main trends or patterns observed in the graph. To do this effectively, we should:
+  * Begin our sentences with appropriate phrases that indicate we are providing an overview, such as ``Overall``, or ``In general``;
+  * Highlight the most significant trends or patterns presented in the graph, using clear and concise language.
 
 
-# Practice
+# Phân tích câu trả lời mẫu (Analyzing sample responses)
+Consider the following example:
+<img title = "The line graph below shows changes in fast food consumed in the UK between 1970 and 1990. Summarize the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words." src = "../_posts/2023-08-25-graph-chart-table-diagram-map-intro/graph-chart-diagram-map-intro-1.png">
+*The line graph below shows changes in fast food consumed in the UK between 1970 and 1990. Summarize the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words. Source: Marc Roche.*
+
+Let's analyze this example:
+1. **What type of graph are we describing?**: line graph.
+2. **What is the information?**: changes in the consumption of fast foods in three categories (hamburgers, fish & chips, and pizzas) in the UK.
+3. **How is this information measured?**: in grams per week (g/w).
+4. **Is there a time period?**: for a period of 20 years from 1970 to 1990.
+
+Here are some sample responses to this example:
+* Mẫu 1 (Response 1):
+* Mẫu 2 (Response 2):
+* Mẫu 3 - đây là câu trả lời mà mình tự viết (My own response): 
+
+
+

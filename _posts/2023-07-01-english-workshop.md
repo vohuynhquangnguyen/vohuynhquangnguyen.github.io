@@ -28,7 +28,7 @@ The list of lessions are as follows:
 ## IELTS Academic Writing
 1. [An overview of the IELTS Academic Writing Test](/posts/2023/08/ielts-academic-writing-overview/)
 2. How to get a Band 7.0+ for the IELTS Academic Writing Test
-    * [Introducing a Graph/Chart/Table/Diagram/Map](/posts/2023/08/graph-chart-table-diagram-map-intro/)
+    * [How to write an introduction of a graph, chart, diagram, etc.](/posts/2023/08/graph-chart-table-diagram-map-intro/)
     * Language of Changes
     * Describing Bar Charts
     * Describing Pie Charts
