@@ -19,12 +19,12 @@ Một câu trả lời điển hình cho Task 1 của phần thi Viết Học Th
 
 ## Cấu trúc của phần Mở Bài 
 Phần Mở Bài thường bao gồm hai phần chính như sau:
-* **Mô tả**: Phần này nên cung cấp một cái nhìn tổng quan ngắn gọn về đồ thị, bao gồm những thông tin cơ bản như sau:
+* **Mô Tả**: Phần này nên cung cấp một cái nhìn tổng quan ngắn gọn về đồ thị, bao gồm những thông tin cơ bản như sau:
   * Chúng ta đang mô tả loại đồ thị nào? 
   * Thông tin nào hiện được trình bày? 
   * Thông tin này được đo lường như thế nào? 
   * Có yếu tố thời gian nào hay không?
-* **Tổng quan**: Phần này nên cung cấp một tóm tắt cấp cao về các mẫu hoặc xu hướng chính được quan sát trong đồ thị, chẳng hạn như:
+* **Tổng Quan**: Phần này nên cung cấp một tóm tắt cấp cao về các mẫu hoặc xu hướng chính được quan sát trong đồ thị, chẳng hạn như:
   * Những thay đổi hoặc xu thế đáng kể nhất.
   * Bất kỳ sự giống nhau hoặc khác biệt đáng chú ý nào giữa các số liệu.
   * Bất kỳ các quan sát chính nào khác.
@@ -32,7 +32,10 @@ Phần Mở Bài thường bao gồm hai phần chính như sau:
 Lưu ý rằng khi viết phần Tổng quan thì các bạn không nên đề cập tới các thông số thống kê (số liệu, phần trăm, v.v...) được đề cập.
 
 ## Làm sao để viết phần Mở Bài 
-
+1. Trong phần **Mô Tả**, chúng ta sẽ viết lại (paraphrase) những mô tả mà câu hỏi cung cấp cho chúng ta.
+2. Trong phần **Tổng Quan**, chúng ta cung cấp một tóm tắt cấp cao về các xu hướng hoặc mẫu chính được quan sát trong đồ thị. Để làm điều này hiệu quả, chúng ta nên:
+  * Bắt đầu với các cụm từ thích hợp chẳng hạn như ``In general``, hoặc ``Overall``;
+  * Nêu bật các thay đổi hoặc xu thế đáng kể nhất qua việc sử dụng ngôn ngữ một cách mạch lạc và súc tích.
 
 ***
 
