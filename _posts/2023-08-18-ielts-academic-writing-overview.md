@@ -56,7 +56,7 @@ Sau đây là những thông tin chung mà bạn cần biết về bài kiểm t
   * Khả năng bạn hoàn thành yêu cầu của bài thi (Task Achievement).
   * Tính liên kết và nhất quán trong việc trình bày ý tưởng (Coherence and Cohesion).
   * Lượng từ vựng bạn sử dụng trong bài thi (Lexical Resources).
-  * Ngữ pháp.
+  * Ngữ pháp (Grammar).
 
 Trong những bài viết sắp tới, mình sẽ đào sâu vào các kỹ thuật và chiến lược để viết các câu trả lời đạt điểm cao cho cả Task 1 và Task 2. Những bài viết tới mình mong là sẽ cung cấp cho bạn các công cụ và kiến thức bạn cần để đạt được Band 7.0 hoặc cao hơn. Hãy theo dõi nhé!
 
