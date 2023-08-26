@@ -43,7 +43,9 @@ By including these two elements in your introduction, you can provide your reade
 
 # Phân tích câu trả lời mẫu (Analyzing sample responses)
 Consider the following example:
+
 <img title = "The line graph below shows changes in fast food consumed in the UK between 1970 and 1990. Summarize the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words." src = "../_posts/2023-08-25-graph-chart-table-diagram-map-intro/graph-chart-diagram-map-intro-1.png">
+
 *The line graph below shows changes in fast food consumed in the UK between 1970 and 1990. Summarize the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words. Source: Marc Roche.*
 
 Let's analyze this example:
