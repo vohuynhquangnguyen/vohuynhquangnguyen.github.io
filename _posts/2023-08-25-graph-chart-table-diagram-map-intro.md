@@ -1,5 +1,5 @@
 ---
-title: 'How to write an introduction of a graph or a chart'
+title: 'Writing an Introduction to a Graph or a Chart'
 date: 2023-08-25
 permalink: /posts/2023/08/graph-chart-table-diagram-map-intro/
 tags:
