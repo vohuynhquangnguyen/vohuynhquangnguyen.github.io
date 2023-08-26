@@ -9,7 +9,13 @@ tags:
 
 This note is part of my collection of proposed lessons for self-learning English. You can navigate the entire collection [here](/posts/2023/07/english-workshop/). The contents of this note are based on the Official Guidance of IELTS Academic Writing. Further information about the IELTS Academic Writing Test can be found [here](https://www.ielts.org/for-test-takers/test-format).
 
-# Vietnamese version 
+# Mục Lục
+1. [Bản Tiếng Việt (Vietnamese version)](#vietnamese)
+2. [Bản Tiếng Anh (English version)](#english)
+
+***
+
+# Vietnamese version <a name = "vietnamese"></a>
 Bài thi Viết Học Thuật (Academic Writing) của kì thi IELTS được thiết kế để đánh giá kỹ năng viết Tiếng Anh của các bạn trên phương thức học thuật (Academic English), bao gồm cách các bạn:
   * trả lời những yêu cầu được nêu trong bài thi một cách thích hợp.
   * tổ chức ý tưởng.
@@ -68,7 +74,7 @@ Trong những bài viết sắp tới, mình sẽ đào sâu vào các kỹ thu�
 
 ***
 
-# English version 
+# English version <a name = "english"></a>
 The IELTS Academic Writing test is meticulously designed to evaluate a wide range of writing skills, including how well you
   * write a response appropriately
   * organize ideas
