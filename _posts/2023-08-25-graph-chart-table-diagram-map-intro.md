@@ -15,7 +15,7 @@ The contents of this note are based on the following textbooks:
 
 ---
 
-Một câu trả lời điển hình cho Task 1 của phần thi Viết Học Thuật của IELTS (Academic IELTS) bao gồm hai phần chính: Mở Bài (Introduction) và Thân Bài (Body). Trong bài viết này, chúng ta sẽ khám phá cách tạo ra phần Introduction một cách hiệu quả để chuẩn bị cho phần còn lại của câu trả lời của bạn. Bằng cách tuân theo những hướng dẫn này, bạn có thể đảm bảo rằng phần Mở Bài của bạn sẽ trở nên rõ ràng hơn, ngắn gọn hơn, và hấp dẫn hơn. Hãy bắt đầu nào!
+Một câu trả lời điển hình cho Task 1 của phần thi Viết Học Thuật của IELTS (Academic IELTS) bao gồm hai phần chính: Mở Bài (Introduction) và Thân Bài (Body). Trong bài viết này, chúng ta sẽ khám phá cách tạo ra phần Introduction một cách hiệu quả để chuẩn bị cho phần còn lại của câu trả lời của các bạn. Bằng cách tuân theo những hướng dẫn này, các bạn có thể đảm bảo rằng phần Mở Bài của các bạn sẽ trở nên rõ ràng hơn, ngắn gọn hơn, và hấp dẫn hơn. Hãy bắt đầu nào!
 
 (ENG: A typical response for Task 1 of the IELTS Academic Writing Test consists of two primary parts: an Introduction and a Body. In this article, we will explore how to craft a compelling Introduction that effectively sets the stage for the rest of your response. By following these guidelines, you can ensure that your Introduction is clear, concise, and engaging, capturing the attention of your reader and setting the tone for the rest of your essay. Let’s get started!)
 
@@ -58,7 +58,8 @@ Here are some sample responses to this example:
 * Mẫu 3 - đây là câu trả lời mà mình tự viết (My own response): The line chart describes the changes in the consumption of fast foods in the UK for a period of 20 years from 1970 to 1990. The data are measured in grams per week (g/w) and are broken down into three categories namely hamburgers, fish & chips, and pizzas. Overall, there was an upward trend in the consumption of hamburgers and fish & chips, while the number of pizzas consumed declined over the period.
 
 # Luyện tập (Practice)
-Dưới đây là một số gợi ý về cách các bạn có thể luyện tập giới thiệu bản thân 
-IELTS 17 Academic Student's Book
+Dưới đây là một số gợi ý về cách các bạn có thể luyện tập viết phần Mở Bài nhé:
+1. Compose an introduction for each of the practice tests included in the Academic Student’s Books, spanning from Volume 1 to Volume 18.
+2. Submit your introductions to a certified teacher or instructor for feedback and suggestions.
 
 
