@@ -130,7 +130,7 @@ Consider the following example:
 ![](/images/posts_images/graph-chart-diagram-map-intro-1.png)
 The line graph below shows changes in fast food consumed in the UK between 1970 and 1990. Summarize the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words. Source: Marc Roche.
 
-Let's analyze this example:
+Let's analyze this example using the questions I mentioned above:
 1. **What type of graph are we describing?**: line graph.
 2. **What is the information?**: changes in the consumption of fast foods in three categories (hamburgers, fish & chips, and pizzas) in the UK.
 3. **How is this information measured?**: in grams per week (g/w).
