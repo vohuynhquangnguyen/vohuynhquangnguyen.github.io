@@ -47,7 +47,7 @@ Lưu ý rằng khi viết phần Tổng Quan thì các bạn không nên đề c
   * `The most striking feature is the …`. 
   * `The most significant facts to emerge from the graph are that …`.
 
-## Phân tích các câu trả lời mẫu
+## Ví dụ
 Hãy tìm hiểu một ví dụ như sau:
 
 ![](/images/posts_images/graph-chart-diagram-map-intro-1.png)
@@ -56,15 +56,15 @@ The line graph below shows changes in fast food consumed in the UK between 1970 
 Hãy thử phân tích biểu đồ này qua những câu hỏi mà mình đã nêu ở trên nhé:
 * **Loại biểu đồ mà chúng ta đang mô tả là gì?**: biểu đồ đường.
 * **Thông tin là gì?**: thay đổi trong việc tiêu thụ thực phẩm nhanh trong ba loại (hamburger, cá và khoai tây chiên, và pizza) ở Anh.
-* Thông tin này được đo bằng cách nào?: theo gam mỗi tuần (g/t).
-* Có khoảng thời gian nào không?: trong một khoảng thời gian 20 năm từ 1970 đến 1990.
+* **Thông tin này được đo bằng cách nào?**: theo gam mỗi tuần (grams per week).
+* **Có khoảng thời gian nào không?**: trong một khoảng thời gian 20 năm từ 1970 đến 1990.
 
 Dưới đây là một số câu trả lời mẫu cho ví dụ này mà các bạn có thể tham khảo:
-* Mẫu 1: The graph illustrates shifts in the amount of fast food consumed in the UK between 1970 and 1990. Several trends are apparent. Firstly, the UK population are eating more and more fast food. Secondly, the type of fast food has changed.
-* Mẫu 2: The graph shows the amount of fast food eaten between 1970 and 1990 in grams per person per week. Overall, the amount of fast food consumed more than doubled during the period.
-* Mẫu 3 - đây là câu trả lời mà mình tự viết: The line chart describes the changes in the consumption of fast foods in the UK for a period of 20 years from 1970 to 1990. The data are measured in grams per week (g/w) and are broken down into three categories namely hamburgers, fish & chips, and pizzas. Overall, there was an upward trend in the consumption of hamburgers and fish & chips, while the number of pizzas consumed declined over the period.
+* **Mẫu 1**: The graph illustrates shifts in the amount of fast food consumed in the UK between 1970 and 1990. Several trends are apparent. Firstly, the UK population are eating more and more fast food. Secondly, the type of fast food has changed.
+* **Mẫu 2**: The graph shows the amount of fast food eaten between 1970 and 1990 in grams per person per week. Overall, the amount of fast food consumed more than doubled during the period.
+* **Mẫu 3 - đây là câu trả lời mà mình tự viết**: The line chart describes the changes in the consumption of fast foods in the UK for a period of 20 years from 1970 to 1990. The data are measured in grams per week (g/w) and are broken down into three categories namely hamburgers, fish & chips, and pizzas. Overall, there was an upward trend in the consumption of hamburgers and fish & chips, while the number of pizzas consumed declined over the period.
 
-## Luyện tập:
+## Luyện tập
 Dưới đây là một số gợi ý về cách các bạn có thể luyện tập viết phần Mở Bài nhé:
 1. Các bạn hãy viết phần Mở Bài cho các đề Writing trong bộ Cambridge (từ Cuốn 1 tới Cuốn 18).
 2. Sau khi đã viết xong, các bạn hãy gửi phần Mở Bài mình viết cho các anh chị giáo viên IELTS có kinh nghiệm để được nhận xét và sửa lỗi.
