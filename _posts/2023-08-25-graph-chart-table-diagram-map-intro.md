@@ -24,6 +24,12 @@ Phần Mở Bài thường bao gồm hai phần chính như sau:
   * Thông tin nào hiện được trình bày? 
   * Thông tin này được đo lường như thế nào? 
   * Có yếu tố thời gian nào hay không?
+* **Tổng quan**: Phần này nên cung cấp một tóm tắt cấp cao về các mẫu hoặc xu hướng chính được quan sát trong đồ thị, chẳng hạn như:
+  * Những thay đổi hoặc xu thế đáng kể nhất.
+  * Bất kỳ sự giống nhau hoặc khác biệt đáng chú ý nào giữa các số liệu.
+  * Bất kỳ các quan sát chính nào khác.
+
+Lưu ý rằng khi viết phần Tổng quan thì các bạn không nên đề cập tới các thông số thống kê (số liệu, phần trăm, v.v...) được đề cập.
 
 ***
 
