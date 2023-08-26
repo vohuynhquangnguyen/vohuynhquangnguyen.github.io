@@ -40,19 +40,19 @@ Lưu ý rằng khi viết phần Tổng Quan thì các bạn không nên đề c
   * Đối với dạng biểu đồ/đồ thị có dữ liệu lấy từ quá khứ (graphs and charts with historical data): mình khuyến nghị các bạn nên sử dụng thì quá khứ đơn ở thể chủ động (active, simple past tense).
   * Đối với dạng biểu đồ/đồ thị không có yếu tố thời gian: có thể sử dụng thì hiện tại (present tenses) hoặc quá khứ (past tenses). Lưu ý rằng phải có sự nhất quán trọng việc dùng thì.
   * Đối với dạng biểu đồ/đồ thị có những sự kiện hay dự báo tương lai: mình khuyến nghị nên sử dụng thêm thì tương lai (future tenses).
-4. Ngoài ra, các bạn còn có thể dùng những cụm từ sau đây:
-  * Để bắt đầu phần Mô Tả:
-    * ``The graph illustrates ...``
-    * ``The graph shows ...``
-    * ``The graph depicts ...``
-    * ``The graph provides information about ...``
 
-  * Để bắt đầu phần Tổng Quan của mình:
-    * `Generally speaking, [...] is the most striking feature`.
-    * `It is important to note that X`.
-    * `It is noticeable that `.
-    * `The most striking feature is the …`. 
-    * `The most significant facts to emerge from the graph are that …`.
+Ngoài ra, các bạn còn có thể dùng những cụm từ sau đây:
+* Để bắt đầu phần Mô Tả:
+  * ``The graph illustrates ...``
+  * ``The graph shows ...``
+  * ``The graph depicts ...``
+  * ``The graph provides information about ...``
+* Để bắt đầu phần Tổng Quan của mình:
+  * `Generally speaking, [...] is the most striking feature`.
+  * `It is important to note that X`.
+  * `It is noticeable that `.
+  * `The most striking feature is the …`. 
+  * `The most significant facts to emerge from the graph are that …`.
 
 ## Ví dụ
 Hãy tìm hiểu một ví dụ như sau:
@@ -110,18 +110,19 @@ Note that no statistical information about the graph (i.e. numbers, percentages,
   * Historical data in a graph with dates: the safest option is using active, past simple tense.
   * Graph with no date: either present or past tense (must be consistent).
   * Future events and forecasts: use future tenses.
-4. Here are some phrases that we can use to:
-  * Begin our first part:
-    * ``The graph illustrates ...``
-    * ``The graph shows ...``
-    * ``The graph depicts ...``
-    * ``The graph provides information about ...``
-  * Begin our second part:
-    * `Generally speaking, [...] is the most striking feature`.
-    * `It is important to note that X`.
-    * `It is noticeable that `.
-    * `The most striking feature is the …`. 
-    * `The most significant facts to emerge from the graph are that …`.
+
+Here are some phrases that we can use to:
+* Begin our first part:
+  * ``The graph illustrates ...``
+  * ``The graph shows ...``
+  * ``The graph depicts ...``
+  * ``The graph provides information about ...``
+* Begin our second part:
+  * `Generally speaking, [...] is the most striking feature`.
+  * `It is important to note that X`.
+  * `It is noticeable that `.
+  * `The most striking feature is the …`. 
+  * `The most significant facts to emerge from the graph are that …`.
 
 ## Analyzing sample responses
 Consider the following example:
