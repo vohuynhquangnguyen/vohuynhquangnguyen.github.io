@@ -37,7 +37,7 @@ Lưu ý rằng khi viết phần Tổng Quan thì các bạn không nên đề c
   * Bắt đầu với các cụm từ thích hợp chẳng hạn như ``In general``, hoặc ``Overall``;
   * Nêu bật các thay đổi hoặc xu thế đáng kể nhất qua việc sử dụng ngôn ngữ một cách mạch lạc và súc tích.
 3. Về việc dùng thì:
-  * Đối với dạng biểu đồ/đồ thị có yếu tố thời gian (graphs and charts with historical data): mình khuyến nghị các bạn nên sử dụng thì hiện tại ở thể chủ động (active present tenses) hoặc thì quá khứ đơn (simple past tense).
+  * Đối với dạng biểu đồ/đồ thị có dữ liệu lấy từ quá khứ (graphs and charts with historical data): mình khuyến nghị các bạn nên sử dụng thì quá khứ đơn ở thể chủ động (active, simple past tense).
   * Đối với dạng biểu đồ/đồ thị không có yếu tố thời gian: có thể sử dụng thì hiện tại (present tenses) hoặc quá khứ (past tenses). Lưu ý rằng phải có sự nhất quán trọng việc dùng thì.
   * Đối với dạng biểu đồ/đồ thị có những sự kiện hay dự báo tương lai: mình khuyến nghị nên sử dụng thêm thì tương lai (future tenses).
 4. Ngoài ra, các bạn còn có thể dùng những cụm từ sau đây:
@@ -84,10 +84,10 @@ Nếu bạn đam mê tiếng Anh nhưng chưa biết làm thế nào để học
 ***
 
 # English version
-A typical response for Task 1 of the IELTS Academic Writing Test consists of two primary parts: an Introduction and a Body. In this article, we will explore how to craft a compelling Introduction that effectively sets the stage for the rest of your response. By following these guidelines, you can ensure that your Introduction is clear, concise, and engaging, capturing the attention of your reader and setting the tone for the rest of your essay. Let’s get started!
+A typical response for Task 1 of the IELTS Academic Writing Test consists of two primary parts: an Introduction and a Body. In this article, we will explore how to craft a compelling Introduction that effectively sets the stage for the rest of your response. By following these guidelines, you can ensure that your Introduction is clear, concise, and engaging. Let’s get started!
 
 ## Structure of an introduction
-The introduction to a graph typically consists of two main parts:
+The introduction to a graph (or a chart) typically consists of two main parts:
 * **Description of the Graph, i.e., What does the graph show?**: This part should provide a brief overview of the graph including the following information:
   *  The type of graph being described, i.e. What type of graph are we describing?.
   *  The information presented in the graph, i.e., What is the information?.
@@ -106,7 +106,10 @@ Note that no statistical information about the graph (i.e. numbers, percentages,
 2. In the second part of the introduction (**What is the overview of this graph?**), we provide a high-level summary of the main trends or patterns observed in the graph. To do this effectively, we should:
   * Begin our sentences with appropriate phrases that indicate we are providing an overview, such as ``Overall``, or ``In general``;
   * Highlight the most significant trends or patterns presented in the graph, using clear and concise language.
-
+3. About the tenses:
+  * Historical data in a graph with dates: the safest option is using active, past simple tense.
+  * Graph with no date: either present or past tense (must be consistent).
+  * Future events and forecasts: use future tenses.
 
 ## Analyzing sample responses
 Consider the following example:
@@ -125,7 +128,7 @@ Here are some sample responses to this example:
 * Response 2: The graph shows the amount of fast food eaten between 1970 and 1990 in grams per person per week. Overall, the amount of fast food consumed more than doubled during the period.
 * My own response: The line chart describes the changes in the consumption of fast foods in the UK for a period of 20 years from 1970 to 1990. The data are measured in grams per week (g/w) and are broken down into three categories namely hamburgers, fish & chips, and pizzas. Overall, there was an upward trend in the consumption of hamburgers and fish & chips, while the number of pizzas consumed declined over the period.
 
-# Luyện tập (Practice)
+## Practice
 Here are my proposals on how to practice writing the introduction to a graph or a chart:
 1. Compose an introduction for each of the practice tests included in the Academic Student’s Books, spanning from Volume 1 to Volume 18.
 2. Submit your introductions to a certified teacher or instructor for feedback and suggestions.
