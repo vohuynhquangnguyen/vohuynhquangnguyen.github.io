@@ -50,11 +50,11 @@ Sau đây là những thông tin chung mà các bạn cần biết về bài ki�
 
 ## Những quy tắc chung khi làm Task 2
 1. Chung quy lại, có năm bước các bạn cần phải thực hiện để đạt được 7.0+ Band trong IELTS Writing Task 2. Các bước ấy bao gồm:
-  1. Hiểu câu hỏi được nêu ra. 
-  2. Lên dàn ý cho câu trả lời của bạn. 
-  3. Viết phần Mở Bài. 
-  4. Viết phần Thân Bài. 
-  5. Viết phần Kết Bài.
+  * Hiểu câu hỏi được nêu ra. 
+  * Lên dàn ý cho câu trả lời của bạn. 
+  * Viết phần Mở Bài. 
+  * Viết phần Thân Bài. 
+  * Viết phần Kết Bài.
 
 2. Sau đây là một câu trả lời mẫu cho một bài Task 2 được lấy từ cuốn Cambridge 18 với yêu cầu là
 ``Some university students want to learn about other subjects in addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both views and give your own opinion.``: 
@@ -109,11 +109,11 @@ Here is a summary of the information you need to know about the Academic Writing
 
 ## General rules of IELTS Task 2
 1. Overall, there are five steps you must follow to earn a 7.0+ Band in IELTS Writing Task 2:
-  1. Understand the question.
-  2. Plan your answer.
-  3. Write the introduction.
-  4. Write body paragraphs.
-  5. Write the conclusion.
+  * Understand the question.
+  * Plan your answer.
+  * Write the introduction.
+  * Write body paragraphs.
+  * Write the conclusion.
 
 2. Here is a sample response for a Task 2 excerpt from Cambridge Academic IELTS Volume 18:
 ``Some university students want to learn about other subjects in addition to their main subjects. Others believe it is more important to give all their time and attention to studying for a qualification. Discuss both views and give your own opinion.``
