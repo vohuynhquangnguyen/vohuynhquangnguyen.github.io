@@ -9,7 +9,7 @@ tags:
 
 This note is part of my collection of proposed lessons for self-learning English. You can navigate the entire collection [here](/posts/2023/07/english-workshop/). The contents of this note are based on the Official Guidance of IELTS Academic Writing. Further information about the IELTS Academic Writing Test can be found [here](https://www.ielts.org/for-test-takers/test-format).
 
-# Mục Lục
+# Mục Lục (Table of Contents)
 1. [Bản Tiếng Việt (Vietnamese version)](#vietnamese)
 2. [Bản Tiếng Anh (English version)](#english)
 

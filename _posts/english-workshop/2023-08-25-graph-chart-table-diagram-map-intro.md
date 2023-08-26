@@ -14,7 +14,14 @@ The contents of this note are based on the following textbooks:
 * Collins Get Ready for IELTS Writing by Fiona Aish and Jo Tomlinson.
 
 ---
-# Vietnamese version
+
+# Mục Lục (Table of Contents)
+1. [Bản Tiếng Việt (Vietnamese version)](#vietnamese)
+2. [Bản Tiếng Anh (English version)](#english)
+
+***
+
+# Vietnamese version <a name = 'vietnamese'></a>
 Một câu trả lời điển hình cho Task 1 của phần thi Viết Học Thuật của IELTS (Academic IELTS) bao gồm hai phần chính: Mở Bài (Introduction) và Thân Bài (Body). Trong bài viết này, chúng ta sẽ khám phá cách viết phần Mở Bài một cách hiệu quả. Bằng cách tuân theo những gì mà mình hướng dẫn ở đây, các bạn có thể đảm bảo rằng phần Mở Bài của các bạn sẽ trở nên rõ ràng hơn, ngắn gọn hơn, và hấp dẫn hơn. Hãy bắt đầu thôi nào!
 
 ## Cấu trúc của phần Mở Bài 
@@ -83,7 +90,7 @@ Nếu bạn đam mê tiếng Anh nhưng chưa biết làm thế nào để học
 
 ***
 
-# English version
+# English version <a name = 'english'></a>
 A typical response for Task 1 of the IELTS Academic Writing Test consists of two primary parts: an Introduction and a Body. In this article, we will explore how to craft a compelling Introduction that effectively sets the stage for the rest of your response. By following these guidelines, you can ensure that your Introduction is clear, concise, and engaging. Let’s get started!
 
 ## Structure of an introduction
