@@ -108,8 +108,8 @@ Note that no statistical information about the graph (i.e. numbers, percentages,
   * Highlight the most significant trends or patterns presented in the graph, using clear and concise language.
 3. About the tenses:
   * Historical data in a graph with dates: the safest option is using active, past simple tense.
-  * Graph with no date: either present or past tense (must be consistent).
-  * Future events and forecasts: use future tenses.
+  * Graph with no date: either present or past tense can be used. Though, the usage of tenses must be consistent.
+  * Future events and forecasts: I strongly recommend adding future tenses in an appropriate manner.
 
 Here are some phrases that we can use to:
 * Begin our first part:
