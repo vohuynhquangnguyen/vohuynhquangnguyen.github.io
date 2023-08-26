@@ -48,11 +48,11 @@ Ngoài ra, các bạn còn có thể dùng những cụm từ sau đây:
   * ``The graph depicts ...``
   * ``The graph provides information about ...``
 * Để bắt đầu phần Tổng Quan của mình:
-  * `Generally speaking, [...] is the most striking feature`.
-  * `It is important to note that X`.
-  * `It is noticeable that `.
-  * `The most striking feature is the …`. 
-  * `The most significant facts to emerge from the graph are that …`.
+  * `Generally speaking, ... is the most striking feature`.
+  * `It is important to note that ... `.
+  * `It is noticeable that ... `.
+  * `The most striking feature is the ... `. 
+  * `The most significant facts to emerge from the graph are that ... `.
 
 ## Ví dụ
 Hãy tìm hiểu một ví dụ như sau:
@@ -118,11 +118,11 @@ Here are some phrases that we can use to:
   * ``The graph depicts ...``
   * ``The graph provides information about ...``
 * Begin our second part:
-  * `Generally speaking, [...] is the most striking feature`.
-  * `It is important to note that X`.
-  * `It is noticeable that `.
-  * `The most striking feature is the …`. 
-  * `The most significant facts to emerge from the graph are that …`.
+  * `Generally speaking, ... is the most striking feature`.
+  * `It is important to note that ... `.
+  * `It is noticeable that ... `.
+  * `The most striking feature is the ...`. 
+  * `The most significant facts to emerge from the graph are that ... `.
 
 ## Analyzing sample responses
 Consider the following example:
