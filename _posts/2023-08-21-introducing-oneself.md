@@ -40,7 +40,7 @@ Sau đây là một số những cách diễn đạt hữu ích các bạn có t
 * Giới thiệu tính cách:
     * I consider myself as a [personality] person.
 
-Sau đây là danh sách những từ hay được dùng để mô tả tính cách của bản thân hay một người nào đó 
+Sau đây là danh sách những từ hay được dùng để mô tả tính cách (personality) của bản thân hay một người nào đó 
 * easy-going: dễ tính/ dễ chịu
 * frank: thẳng thắn
 * humorous: hài hước
@@ -55,11 +55,16 @@ Sau đây là danh sách những từ hay được dùng để mô tả tính c�
 * responsible: có trách nhiệm
 * empathetic: thấu cảm
 
+## Luyện Tập
 Dưới đây là một số gợi ý về cách bạn có thể luyện tập giới thiệu bản thân:
-
 1. Sử dụng các câu hỏi mà mình đã đề xuất ở trên như một hướng dẫn để chuẩn bị phần giới thiệu bản thân của các bạn và viết phần ấy trên một tờ giấy.
 2. Sau đó, các bạn hãy đứng trước gương và đọc to phần giới thiệu của mình, đồng thời các bạn hãy cố gắng ghi nhớ nó.
 3. Sau khi các bạn đã ghi nhớ phần giới thiệu bản thân rồi, hãy đứng trước gương và kể lại phần giới thiệu của mình như thể bạn đang trò chuyện với một người khác.
+
+## Lời Kết
+Chung quy lại, các bạn hãy dùng cấu trúc 5W1H cũng như những gợi ý của mình ở trên để lên ý tưởng cho phần giới thiệu bản thân nhé.
+
+Nếu bạn đam mê tiếng Anh nhưng chưa biết làm thế nào để học tiếng Anh sao cho hiệu quả, hãy tham khảo những bài viết của mình tại [đây](/posts/2023/07/english-workshop/) nhé.
 
 ***
 
@@ -113,3 +118,8 @@ Here are some suggestions on how you can practice introducing yourself:
 1. Use the suggested questions as a guideline to prepare your own introduction on a piece of paper.
 2. Practice reading your introduction aloud in front of a mirror and try to memorize it.
 3. Once you have memorized your introduction, practice speaking in front of the mirror as if you are conversing with another person.
+
+## Final Words
+In summary, you can use the 5W1H model as well as my suggestions above as a guideline for planning your self-introduction.
+
+If you are passionate about English but don’t know how to learn English effectively, please refer to the collection of my posts [here](/posts/2023/07/english-workshop/).
