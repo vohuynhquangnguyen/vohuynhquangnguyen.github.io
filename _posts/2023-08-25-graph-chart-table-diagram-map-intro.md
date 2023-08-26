@@ -41,7 +41,11 @@ Lưu ý rằng khi viết phần Tổng Quan thì các bạn không nên đề c
   * Đối với dạng biểu đồ/đồ thị không có yếu tố thời gian: có thể sử dụng thì hiện tại (present tenses) hoặc quá khứ (past tenses). Lưu ý rằng phải có sự nhất quán trọng việc dùng thì.
   * Đối với dạng biểu đồ/đồ thị có những sự kiện hay dự báo tương lai: mình khuyến nghị nên sử dụng thêm thì tương lai (future tenses).
 4. Ngoài ra, các bạn còn có thể dùng những cụm từ sau đây để bắt đầu phần Tổng Quan của mình:
-
+  * `Generally speaking, … is the most striking feature`.
+  * `It is important to note that …`.
+  * `It is noticeable that …`.
+  * `The most striking feature is the …`. 
+  * `The most significant facts to emerge from the graph are that …`.
 
 ## Phân tích các câu trả lời mẫu
 Hãy tìm hiểu một ví dụ như sau:
