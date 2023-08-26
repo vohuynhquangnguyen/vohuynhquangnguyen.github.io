@@ -18,7 +18,7 @@ The contents of this note are based on the following textbooks:
 Một câu trả lời điển hình cho Task 1 của phần thi Viết Học Thuật của IELTS (Academic IELTS) bao gồm hai phần chính: Mở Bài (Introduction) và Thân Bài (Body). Trong bài viết này, chúng ta sẽ khám phá cách viết phần Mở Bài một cách hiệu quả. Bằng cách tuân theo những gì mà mình hướng dẫn ở đây, các bạn có thể đảm bảo rằng phần Mở Bài của các bạn sẽ trở nên rõ ràng hơn, ngắn gọn hơn, và hấp dẫn hơn. Hãy bắt đầu thôi nào!
 
 ## Cấu trúc của phần Mở Bài 
-Phần Mở Bài của Task 1, đặc biệt là cho những dạng bài về đồ thị và biểu đồ, thường bao gồm hai phần chính như sau:
+Phần Mở Bài của Task 1, đặc biệt là cho những dạng bài về biểu đồ/đồ thị, thường bao gồm hai phần chính như sau:
 * **Mô Tả (What does the graph show?)**: Phần này nên cung cấp một cái nhìn ngắn gọn về biểu đồ/đồ thị được cho, bao gồm những thông tin cơ bản như sau:
   * Chúng ta đang mô tả loại biểu đồ/đồ thị nào? 
   * Thông tin nào hiện đang được trình bày? 
@@ -32,20 +32,27 @@ Phần Mở Bài của Task 1, đặc biệt là cho những dạng bài về đ
 Lưu ý rằng khi viết phần Tổng Quan thì các bạn không nên đề cập tới các thông số thống kê (chẳng hạn như số liệu, phần trăm, v.v...).
 
 ## Làm sao để viết phần Mở Bài 
-1. Trong phần **Mô Tả**, chúng ta sẽ viết lại (paraphrase) những mô tả mà câu hỏi cung cấp cho chúng ta.
+1. Trong phần **Mô Tả**, chúng ta sẽ viết lại (paraphrase) những mô tả của biểu đồ/đồ thị mà câu hỏi cung cấp cho chúng ta.
 2. Trong phần **Tổng Quan**, để có thể viết được một tóm tắt sơ lược về những thay đổi hay xu thế chính sao cho hiệu quả, chúng ta nên:
   * Bắt đầu với các cụm từ thích hợp chẳng hạn như ``In general``, hoặc ``Overall``;
   * Nêu bật các thay đổi hoặc xu thế đáng kể nhất qua việc sử dụng ngôn ngữ một cách mạch lạc và súc tích.
 3. Về việc dùng thì:
-  * Đối với dạng biểu đồ/đồ thị có yếu tố thời gian (graphs and charts with historical data): mình khuyến nghị sử dụng thì hiện tại ở thể chủ động (active present tenses) hoặc thì quá khứ đơn (simple past tense).
+  * Đối với dạng biểu đồ/đồ thị có yếu tố thời gian (graphs and charts with historical data): mình khuyến nghị các bạn nên sử dụng thì hiện tại ở thể chủ động (active present tenses) hoặc thì quá khứ đơn (simple past tense).
   * Đối với dạng biểu đồ/đồ thị không có yếu tố thời gian: có thể sử dụng thì hiện tại (present tenses) hoặc quá khứ (past tenses). Lưu ý rằng phải có sự nhất quán trọng việc dùng thì.
   * Đối với dạng biểu đồ/đồ thị có những sự kiện hay dự báo tương lai: mình khuyến nghị nên sử dụng thêm thì tương lai (future tenses).
-4. Ngoài ra, các bạn còn có thể dùng những cụm từ sau đây để bắt đầu phần Tổng Quan của mình:
-  * `Generally speaking, … is the most striking feature`.
-  * `It is important to note that …`.
-  * `It is noticeable that …`.
-  * `The most striking feature is the …`. 
-  * `The most significant facts to emerge from the graph are that …`.
+4. Ngoài ra, các bạn còn có thể dùng những cụm từ sau đây:
+  * Để bắt đầu phần Mô Tả:
+    * ``The graph illustrates ...``
+    * ``The graph shows ...``
+    * ``The graph depicts ...``
+    * ``The graph provides information about ...``
+
+  * Để bắt đầu phần Tổng Quan của mình:
+    * `Generally speaking, [...] is the most striking feature`.
+    * `It is important to note that X`.
+    * `It is noticeable that `.
+    * `The most striking feature is the …`. 
+    * `The most significant facts to emerge from the graph are that …`.
 
 ## Ví dụ
 Hãy tìm hiểu một ví dụ như sau:
