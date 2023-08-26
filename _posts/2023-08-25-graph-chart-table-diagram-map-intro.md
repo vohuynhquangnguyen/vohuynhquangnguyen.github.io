@@ -14,18 +14,29 @@ The contents of this note are based on the following textbooks:
 * Collins Get Ready for IELTS Writing by Fiona Aish and Jo Tomlinson.
 
 ---
-
+# Vietnamese version
 Một câu trả lời điển hình cho Task 1 của phần thi Viết Học Thuật của IELTS (Academic IELTS) bao gồm hai phần chính: Mở Bài (Introduction) và Thân Bài (Body). Trong bài viết này, chúng ta sẽ khám phá cách tạo ra phần Introduction một cách hiệu quả để chuẩn bị cho phần còn lại của câu trả lời của các bạn. Bằng cách tuân theo những hướng dẫn này, các bạn có thể đảm bảo rằng phần Mở Bài của các bạn sẽ trở nên rõ ràng hơn, ngắn gọn hơn, và hấp dẫn hơn. Hãy bắt đầu nào!
 
-(ENG: A typical response for Task 1 of the IELTS Academic Writing Test consists of two primary parts: an Introduction and a Body. In this article, we will explore how to craft a compelling Introduction that effectively sets the stage for the rest of your response. By following these guidelines, you can ensure that your Introduction is clear, concise, and engaging, capturing the attention of your reader and setting the tone for the rest of your essay. Let’s get started!)
+## Cấu trúc của phần Mở Bài 
+Phần Mở Bài thường bao gồm hai phần chính như sau:
+* **Mô tả**: Phần này nên cung cấp một cái nhìn tổng quan ngắn gọn về đồ thị, bao gồm những thông tin cơ bản như sau:
+  * Chúng ta đang mô tả loại đồ thị nào? 
+  * Thông tin nào hiện được trình bày? 
+  * Thông tin này được đo lường như thế nào? 
+  * Có yếu tố thời gian nào hay không?
 
-# Cấu trúc của phần Mở Bài (Structure of an introduction)
-Phần Mở Bài thường bao gồm hai phần chính như sau (ENG: The introduction to a graph typically consists of two main parts):
-* Mô tả (ENG: **Description of the Graph, i.e., What does the graph show?**) Phần này nên cung cấp một cái nhìn tổng quan ngắn gọn về đồ thị, bao gồm những thông tin cơ bản như sau (ENG:This part should provide a brief overview of the graph including the following information):
-  * Chúng ta đang mô tả loại đồ thị nào? (ENG: The type of graph being described, i.e. What type of graph are we describing?).
-  * Thông tin nào hiện được trình bày? (ENG: The information presented in the graph, i.e., What is the information?).
-  * Thông tin này được đo lường như thế nào? (ENG: The units of measurement used, i.e., How is this information measured?).
-  * Có yếu tố thời gian nào hay không? (ENG: The time period covered by the data (if applicable), i.e., Is there a time period?).
+***
+
+# English version
+A typical response for Task 1 of the IELTS Academic Writing Test consists of two primary parts: an Introduction and a Body. In this article, we will explore how to craft a compelling Introduction that effectively sets the stage for the rest of your response. By following these guidelines, you can ensure that your Introduction is clear, concise, and engaging, capturing the attention of your reader and setting the tone for the rest of your essay. Let’s get started!
+
+## Structure of an introduction
+The introduction to a graph typically consists of two main parts:
+* **Description of the Graph, i.e., What does the graph show?**: This part should provide a brief overview of the graph including the following information:
+  *  The type of graph being described, i.e. What type of graph are we describing?.
+  *  The information presented in the graph, i.e., What is the information?.
+  *  The units of measurement used, i.e., How is this information measured?.
+  *  The time period covered by the data (if applicable), i.e., Is there a time period?.
 
 * **Overview of the Graph, i.e., What is the overview of this graph?:** This part should provide a high-level summary of the main patterns or trends observed in the graph, such as:
   * The most significant changes or movements.
