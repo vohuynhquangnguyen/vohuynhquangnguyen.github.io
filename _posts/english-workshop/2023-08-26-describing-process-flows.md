@@ -64,11 +64,14 @@ Here is an example of how these phrases are used in a sample response:
   * **Is it a cyclical or linear process?** $\rightarrow$ This process is cyclical.
   * **Where does it start and where does it end?** $\rightarrow$ In this process, there is no clear distinction between an end stage and a beginning stage.
   * **How many stages are there?** $\rightarrow$ There are two stages in this process.
-  * **What does each stage do?** $\rightarrow$ The first stage is the evaporation of water from the ocean; the second stage is the condensation of water vapour leading to the formation of clouds; the third stage is the precipitation.
-        
-        Evaporation, Precipitation, Runoff.
-        
-    6. Are there any materials added to the process?
-        
-        No materials added
+  * **What does each stage do?** $\rightarrow$ The first stage is the evaporation of water from the ocean; the second stage is the condensation of water vapour leading to the formation of clouds; the third stage is the precipitation; the fourth stage is the water's journey back to the ocean.
+  * **Are there any materials added to the process?**: There is no materials added.
 
+3. Here is a sample response of this example:
+```
+The given diagram illustrates the water cycle. Overall, this natural cycle consists of two primary stages. Firstly, water evaporates from the ocean, rises into the atmosphere, cools and condenses into rain or snow in clouds, and falls again to the surface in the form of rain and snow (precipitation). The next stage shows the water's journey after falling to the ground, which ends with water intrusion.
+
+In the first stage of the cycle, water, approximately 80% of which comes from the oceans, evaporates into the air as a result of the heat of the sun. After that, the water vapour condenses to form clouds. An estimated 80% of the water vapour comes from oceans.
+
+In the next stage, as clouds accumulate condensation they produce precipitation in the form of rain and snow. A large part of the water from the precipitation falls into lakes or is absorbed by the earth. Part of the groundwater then flows back to the ocean without reaching the impervious layer through surface runoff. Finally, ocean water flows (seeps) through to the freshwater aquifers during a process called saltwater intrusion.
+```
