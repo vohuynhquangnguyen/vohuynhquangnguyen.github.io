@@ -26,7 +26,7 @@ The contents of this note are based on the following textbooks:
 Khi viết một bài trả lời cho một quy trình trong Task 1 của kì thi IELTS, các bạn nên tuân theo bốn bước sau:
 1. **Nắm rõ được quy trình**: Trong bước này, bạn cần dành thời gian để xem xét kỹ lưỡng biểu đồ và hiểu quy trình mà nó đại diện và đảm bảo rằng bạn hiểu các giai đoạn khác nhau và cách chúng được kết nối. Sau đây là những câu hỏi mà mình khuyên các bạn nên dùng để hiểu được quy trình một cách nhanh chóng:
   * Quy trình này do con người tạo ra hay tự nhiên?
-  * Đó là một quy trình có tính tuần hoàn (cyclical) hay tuyến tính (linear)?
+  * Đây là một quy trình có tính tuần hoàn (cyclical) hay tuyến tính (linear)?
   * Quy trình này có bao nhiêu giai đoạn?
   * Quy trình bắt đầu ở đâu và kết thúc ở đâu?
   * Mỗi giai đoạn trong quy trình này làm gì?
@@ -53,7 +53,27 @@ Sau đây là ví dụ mà các cụm từ này được sử dụng trong bài 
 
 *Nguồn: Marc Roche*
 
-## Luyện Tập
+2. Chúng ta hãy phân tích ví dụ trên qua các câu hỏi mà mình đã đề cập:
+  * **Quy trình này do con người tạo ra hay tự nhiên?** → Đây là một quy trình tự nhiên.
+  * **Đây là một quy trình chu kỳ hay tuyến tính?** → Quy trình này là chu kỳ.
+  * **Quy trình này bắt đầu ở đâu và kết thúc ở đâu?** → Trong quy trình này, không có sự phân biệt rõ ràng giữa giai đoạn kết thúc và giai đoạn bắt đầu.
+  * **Có bao nhiêu giai đoạn?** → Có hai giai đoạn trong quy trình này.
+  * **Mỗi giai đoạn trong quy trình này làm gì?** → Giai đoạn đầu tiên là sự bay hơi của nước từ đại dương; giai đoạn thứ hai là sự ngưng tụ của hơi nước dẫn đến hình thành mây; giai đoạn thứ ba là lượng mưa; giai đoạn thứ tư là hành trình của nước trở lại đại dương.
+  * **Có bất kỳ vật liệu nào được thêm vào quy trình không?**: Không có vật liệu nào được thêm vào.
+
+3. Sau đây là một bài trả lời mẫu cho ví dụ này:
+<aside>
+The given diagram illustrates the water cycle. Overall, this natural cycle consists of two primary stages. Firstly, water evaporates from the ocean, rises into the atmosphere, cools and condenses into rain or snow in clouds, and falls again to the surface in the form of rain and snow (precipitation). The next stage shows the water's journey after falling to the ground, which ends with water intrusion.
+
+In the first stage of the cycle, water, approximately 80% of which comes from the oceans, evaporates into the air as a result of the heat of the sun. After that, the water vapour condenses to form clouds. An estimated 80% of the water vapour comes from oceans.
+
+In the next stage, as clouds accumulate condensation they produce precipitation in the form of rain and snow. A large part of the water from the precipitation falls into lakes or is absorbed by the earth. Part of the groundwater then flows back to the ocean without reaching the impervious layer through surface runoff. Finally, ocean water flows (seeps) through to the freshwater aquifers during a process called saltwater intrusion.
+</aside>
+
+## Thực Hành
+1. Để mô tả một quy trình một cách hiệu quả, điều cần thiết là phải có một vốn từ vựng đa dạng. Một cách để mở rộng vốn từ vựng mà các bạn có thể tham khảo là bằng học các bài đọc (reading passages) có trong các cuốn Cambridge IELTS hoặc trong bộ sách Inside Reading của Oxford University Press.
+2. Sau khi vốn từ vựng đã đủ rồi, các bạn có thể bắt đầu làm các đề Writing trong bộ Cambridge IELTS.
+3. Sau khi đã viết xong, các bạn hãy gửi các bài viết của mình cho các anh chị giáo viên IELTS có kinh nghiệm để được nhận xét và sửa lỗi.
 
 ## Lời Kết
 
