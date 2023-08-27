@@ -65,7 +65,7 @@ Sau đây là danh sách những từ hay được dùng để mô tả tính c�
 * empathetic: thấu cảm
 
 ## Thực Hành
-Dưới đây là một số gợi ý về cách bạn có thể luyện tập giới thiệu bản thân:
+Dưới đây là một số gợi ý về cách các bạn có thể luyện tập để giới thiệu bản thân bằng Tiếng Anh:
 1. Sử dụng các câu hỏi mà mình đã đề xuất ở trên như một hướng dẫn để chuẩn bị phần giới thiệu bản thân của các bạn và viết phần ấy trên một tờ giấy.
 2. Sau đó, các bạn hãy đứng trước gương và đọc to phần giới thiệu của mình, đồng thời các bạn hãy cố gắng ghi nhớ nó.
 3. Sau khi các bạn đã ghi nhớ phần giới thiệu bản thân rồi, hãy đứng trước gương và kể lại phần giới thiệu của mình như thể bạn đang trò chuyện với một người khác.
@@ -93,19 +93,19 @@ One of the best ways to introduce yourself is by using the 5W1H - which is an ab
     
 Here are some useful expressions you can try when planning your introduction:
 * Introducing name and age:
-    * My full name is [my full name].
-    * I am in my [age numbers].
-    * I am over/almost/nearly [age numbers].
-    * Everyone calls me [my nickname/preferred name].
-    * You can call me [my nickname/preferred name].
+    * My full name is [your full name].
+    * I am in my [your age numbers].
+    * I am over/almost/nearly [your age numbers].
+    * Everyone calls me [your nickname/preferred name].
+    * You can call me [your nickname/preferred name].
 * Introducing hometown:
     * I come from/grow up in an urban/suburban/rural area of [city’s name].
 * Introducing hobbies:
-    * I have a soft spot for [my likes]
-    * [My likes] is my cup of tea.
-    * [My dislikes] is not my cup of tea.
+    * I have a soft spot for [your likes]
+    * [Your likes] is my cup of tea.
+    * [Your dislikes] is not my cup of tea.
 * Introducing personalities:
-    * I consider myself as a [personality] person.
+    * I consider myself as a [your personality] person.
 
 Here is the list of commonly used words to describe a person's personalities:
 * easy-going: dễ tính/ dễ chịu
