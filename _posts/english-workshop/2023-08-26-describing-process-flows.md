@@ -36,7 +36,22 @@ Khi viết một bài trả lời cho một quy trình trong Task 1 của kì th
   * Để viết phần Mô Tả, các bạn chỉ cần viết lại những câu mô tả của quy trình mà câu hỏ cung cấp cho bạn. Điều này tương tự như những gì chúng ta đã làm trong bài đăng [Writing an Introduction for a Graph or a Chart](/posts/2023/08/graph-chart-table-intro/) vừa rồi.
 3. **Viết phần Thân Bài**: Trong bước này, hãy tổ chức bài trả lời của các bạn thành một tới hai đoạn văn để mô tả một cách chi tiết từng giai đoạn của quy trình (tức là, mỗi giai đoạn làm gì, đầu vào và đầu ra của từng giai đoạn là gì, v.v.). Trong quá trình viết, các bạn hãy sử dụng từ vựng thích hợp để mô tả các giai đoạn khác nhau và mối quan hệ của chúng.
 4. **Kiểm tra lại bài trả lời**: Cuối cùng, các bạn hãy chắc chắn rằng bài viết của mình đã được kiểm tra cẩn thận về mặt ngữ pháp và chính tả trước khi nộp hoặc chuyển sang Task tiếp theo.
+
+Đây là một số cụm từ (hoặc từ nối) thường được sử dụng để mô tả trình tự, đây là một khía cạnh quan trọng khi viết phân tích về quy trình:
+  * **Mô tả một sự khởi đầu**: `in the beginning`; `initially`; `before`; `first`; `firstly`.
+  * **Mô tả một sự tiếp theo**: ``then``; ``after that``; ``next``; ``immediately after``; ``as soon as``; ``once``.
+  * **Mô tả một sự kiện xảy ra cùng lúc**: ``concurrently``; ``meanwhile``; ``simultaneously``; ``at the same time``.
+  * **Mô tả một kết thúc**: ``in the end``, ``finally``.
+
+Sau đây là ví dụ mà các cụm từ này được sử dụng trong bài viết mẫu cho Task 1:
+  * **First**, the internal components of the processor are manufactured in an outsourced factory. **At the same time**, the exterior and the memory chip are produced. These are **then** transported to a different factory for assembly. **After that**, they are sent to the central warehouse for distribution around the country. **Once** the device breaks, it is either discarded or recycled at a specialist recycling point. If it is the latter, the broken or faulty components of the device are repaired and the tablet is **then** sent back for sale as a refurbished product.
+
 ## Ví Dụ
+1. Hãy xem xét một ví dụ sau:
+
+![](/images/posts_images/describing-process-flows-1.png)
+
+*Nguồn: Marc Roche*
 
 ## Luyện Tập
 
