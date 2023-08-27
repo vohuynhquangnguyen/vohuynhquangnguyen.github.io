@@ -62,7 +62,7 @@ Sau đây là danh sách những từ hay được dùng để mô tả tính c�
 * responsible: có trách nhiệm
 * empathetic: thấu cảm
 
-## Luyện Tập
+## Thực Hành
 Dưới đây là một số gợi ý về cách bạn có thể luyện tập giới thiệu bản thân:
 1. Sử dụng các câu hỏi mà mình đã đề xuất ở trên như một hướng dẫn để chuẩn bị phần giới thiệu bản thân của các bạn và viết phần ấy trên một tờ giấy.
 2. Sau đó, các bạn hãy đứng trước gương và đọc to phần giới thiệu của mình, đồng thời các bạn hãy cố gắng ghi nhớ nó.

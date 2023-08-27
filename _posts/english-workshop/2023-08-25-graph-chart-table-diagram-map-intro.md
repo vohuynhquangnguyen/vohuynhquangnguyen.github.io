@@ -78,7 +78,7 @@ Dưới đây là một số câu trả lời mẫu cho ví dụ này mà các b
 * **Mẫu 2**: The graph shows the amount of fast food eaten between 1970 and 1990 in grams per person per week. Overall, the amount of fast food consumed more than doubled during the period.
 * **Mẫu 3 - đây là câu trả lời mà mình tự viết**: The line chart describes the changes in the consumption of fast foods in the UK for a period of 20 years from 1970 to 1990. The data are measured in grams per week (g/w) and are broken down into three categories namely hamburgers, fish & chips, and pizzas. Overall, there was an upward trend in the consumption of hamburgers and fish & chips, while the number of pizzas consumed declined over the period.
 
-## Luyện tập
+## Thực Hành
 Dưới đây là một số gợi ý về cách các bạn có thể luyện tập viết phần Mở Bài nhé:
 1. Các bạn hãy viết phần Mở Bài cho các đề Writing trong bộ Cambridge (từ Cuốn 1 tới Cuốn 18). Các bạn có thể lên trang web [Study4](study4.com) để truy cập vào các đề Writing trong bộ Cambridge nhe.
 2. Sau khi đã viết xong, các bạn hãy gửi phần Mở Bài đã được viết cho các anh chị giáo viên IELTS có kinh nghiệm để được nhận xét và sửa lỗi.
