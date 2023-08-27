@@ -150,7 +150,7 @@ Here are some sample responses to this example:
 
 ## Practice
 Here are my proposals on how to practice writing the introduction to a graph or a chart:
-1. Compose an introduction for each of the practice tests included in the Cambridge Academic Student’s Books, spanning from Volume 1 to Volume 18. You can go to this [Study4](study4.com) webpage to access these practice tests.
+1. Compose an introduction for each of the practice tests included in the Cambridge IELTS series, spanning from Volume 1 to Volume 18. You can go to this [Study4](study4.com) webpage to access these practice tests.
 2. Submit your introductions to a certified teacher or instructor for feedback and suggestions.
 
 ## Final Words

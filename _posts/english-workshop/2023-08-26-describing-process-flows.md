@@ -22,6 +22,13 @@ The contents of this note are based on the following textbooks:
 *** 
 
 # Vietnamese version <a name = 'vietnamese'></a>
+## Mẹo
+
+## Ví Dụ
+
+## Luyện Tập
+
+## Lời Kết
 
 ***
 
@@ -75,4 +82,11 @@ In the next stage, as clouds accumulate condensation they produce precipitation 
 </aside>
 
 ## Practice
-1. 
+1. To effectively describe a process flow, it is essential to have a diverse vocabulary. One way to expand your vocabulary is by studying the reading passages included in the Academic Reading Sample Tests from the Cambridge IELTS series or the Inside Reading series by Oxford University Press.
+2. Once you have enriched your vocabulary, you can begin practicing composing responses to the tests included in the Cambridge IELTS series.
+3. For feedback and suggestions, submit your responses to a certified teacher or instructor.
+
+## Final Words
+In summary, there are four steps\, which I have mentioned above, that you must do to write a response to a process-flow-type question in Task 1.
+
+If you are passionate about English but don’t know how to learn English effectively, please refer to the collection of my posts [here](/posts/2023/07/english-workshop/).
