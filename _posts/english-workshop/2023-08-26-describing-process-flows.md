@@ -45,7 +45,7 @@ When writing a response for a process flow in Task 1 of the IELTS Academic Writi
 2. **Write the introduction**: Begin your response by writing an introduction that consists of two parts: a description of what the diagram shows and an overview of the process. T To write the second part, use the questions you asked to understand the process as your guidelines.
   * To write the first part, paraphrase the description of the diagram given to you. This is similar to what we have already done in [Writing an Introduction for a Graph or a Chart](/posts/2023/08/graph-chart-table-intro/).
   *  To write the second part, use the questions you asked to understand the process as your guidelines.
-3. **Write the body**: Organize your response into one or two paragraphs that detail each stage of the process. Use appropriate vocabulary to describe the different stages and how they are connected.
+3. **Write the body**: Organize your response into one or two paragraphs that detail each stage of the process (i.e., what each stage does, what it receives and produces, etc.). Use appropriate vocabulary to describe the different stages and how they are connected.
 4. **Check your response**: Finally, make sure to check your work for grammar, spelling, and punctuation errors before submitting it or moving on to the next task.
 
 Here are several phrases (or linking words) commonly used to describe sequences, which is an import aspect when writing an analysis of a process flow:
@@ -87,6 +87,6 @@ In the next stage, as clouds accumulate condensation they produce precipitation 
 3. For feedback and suggestions, submit your responses to a certified teacher or instructor.
 
 ## Final Words
-In summary, there are four steps\, which I have mentioned above, that you must do to write a response to a process-flow-type question in Task 1.
+In summary, there are four steps, which I have mentioned above, that you must do to write a response to a process-flow-type question in Task 1.
 
 If you are passionate about English but don’t know how to learn English effectively, please refer to the collection of my posts [here](/posts/2023/07/english-workshop/).
