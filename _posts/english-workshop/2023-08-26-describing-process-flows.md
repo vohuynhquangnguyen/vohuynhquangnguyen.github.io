@@ -76,6 +76,9 @@ In the next stage, as clouds accumulate condensation they produce precipitation 
 3. Sau khi đã viết xong, các bạn hãy gửi các bài viết của mình cho các anh chị giáo viên IELTS có kinh nghiệm để được nhận xét và sửa lỗi.
 
 ## Lời Kết
+Chung quy, có bốn bước mình đã đề cập ở trên mà các bạn phải làm để viết một bài trả lời điểm cao cho dạng đề Quy Trình của Task 1.
+
+Nếu bạn đam mê tiếng Anh nhưng không biết cách học tiếng Anh hiệu quả, xin vui lòng tham khảo tập hợp các bài viết của mình tại [đây](/posts/2023/07/english-workshop/).
 
 ***
 
