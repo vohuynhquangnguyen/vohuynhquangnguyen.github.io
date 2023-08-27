@@ -24,7 +24,7 @@ The contents of this note are based on the following textbooks:
 # Vietnamese version <a name = 'vietnamese'></a>
 ## Mẹo
 Khi viết một bài trả lời cho một quy trình trong Task 1 của kì thi IELTS, các bạn nên tuân theo bốn bước sau:
-1. **Nắm rõ được quy trình**: Trong bước này, bạn cần dành thời gian để xem xét kỹ lưỡng biểu đồ và hiểu quy trình mà nó đại diện và đảm bảo rằng bạn hiểu các giai đoạn khác nhau và cách chúng được kết nối. Sau đây là những câu hỏi mà mình khuyên các bạn nên dùng để hiểu được quy trình một cách nhanh chóng:
+1. **Nắm rõ được quy trình**: Trong bước này, các bạn cần dành đủ thời gian xem xét kỹ lưỡng quy trình được cho để đảm bảo rằng các bạn nắm được quy trình này cũng như hiểu được các giai đoạn có trong quy trình và cách chúng được kết nối. Sau đây là những câu hỏi mà mình khuyên các bạn nên dùng để hiểu được quy trình một cách nhanh chóng:
   * Quy trình này do con người tạo ra hay tự nhiên?
   * Đây là một quy trình có tính tuần hoàn (cyclical) hay tuyến tính (linear)?
   * Quy trình này có bao nhiêu giai đoạn?
