@@ -75,3 +75,6 @@ In the first stage of the cycle, water, approximately 80% of which comes from th
 
 In the next stage, as clouds accumulate condensation they produce precipitation in the form of rain and snow. A large part of the water from the precipitation falls into lakes or is absorbed by the earth. Part of the groundwater then flows back to the ocean without reaching the impervious layer through surface runoff. Finally, ocean water flows (seeps) through to the freshwater aquifers during a process called saltwater intrusion.
 </aside>
+
+## Practice
+1. 
