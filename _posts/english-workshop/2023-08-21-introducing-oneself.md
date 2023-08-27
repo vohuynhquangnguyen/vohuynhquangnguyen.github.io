@@ -18,7 +18,7 @@ This note is part of my collection of proposed lessons for self-learning English
 ***
 
 # Vietnamese version <a name = 'vietnamese'></a>
-Một trong những cách tốt nhất để giới thiệu bản thân là sử dụng hệ thống 5W1H để các bạn có thể tự chuẩn bị bài giới thiệu của các bạn. Bạn có thể tham khảo các câu hỏi sau đây, được sắp xếp dựa trên hệ thống 5W1H, để có thể chuẩn bị bài giới thiệu bản thân:
+Một trong những cách tốt nhất để giới thiệu bản thân là sử dụng hệ thống 5W1H (là viết tắt của Who - Ai, What - Cái Gì, When - Khi Nào, Where - Ở Đâu, Why - Vì Sao, How - Như Thế Nào) để các bạn có thể tự chuẩn bị bài giới thiệu của các bạn. Bạn có thể tham khảo các câu hỏi sau đây, được sắp xếp dựa trên hệ thống 5W1H, để có thể chuẩn bị bài giới thiệu bản thân:
 
 | Question | Sample Answer |
 | --- | --- |
@@ -76,7 +76,7 @@ Nếu bạn đam mê tiếng Anh nhưng chưa biết làm thế nào để học
 ***
 
 # English version <a name = 'english'></a>
-One of the best ways to introduce yourself is by using the 5W1H system to plan your introduction. You can consult the following questions, which have been structured according to the 5W1H system, to plan your introduction.
+One of the best ways to introduce yourself is by using the 5W1H - which is an abbreviation of Who, What, When, Where, Why, and How - system to plan your introduction. You can consult the following questions, which have been structured according to the 5W1H system, to plan your introduction.
     
 | Question | Sample Answer |
 | --- | --- |

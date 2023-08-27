@@ -53,4 +53,22 @@ Here is an example of how these phrases are used in a sample response:
 </aside>
 
 ## Example
+1. Consider the following example:
+
+![](/images/posts_images/describing-process-flows-1.png)
+
+*Source: Marc Roche*
+
+2. Let’s analyse the example using the aforementioned questions:
+  * **Is this process man-made or natural?** $\rightarrow$ This is a natural process.
+  * **Is it a cyclical or linear process?** $\rightarrow$ This process is cyclical.
+  * **Where does it start and where does it end?** $\rightarrow$ In this process, there is no clear distinction between an end stage and a beginning stage.
+  * **How many stages are there?** $\rightarrow$ There are two stages in this process.
+  * **What does each stage do?** $\rightarrow$ The first stage is the evaporation of water from the ocean; the second stage is the condensation of water vapour leading to the formation of clouds; the third stage is the precipitation.
+        
+        Evaporation, Precipitation, Runoff.
+        
+    6. Are there any materials added to the process?
+        
+        No materials added
 
