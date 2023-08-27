@@ -7,7 +7,9 @@ tags:
   - Basic Communication Skills 
 ---
 
-This note is part of my collection of proposed lessons for self-learning English. You can navigate the entire collection [here](/posts/2023/07/english-workshop/). The contents of this note are based on my own experience preparing for both the IELTS Academic Test and the Duolingo English Test (DET). This note is written in both English and Vietnamese.
+This note is part of my collection of proposed lessons for self-learning English. You can navigate the entire collection [here](/posts/2023/07/english-workshop/). 
+
+The contents of this note are based on my own experience preparing for both the IELTS Academic Test and the Duolingo English Test (DET). This note is written in both English and Vietnamese.
 
 ***
 
@@ -18,9 +20,9 @@ This note is part of my collection of proposed lessons for self-learning English
 ***
 
 # Vietnamese version <a name = 'vietnamese'></a>
-Một trong những cách tốt nhất để giới thiệu bản thân là sử dụng hệ thống 5W1H (là viết tắt của Who - Ai, What - Cái Gì, When - Khi Nào, Where - Ở Đâu, Why - Vì Sao, How - Như Thế Nào) để các bạn có thể tự chuẩn bị bài giới thiệu của các bạn. Bạn có thể tham khảo các câu hỏi sau đây, được sắp xếp dựa trên hệ thống 5W1H, để có thể chuẩn bị bài giới thiệu bản thân:
+Một trong những cách tốt nhất để giới thiệu bản thân theo kinh nghiêm cá nhân của mình đó là sử dụng hệ thống 5W1H (là viết tắt của Who - Ai, What - Cái Gì, When - Khi Nào, Where - Ở Đâu, Why - Vì Sao, How - Như Thế Nào) để các bạn có thể tự chuẩn bị bài giới thiệu của các bạn. Các bạn có thể tham khảo các câu hỏi sau đây, được sắp xếp dựa trên hệ thống 5W1H, để có thể chuẩn bị bài giới thiệu bản thân:
 
-| Question | Sample Answer |
+| Câu Hỏi | Câu Trả Lời Mẫu |
 | --- | --- |
 | Who am I? (My name or what people can call me) | Hello. My name is Quang Nguyen. You can call me Lucius. |
 | How old am I? | I will be 28 years old by December this year. |
@@ -33,19 +35,19 @@ Một trong những cách tốt nhất để giới thiệu bản thân là sử
 
 Sau đây là một số những cách diễn đạt hữu ích các bạn có thể thử để chuẩn bị cho bài giới thiệu bản thân:
 * Giới thiệu tên tuổi:
-    * My full name is [my full name].
-    * I am in my [age numbers].
-    * I am over/almost/nearly [age numbers].
-    * Everyone calls me [my nickname/preferred name].
-    * You can call me [my nickname/preferred name].
+    * My full name is [tên đầy đủ của các bạn].
+    * I am in my [số tuổi của các bạn].
+    * I am over/almost/nearly [số tuổi của các bạn].
+    * Everyone calls me [tên thường gọi của các bạn].
+    * You can call me [tên thường gọi của các bạn].
 * Giới thiệu quê quán:
-    * I come from/grow up in an urban/suburban/rural area of [city’s name].
+    * I come from/grow up in an urban/suburban/rural area of [tên của quên quán các bạn].
 * Giới thiệu sở thích bản thân:
-    * I have a soft spot for [my likes]
-    * [My likes] is my cup of tea.
-    * [My dislikes] is not my cup of tea.
+    * I have a soft spot for [sở thích của các bạn]
+    * [Sở thích của các bạn] is my cup of tea.
+    * [Những gì mà các bạn không thích] is not my cup of tea.
 * Giới thiệu tính cách:
-    * I consider myself as a [personality] person.
+    * I consider myself as a [tính cách của các bạn] person.
 
 Sau đây là danh sách những từ hay được dùng để mô tả tính cách (personality) của bản thân hay một người nào đó 
 * easy-going: dễ tính/ dễ chịu
