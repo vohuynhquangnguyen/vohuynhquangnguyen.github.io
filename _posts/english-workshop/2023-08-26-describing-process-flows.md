@@ -76,7 +76,8 @@ In the next stage, as clouds accumulate condensation they produce precipitation 
 </aside>
 
 ## Thực Hành
-1. Để mô tả một quy trình một cách hiệu quả, điều cần thiết là phải có một vốn từ vựng đa dạng. Một cách để mở rộng vốn từ vựng mà các bạn có thể tham khảo là bằng học các bài đọc (reading passages) có trong các cuốn Cambridge IELTS hoặc trong bộ sách Inside Reading của Oxford University Press.
+Sau đây là một số gợi ý của mình về việc thực hành viết một bài mô tả cho một quy trình trong Task 1:
+1. Để mô tả một quy trình một cách hiệu quả, điều cần thiết là phải có một vốn từ vựng đa dạng. Một cách để mở rộng vốn từ vựng mà các bạn có thể tham khảo là học các bài đọc (reading passages) có trong các cuốn Cambridge IELTS hoặc trong bộ sách Inside Reading của Oxford University Press.
 2. Sau khi vốn từ vựng đã đủ rồi, các bạn có thể bắt đầu làm các đề Writing trong bộ Cambridge IELTS.
 3. Sau khi đã viết xong, các bạn hãy gửi các bài viết của mình cho các anh chị giáo viên IELTS có kinh nghiệm để được nhận xét và sửa lỗi.
 
@@ -113,30 +114,33 @@ Here is an example of how these phrases are used in a sample response:
   * **First**, the internal components of the processor are manufactured in an outsourced factory. **At the same time**, the exterior and the memory chip are produced. These are **then** transported to a different factory for assembly. **After that**, they are sent to the central warehouse for distribution around the country. **Once** the device breaks, it is either discarded or recycled at a specialist recycling point. If it is the latter, the broken or faulty components of the device are repaired and the tablet is **then** sent back for sale as a refurbished product.
 
 ## Example
-1. Consider the following example:
+Consider the following example:
 
 ![](/images/posts_images/describing-process-flows-1.png)
 
 *Source: Marc Roche*
 
-2. Let’s analyse the example using the aforementioned questions:
-  * **Is this process man-made or natural?** $\rightarrow$ This is a natural process.
-  * **Is it a cyclical or linear process?** $\rightarrow$ This process is cyclical.
-  * **Where does it start and where does it end?** $\rightarrow$ In this process, there is no clear distinction between an end stage and a beginning stage.
-  * **How many stages are there?** $\rightarrow$ There are two stages in this process.
-  * **What does each stage do?** $\rightarrow$ The first stage is the evaporation of water from the ocean; the second stage is the condensation of water vapour leading to the formation of clouds; the third stage is the precipitation; the fourth stage is the water's journey back to the ocean.
-  * **Are there any materials added to the process?**: There is no materials added.
+Let’s analyse the example using the aforementioned questions:
+* **Is this process man-made or natural?** $\rightarrow$ This is a natural process.
+* **Is it a cyclical or linear process?** $\rightarrow$ This process is cyclical.
+* **Where does it start and where does it end?** $\rightarrow$ In this process, there is no clear distinction between an end stage and a beginning stage.
+* **How many stages are there?** $\rightarrow$ There are two stages in this process.
+* **What does each stage do?** $\rightarrow$ The first stage is the evaporation of water from the ocean; the second stage is the condensation of water vapour leading to the formation of clouds; the third stage is the precipitation; the fourth stage is the water's journey back to the ocean.
+* **Are there any materials added to the process?**: There is no materials added.
 
-3. Here is a sample response of this example:
+Here is a sample response of this example:
 <aside>
 The given diagram illustrates the water cycle. Overall, this natural cycle consists of two primary stages. Firstly, water evaporates from the ocean, rises into the atmosphere, cools and condenses into rain or snow in clouds, and falls again to the surface in the form of rain and snow (precipitation). The next stage shows the water's journey after falling to the ground, which ends with water intrusion.
 
+
 In the first stage of the cycle, water, approximately 80% of which comes from the oceans, evaporates into the air as a result of the heat of the sun. After that, the water vapour condenses to form clouds. An estimated 80% of the water vapour comes from oceans.
+
 
 In the next stage, as clouds accumulate condensation they produce precipitation in the form of rain and snow. A large part of the water from the precipitation falls into lakes or is absorbed by the earth. Part of the groundwater then flows back to the ocean without reaching the impervious layer through surface runoff. Finally, ocean water flows (seeps) through to the freshwater aquifers during a process called saltwater intrusion.
 </aside>
 
 ## Practice
+Here are my proposals on how to practice writing a description of a process flow:
 1. To effectively describe a process flow, it is essential to have a diverse vocabulary. One way to expand your vocabulary is by studying the reading passages included in the Academic Reading Sample Tests from the Cambridge IELTS series or the Inside Reading series by Oxford University Press.
 2. Once you have enriched your vocabulary, you can begin practicing composing responses to the tests included in the Cambridge IELTS series.
 3. For feedback and suggestions, submit your responses to a certified teacher or instructor.
