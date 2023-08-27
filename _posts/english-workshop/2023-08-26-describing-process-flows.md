@@ -42,7 +42,7 @@ Khi viết một bài trả lời cho một quy trình trong Task 1 của kì th
 
 Sau đây là một số cụm từ (hoặc từ nối) thường được sử dụng để mô tả trình tự - một khía cạnh quan trọng khi viết phân tích về quy trình:
   * **Mô tả một sự khởi đầu**: `in the beginning`; `initially`; `before`; `first`; `firstly`.
-  * **Mô tả một sự tiếp theo**: ``then``; ``after that``; ``next``; ``immediately after``; ``as soon as``; ``once``.
+  * **Mô tả một sự tiếp nối**: ``then``; ``after that``; ``next``; ``immediately after``; ``as soon as``; ``once``.
   * **Mô tả một sự kiện xảy ra cùng lúc**: ``concurrently``; ``meanwhile``; ``simultaneously``; ``at the same time``.
   * **Mô tả một kết thúc**: ``in the end``, ``finally``.
 
@@ -58,17 +58,19 @@ Sau đây là ví dụ mà các cụm từ này được sử dụng trong bài 
 
 2. Chúng ta hãy phân tích ví dụ trên qua các câu hỏi mà mình đã đề cập:
   * **Quy trình này do con người tạo ra hay tự nhiên?** → Đây là một quy trình tự nhiên.
-  * **Đây là một quy trình chu kỳ hay tuyến tính?** → Quy trình này là chu kỳ.
+  * **Đây là một quy trình tuần hoàn hay tuyến tính?** → Quy trình này là tính tuần hoàn.
   * **Quy trình này bắt đầu ở đâu và kết thúc ở đâu?** → Trong quy trình này, không có sự phân biệt rõ ràng giữa giai đoạn kết thúc và giai đoạn bắt đầu.
   * **Có bao nhiêu giai đoạn?** → Có hai giai đoạn trong quy trình này.
-  * **Mỗi giai đoạn trong quy trình này làm gì?** → Giai đoạn đầu tiên là sự bay hơi của nước từ đại dương; giai đoạn thứ hai là sự ngưng tụ của hơi nước dẫn đến hình thành mây; giai đoạn thứ ba là lượng mưa; giai đoạn thứ tư là hành trình của nước trở lại đại dương.
+  * **Mỗi giai đoạn trong quy trình này làm gì?** → Giai đoạn đầu tiên là sự bay hơi của nước từ đại dương; giai đoạn thứ hai là sự ngưng tụ của hơi nước dẫn đến hình thành mây; giai đoạn thứ ba là hiện tượng giáng thủy; giai đoạn thứ tư là hành trình của nước trở lại đại dương.
   * **Có bất kỳ vật liệu nào được thêm vào quy trình không?**: Không có vật liệu nào được thêm vào.
 
 3. Sau đây là một bài trả lời mẫu cho ví dụ này:
 <aside>
 The given diagram illustrates the water cycle. Overall, this natural cycle consists of two primary stages. Firstly, water evaporates from the ocean, rises into the atmosphere, cools and condenses into rain or snow in clouds, and falls again to the surface in the form of rain and snow (precipitation). The next stage shows the water's journey after falling to the ground, which ends with water intrusion.
 
+
 In the first stage of the cycle, water, approximately 80% of which comes from the oceans, evaporates into the air as a result of the heat of the sun. After that, the water vapour condenses to form clouds. An estimated 80% of the water vapour comes from oceans.
+
 
 In the next stage, as clouds accumulate condensation they produce precipitation in the form of rain and snow. A large part of the water from the precipitation falls into lakes or is absorbed by the earth. Part of the groundwater then flows back to the ocean without reaching the impervious layer through surface runoff. Finally, ocean water flows (seeps) through to the freshwater aquifers during a process called saltwater intrusion.
 </aside>
