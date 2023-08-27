@@ -65,15 +65,13 @@ Sau đây là ví dụ mà các cụm từ này được sử dụng trong bài 
   * **Có bất kỳ vật liệu nào được thêm vào quy trình không?**: Không có vật liệu nào được thêm vào.
 
 3. Sau đây là một bài trả lời mẫu cho ví dụ này:
-<aside>
+<blockquote>
 The given diagram illustrates the water cycle. Overall, this natural cycle consists of two primary stages. Firstly, water evaporates from the ocean, rises into the atmosphere, cools and condenses into rain or snow in clouds, and falls again to the surface in the form of rain and snow (precipitation). The next stage shows the water's journey after falling to the ground, which ends with water intrusion.
-
 
 In the first stage of the cycle, water, approximately 80% of which comes from the oceans, evaporates into the air as a result of the heat of the sun. After that, the water vapour condenses to form clouds. An estimated 80% of the water vapour comes from oceans.
 
-
 In the next stage, as clouds accumulate condensation they produce precipitation in the form of rain and snow. A large part of the water from the precipitation falls into lakes or is absorbed by the earth. Part of the groundwater then flows back to the ocean without reaching the impervious layer through surface runoff. Finally, ocean water flows (seeps) through to the freshwater aquifers during a process called saltwater intrusion.
-</aside>
+</blockquote>
 
 ## Thực Hành
 Sau đây là một số gợi ý của mình về việc thực hành viết một bài mô tả cho một quy trình trong Task 1:
@@ -129,15 +127,13 @@ Let’s analyse the example using the aforementioned questions:
 * **Are there any materials added to the process?**: There is no materials added.
 
 Here is a sample response of this example:
-<aside>
+<blockquote>
 The given diagram illustrates the water cycle. Overall, this natural cycle consists of two primary stages. Firstly, water evaporates from the ocean, rises into the atmosphere, cools and condenses into rain or snow in clouds, and falls again to the surface in the form of rain and snow (precipitation). The next stage shows the water's journey after falling to the ground, which ends with water intrusion.
-
 
 In the first stage of the cycle, water, approximately 80% of which comes from the oceans, evaporates into the air as a result of the heat of the sun. After that, the water vapour condenses to form clouds. An estimated 80% of the water vapour comes from oceans.
 
-
 In the next stage, as clouds accumulate condensation they produce precipitation in the form of rain and snow. A large part of the water from the precipitation falls into lakes or is absorbed by the earth. Part of the groundwater then flows back to the ocean without reaching the impervious layer through surface runoff. Finally, ocean water flows (seeps) through to the freshwater aquifers during a process called saltwater intrusion.
-</aside>
+</blockquote>
 
 ## Practice
 Here are my proposals on how to practice writing a description of a process flow:
