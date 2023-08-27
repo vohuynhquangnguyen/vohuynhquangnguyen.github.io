@@ -31,13 +31,16 @@ Khi viết một bài trả lời cho một quy trình trong Task 1 của kì th
   * Quy trình bắt đầu ở đâu và kết thúc ở đâu?
   * Mỗi giai đoạn trong quy trình này làm gì?
   * Có bất kỳ vật liệu nào được thêm vào quy trình không?
+
 2. **Viết phần Mở Bài**: Bắt đầu bài trả lời của bạn bằng cách viết phần Mở Bài bao gồm hai phần: Mô Tả (Description) và Tổng Quan (Overview) về quy trình. 
+  * Để viết phần Mô Tả, các bạn chỉ cần viết lại những câu mô tả của quy trình mà câu hỏi cung cấp cho bạn. Điều này tương tự như những gì chúng ta đã làm trong bài đăng [Writing an Introduction for a Graph or a Chart](/posts/2023/08/graph-chart-table-intro/) vừa rồi.
   * Để viết phần Tổng Quan, hãy sử dụng các câu hỏi mà các bạn đã hỏi ở trên để làm dàn ý.
-  * Để viết phần Mô Tả, các bạn chỉ cần viết lại những câu mô tả của quy trình mà câu hỏ cung cấp cho bạn. Điều này tương tự như những gì chúng ta đã làm trong bài đăng [Writing an Introduction for a Graph or a Chart](/posts/2023/08/graph-chart-table-intro/) vừa rồi.
+
 3. **Viết phần Thân Bài**: Trong bước này, hãy tổ chức bài trả lời của các bạn thành một tới hai đoạn văn để mô tả một cách chi tiết từng giai đoạn của quy trình (tức là, mỗi giai đoạn làm gì, đầu vào và đầu ra của từng giai đoạn là gì, v.v.). Trong quá trình viết, các bạn hãy sử dụng từ vựng thích hợp để mô tả các giai đoạn khác nhau và mối quan hệ của chúng.
+
 4. **Kiểm tra lại bài trả lời**: Cuối cùng, các bạn hãy chắc chắn rằng bài viết của mình đã được kiểm tra cẩn thận về mặt ngữ pháp và chính tả trước khi nộp hoặc chuyển sang Task tiếp theo.
 
-Đây là một số cụm từ (hoặc từ nối) thường được sử dụng để mô tả trình tự, đây là một khía cạnh quan trọng khi viết phân tích về quy trình:
+Sau đây là một số cụm từ (hoặc từ nối) thường được sử dụng để mô tả trình tự - một khía cạnh quan trọng khi viết phân tích về quy trình:
   * **Mô tả một sự khởi đầu**: `in the beginning`; `initially`; `before`; `first`; `firstly`.
   * **Mô tả một sự tiếp theo**: ``then``; ``after that``; ``next``; ``immediately after``; ``as soon as``; ``once``.
   * **Mô tả một sự kiện xảy ra cùng lúc**: ``concurrently``; ``meanwhile``; ``simultaneously``; ``at the same time``.
