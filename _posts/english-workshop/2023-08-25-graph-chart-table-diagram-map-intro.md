@@ -22,7 +22,7 @@ The contents of this note are based on the following textbooks:
 ***
 
 # Vietnamese version <a name = 'vietnamese'></a>
-Một câu trả lời điển hình cho Task 1 của phần thi Viết Học Thuật của IELTS (Academic IELTS) bao gồm hai phần chính: Mở Bài (Introduction) và Thân Bài (Body). Trong bài viết này, chúng ta sẽ khám phá cách viết phần Mở Bài một cách hiệu quả. Bằng cách tuân theo những gì mà mình hướng dẫn ở đây, các bạn có thể đảm bảo rằng phần Mở Bài của các bạn sẽ trở nên rõ ràng hơn, ngắn gọn hơn, và hấp dẫn hơn. Hãy bắt đầu thôi nào!
+Một câu trả lời điển hình cho Task 1 của phần thi Viết Học Thuật (Academic Writing) của kì thi IELTS bao gồm hai phần chính: Mở Bài (Introduction) và Thân Bài (Body). Trong bài viết này, chúng ta sẽ khám phá cách viết phần Mở Bài một cách hiệu quả. Bằng cách tuân theo những gì mà mình hướng dẫn ở đây, các bạn có thể đảm bảo rằng phần Mở Bài của các bạn sẽ trở nên rõ ràng hơn, ngắn gọn hơn, và hấp dẫn hơn. Hãy bắt đầu thôi nào!
 
 ## Cấu trúc của phần Mở Bài 
 Phần Mở Bài của Task 1, đặc biệt là cho những dạng bài về biểu đồ/đồ thị, thường bao gồm hai phần chính như sau:
