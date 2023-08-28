@@ -47,7 +47,7 @@ The list of recommended textbooks to learn Academic English are as follows:
   * ``Cambridge IELTS Practice Tests``, published by Cambridge $\rightarrow$ these are the must-have practice tests to prepare for IELTS. The tests are hosted in [study4.com](study4.com) (the webpage is in Vietnamese).
 
 # Lessons
-The list of lessions are as follows:
+The list of lessons are as follows:
 
 ## Speaking
 ### General English Speaking Skills
@@ -64,7 +64,7 @@ The list of lessions are as follows:
     * Describing Bar Charts
     * Describing Pie Charts
     * Describing Tables
-    * [Describing Process Flows]
+    * [Describing Process Flows](/posts/2023/08/describing-process-flows/)
     * Describing Maps
 
 ## Reading
