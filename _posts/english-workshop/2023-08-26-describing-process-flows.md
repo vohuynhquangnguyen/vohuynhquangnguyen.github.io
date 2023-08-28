@@ -66,11 +66,11 @@ Sau đây là ví dụ mà các cụm từ này được sử dụng trong bài 
 
 3. Sau đây là một bài trả lời mẫu cho ví dụ này:
 <blockquote>
-The given diagram illustrates the water cycle. Overall, this natural cycle consists of two primary stages. Firstly, water evaporates from the ocean, rises into the atmosphere, cools and condenses into rain or snow in clouds, and falls again to the surface in the form of rain and snow (precipitation). The next stage shows the water's journey after falling to the ground, which ends with water intrusion.
+  <p>The given diagram illustrates the water cycle. Overall, this natural cycle consists of two primary stages. Firstly, water evaporates from the ocean, rises into the atmosphere, cools and condenses into rain or snow in clouds, and falls again to the surface in the form of rain and snow (precipitation). The next stage shows the water's journey after falling to the ground, which ends with water intrusion.</p>
 
-In the first stage of the cycle, water, approximately 80% of which comes from the oceans, evaporates into the air as a result of the heat of the sun. After that, the water vapour condenses to form clouds. An estimated 80% of the water vapour comes from oceans.
+  <p>In the first stage of the cycle, water, approximately 80% of which comes from the oceans, evaporates into the air as a result of the heat of the sun. After that, the water vapour condenses to form clouds. An estimated 80% of the water vapour comes from oceans.</p>
 
-In the next stage, as clouds accumulate condensation they produce precipitation in the form of rain and snow. A large part of the water from the precipitation falls into lakes or is absorbed by the earth. Part of the groundwater then flows back to the ocean without reaching the impervious layer through surface runoff. Finally, ocean water flows (seeps) through to the freshwater aquifers during a process called saltwater intrusion.
+  <p>In the next stage, as clouds accumulate condensation they produce precipitation in the form of rain and snow. A large part of the water from the precipitation falls into lakes or is absorbed by the earth. Part of the groundwater then flows back to the ocean without reaching the impervious layer through surface runoff. Finally, ocean water flows (seeps) through to the freshwater aquifers during a process called saltwater intrusion.</P>
 </blockquote>
 
 ## Thực Hành
