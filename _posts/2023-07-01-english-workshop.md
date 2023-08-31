@@ -60,12 +60,12 @@ The list of lessons are as follows:
 1. [An overview of the IELTS Academic Writing Test](/posts/2023/08/ielts-academic-writing-overview/)
 2. How to get a Band 7.0+ for the IELTS Academic Writing Test
     * [Writing an Introduction to a Graph or a Chart](/posts/2023/08/graph-chart-table-intro/)
-    * [Language of Changes]()
-    * Describing Bar Charts
-    * Describing Pie Charts
-    * Describing Tables
+    * [Language in Task 1](/posts/2023/08/language-task-1/)
+    * [Describing Bar Charts](/posts/2023/08/describing-bar-charts/)
+    * [Describing Pie Charts](/posts/2023/08/describing-pie-charts/)
+    * [Describing Tables](/post/2023/08/describing-tables)
     * [Describing Process Flows](/posts/2023/08/describing-process-flows/)
-    * Describing Maps
+    * [Describing Maps](/posts/2023/08/describing-maps/)
 
 ## Reading
 ### Academic Reading Skills
