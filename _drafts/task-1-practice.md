@@ -20,9 +20,10 @@ The bar graph presents the number of families in the US, categorized by their an
 </blockquote>
 
 ### Practice Test 4
+
 ![](../images/posts_images/task1_practice_C18_4.jpg)
 1. My own response:
 <blockquote>
-The line chart illustrates the changes in the average monthly prices of three metals - copper, nickel, and zinc - over the course of 2014. The most notable observation from the chart is that the price of nickel experienced a significant decrease compared to the other two metals.
+The line chart illustrates the changes in monthly prices of three metals - copper, nickel, and zinc - over the course of 2014. Overall, there were declines for the prices of copper and especially nickel, and a moderate rise for zinc. By the end of the period, the changes had become less extreme and nickel clearly experienced the greatest month-to-month volatility. 
 </blockquote>
 
