@@ -11,7 +11,7 @@ Analysis:
 
 My own response:
 <blockquote>
-The given line graph highlights how the percentage of the population residing in cities in four different Asian countries - the Philippines, Malaysia, Thailand, and Indonesia - changes for a period of 40 years from 1970 to 2020. The most notable observation from this graph is the increase in the number of city dwellers among these four countries.
+The given line graph highlights how the percentage of the population residing in cities in four different Asian countries - the Philippines, Malaysia, Thailand, and Indonesia - changes for a period of 70 years from 1970 to 2020. The most notable observation from this graph is the increase in the number of city dwellers among these four countries.
 </blockquote>
 
 
