@@ -24,13 +24,13 @@ The given line graph highlights how the percentage of the population residing in
 ![](../images/posts_images/task1_practice_C18_2.jpg)
 Analysis:
 1. What kind of chart/graph is this?
-    Line chart
-3. What is the information?
-   Percentage of the population living in cities in four Asian countries.
-5. How is this information measured?
-    Percentage
+Bar chart
+2. What is the information?
+The number of households in the US categorized by annual income
+3. How is this information measured?
+    millions
 7. Is there a time period?
-   1970 to 2040
+   Three distinct years: 2007, 2011, 2015
    
 My own response:
 <blockquote>
