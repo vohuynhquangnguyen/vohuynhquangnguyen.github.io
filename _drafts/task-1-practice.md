@@ -22,7 +22,16 @@ The given line graph highlights how the percentage of the population residing in
 ### Practice Test 2
 
 ![](../images/posts_images/task1_practice_C18_2.jpg)
-
+Analysis:
+1. What kind of chart/graph is this?
+    Line chart
+3. What is the information?
+   Percentage of the population living in cities in four Asian countries.
+5. How is this information measured?
+    Percentage
+7. Is there a time period?
+   1970 to 2040
+   
 My own response:
 <blockquote>
 The bar graph presents the number of families in the US, categorized by their annual earnings, in three different years: 2007, 2011, and 2015. The data, measured in millions, is divided into five categories. Several trends can be observed from the graph. Firstly, there is a general increase in the earnings of both upper-class and lower-class families, with earnings greater than or equal to $100,000 and less than $25,000 respectively. In contrast, the earnings of middle-class families, with incomes ranging from $25,000 to $99,999, remained relatively unchanged.
