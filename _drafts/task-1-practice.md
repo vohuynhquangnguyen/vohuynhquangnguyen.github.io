@@ -5,9 +5,13 @@
 ![](../images/posts_images/task1_practice_C18_1.jpg)
 Analysis:
 1. What kind of chart/graph is this?
-2. What is the information?
-3. How is this information measured?
-4. Is there a time period?
+    Line chart
+3. What is the information?
+   Percentage of the population living in cities in four Asian countries.
+5. How is this information measured?
+    Percentage
+7. Is there a time period?
+   1970 to 2040
 
 My own response:
 <blockquote>
