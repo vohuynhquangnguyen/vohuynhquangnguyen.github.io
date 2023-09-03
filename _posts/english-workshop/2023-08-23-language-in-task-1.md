@@ -35,12 +35,12 @@ Here is the list of expressions we can use to describes trends of these two line
 * B - C: Here, we can use either `fell`, `dropped` or `shrank` with complimentary adverbs such as `drastically`, `dramatically`, or `sharply` to describe a sharp reduction. Similar expressions are `plummeted to` or `plunged to`.
 * B - D: Here, we can use `dropped and then levelled off`. Another similar expression would be `dropped and then evened out at`.
 * D - F: Here, the perfect expressions would be `rose dramatically` or `increased dramatically`. Another common expressions would be `rocketed`.
-F: hit a peak/peaked at/reached a high of …
-F-H: fluctuated ~ was erratic.
-G: Hit a low of … / bottomed out at
-I-J: rose/increased steadily
-J-K: remained flat/constant/unchanged/stable at
-L-M: fell gradually.
+* F: When the data reach the highest possible value, we usually use these expressions - `hit a peak`, `peaked at`, or `reached a high of`.
+* F - H: When the data go up and down multiple times, we will use `fluctuated` or `was erratic`.
+* G: When the data reach the lowest possible values, we use these expressions - `hit a low of` or `bottomed out at`.
+* I - J: Here, we usually use these expressions `rose steadily` or `increased at a steady pace`.
+* J - K: Here, these expressions `remained flat`, `remained constant`, `remained unchanged`, or `stable at` are commonly used.
+* L - M: Here, we usually use the `fell gradually` expression.
 
 ## Language of Ratio/Percentage
 
