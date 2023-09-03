@@ -27,7 +27,7 @@ The contents of this note are based on the following textbooks:
 In IELTS Task 1, there are two primary types of language you need to get familiarized with: Language of Change, and Language of Ratio/Percentage.
 
 ## Language of Changes
-Consider the following graph:
+1. Consider the following graph:
 ![](/images//posts_images/language_of_changes_01.png)
 
 Here is the list of expressions we can use to describes trends of these two lines:
@@ -41,6 +41,14 @@ Here is the list of expressions we can use to describes trends of these two line
 * I - J: Here, we usually use these expressions `rose steadily` or `increased at a steady pace`.
 * J - K: Here, these expressions `remained flat`, `remained constant`, `remained unchanged`, or `stable at` are commonly used.
 * L - M: Here, we usually use the `fell gradually` expression.
+
+2. In Academic Writing, we usually use the following structures to describe changes during a particular timeframe.
+
+| Structure | Example |
+|-----------|---------|
+| There + be + adjective + noun + in + noun | There was a slow rise in the number of kilograms consumed. |
+| Noun + verb + adverb | Rice consumption increased steadily. |
+| Time + saw/experienced/witnessed + adjective + noun + in + noun | 1999 experienced a gradual increase in rice consumption. |
 
 ## Language of Ratio/Percentage
 
