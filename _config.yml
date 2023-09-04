@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vo, Huynh Quang Nguyen (Lucius)"
+title                    : "Lucius Vo"
 title_separator          : "-"
-name                     : &name "Vo, Huynh Quang Nguyen (Lucius)"
+name                     : &name "Lucius Vo"
 description              : &description "Doctoral Candidate|Data Scientist"
 url                      : https://vohuynhquangnguyen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
