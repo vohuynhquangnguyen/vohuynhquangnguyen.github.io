@@ -1,6 +1,6 @@
 ---
 title: 'How to introduce yourself in English'
-date: 2023-08-20
+date: 2023-08-10
 permalink: /posts/2023/08/introducing-oneself/
 tags:
   - English Learning
