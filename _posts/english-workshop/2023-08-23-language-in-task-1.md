@@ -25,6 +25,21 @@ The contents of this note are based on the following textbooks:
 Trong IELTS Task 1, có hai loại ngôn ngữ chính mà bạn cần làm quen: Ngôn Ngữ Thay đổi và Ngôn Ngữ Tỷ Lệ.
 
 ## Ngôn Ngữ Thay Đổi
+1. Hãy xem xét biểu đồ sau:
+![](/images//posts_images/language_of_changes_01.png)
+
+Dưới đây là danh sách các cách diễn đạt có thể được sử dụng để mô tả xu hướng của hai đường này:
+
+* A - B: Trong trường hợp này, chúng ta có thể sử dụng từ `dipped`, có nghĩa là giảm nhẹ nhưng phục hồi nhanh chóng.
+* B - C: Ở đây, chúng ta có thể sử dụng từ `fell`, `dropped` hoặc `shrank` với các trạng từ bổ nghĩa như `drastically`, `dramatically`, hoặc `sharply` để mô tả một sự giảm đáng kể. Các cách diễn đạt tương tự là `plummeted to` hoặc `plunged to`.
+* B - D: Ở đây, chúng ta có thể sử dụng cách diễn đạt `dropped and then levelled off`. Một cách diễn đạt tương tự khác là `dropped and then evened out at`.
+* D - F: Cách diễn đạt hoàn hảo ở đây sẽ là `rose dramatically` hoặc `increased dramatically`. Một cách diễn đạt phổ biến khác là `rocketed`.
+* F: Khi dữ liệu đạt giá trị cao nhất có thể, chúng ta thường sử dụng các cách diễn đạt này - `hit a peak`, `peaked at`, hoặc `reached a high of`.
+* F - H: Khi dữ liệu lên xuống nhiều lần, chúng ta sẽ sử dụng cách diễn đạt fluctuated hoặc was erratic.
+* G: Khi dữ liệu đạt giá trị thấp nhất có thể, chúng ta sử dụng các cách diễn đạt này - `hit a low of`hoặc `bottomed out at`.
+* I - J: Ở đây, chúng ta thường sử dụng các cách diễn đạt `rose steadily` hoặc `increased at a steady pace`.
+* J - K: Ở đây, các cách diễn đạt này `remained flat`, `remained constant`, `remained unchanged`, hoặc `stable at` thường được sử dụng.
+* L - M: Ở đây, chúng ta thường sử dụng cách diễn đạt `fell gradually`.
 
 ## Ngôn Ngữ Tỉ Lệ
 
