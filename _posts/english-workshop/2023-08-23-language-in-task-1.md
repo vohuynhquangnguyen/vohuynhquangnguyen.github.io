@@ -22,13 +22,14 @@ The contents of this note are based on the following textbooks:
 ***
 
 # Vietnamese version <a name = 'vietnamese'></a>
-Trong IELTS Task 1, có hai loại ngôn ngữ chính mà các bạn cần làm quen: Ngôn Ngữ Thay đổi và Ngôn Ngữ Tỷ Lệ.
+Trong IELTS Task 1, có hai loại hình thái ngôn ngữ chính mà các bạn cần làm quen: Ngôn Ngữ Thay Đổi (Language of Changes) và Ngôn Ngữ Tỷ Lệ (Language of Ratio/Percentage).
 
 ## Ngôn Ngữ Thay Đổi
 1. Hãy xem xét biểu đồ sau:
+
 ![](/images//posts_images/language_of_changes_01.png)
 
-Dưới đây là danh sách các cách diễn đạt có thể được sử dụng để mô tả xu hướng của hai đường này:
+Dưới đây là danh sách các cách diễn đạt có thể được sử dụng để mô tả xu hướng của hai đường dữ liệu có trong biểu đồ này:
 
 * A - B: Trong trường hợp này, chúng ta có thể sử dụng từ `dipped`, có nghĩa là giảm nhẹ nhưng phục hồi nhanh chóng.
 * B - C: Ở đây, chúng ta có thể sử dụng từ `fell`, `dropped` hoặc `shrank` với các trạng từ bổ nghĩa như `drastically`, `dramatically`, hoặc `sharply` để mô tả một sự giảm đáng kể. Các cách diễn đạt tương tự là `plummeted to` hoặc `plunged to`.
