@@ -28,6 +28,7 @@ Trong IELTS Task 1, có hai loại hình thái ngôn ngữ chính mà các bạn
 1. Hãy xem xét biểu đồ sau:
 
 ![](/images//posts_images/language_of_changes_01.png)
+_Nguồn: Marc Roche_
 
 Dưới đây là danh sách các cách diễn đạt có thể được sử dụng để mô tả xu hướng của hai đường dữ liệu có trong biểu đồ này:
 
@@ -64,6 +65,7 @@ share price of KBP over a period of four years from 2006 to 2010.
 | 2010 | The share price eventually **declined to** $11 <u>by the end of the period</u>. |
 
 ![](/images/posts_images/language_of_changes_02.png)
+_Nguồn: Marc Roche_
 
 ## Ngôn Ngữ Tỉ Lệ
 
@@ -98,6 +100,7 @@ In IELTS Task 1, there are two primary types of language you need to get familia
 ## Language of Changes
 1. Consider the following graph:
 ![](/images//posts_images/language_of_changes_01.png)
+_Source: Marc Roche_
 
 Here is the list of expressions we can use to describes trends of these two lines:
 * A - B: In this case, we can use `dipped`, which means fell slightly but recovered quickly.
@@ -133,6 +136,7 @@ share price of KBP over a period of four years from 2006 to 2010.
 | 2010 | The share price eventually **declined to** $11 <u>by the end of the period</u>. |
 
 ![](/images/posts_images/language_of_changes_02.png)
+_Source: Marc Roche_
 
 ## Language of Ratio/Percentage
 Here are some common expressions that we use when describing a table, a pie chart, or a bar graph with some comparisons included:
