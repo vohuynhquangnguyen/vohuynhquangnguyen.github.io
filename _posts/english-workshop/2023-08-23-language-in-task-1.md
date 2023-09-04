@@ -41,6 +41,29 @@ Dưới đây là danh sách các cách diễn đạt có thể được sử d�
 * J - K: Ở đây, các cách diễn đạt này `remained flat`, `remained constant`, `remained unchanged`, hoặc `stable at` thường được sử dụng.
 * L - M: Ở đây, chúng ta thường sử dụng cách diễn đạt `fell gradually`.
 
+2. Trong Tiếng Anh Học Thuật, chúng ta thường sử dụng các cấu trúc sau để mô tả sự thay đổi trong một khoảng thời gian cụ thể.
+
+| Cấu Trúc | Ví dụ |
+|-----------|---------|
+| There + be + tính từ + danh từ + in + danh từ	 | There was a slow rise in the number of kilograms consumed. |
+| Danh từ + động từ + trạng từ	 | Rice consumption increased steadily. |
+| Thời gian + saw/experienced/witnessed + tính từ + danh từ + in + danh từ | 1999 experienced a gradual increase in rice consumption. |
+
+3. Sau đây là một ví dụ về cách sử dụng ngôn ngữ mô tả sự thay đổi ( ví dụ này cũng sử dụng các cách diễn đạt về quãng thời gian tương ứng với sự thay đổi đó):
+
+This line chart describes the changes and the overall decline in the 
+share price of KBP over a period of four years from 2006 to 2010.
+
+| Year | Trend|
+|------|------|
+| 2006 | The share price of KBP was **at first** **situated at** $12 <u>at the beginning of 2006</u>. <u>Over the course of 2006</u>, the stock price **experienced several fluctuations** before **drastically rising to** $31 <u>by the end of the year</u>. |
+| 2007 | The high price was short-lived, however, as the share price **dropped to** $22 <u>by the end of 2007</u>, despite several **small recoveries** during <u>mid-2007</u>. |
+| 2008 | The share price then **quickly rebounded to** $30 by <u>mid-2008</u> before **plummeting to** just over $5 <u>at the end of the year</u>. |
+| 2009 | The share price **began to recover** in <u>early 2009</u>, and despite **some fluctuations**, it **continued to rise until** it **reached a peak of** $17 in <u>early 2010</u>. |
+| 2010 | The share price eventually **declined to** $11 <u>by the end of the period</u>. |
+
+![](/images/posts_images/language_of_changes_02.png)
+
 ## Ngôn Ngữ Tỉ Lệ
 
 # English version <a name = 'english'></a>
