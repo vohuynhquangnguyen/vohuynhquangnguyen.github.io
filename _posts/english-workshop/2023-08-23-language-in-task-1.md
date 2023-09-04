@@ -22,6 +22,11 @@ The contents of this note are based on the following textbooks:
 ***
 
 # Vietnamese version <a name = 'vietnamese'></a>
+Trong IELTS Task 1, có hai loại ngôn ngữ chính mà bạn cần làm quen: Ngôn Ngữ Thay đổi và Ngôn Ngữ Tỷ Lệ.
+
+## Ngôn Ngữ Thay Đổi
+
+## Ngôn Ngữ Tỉ Lệ
 
 # English version <a name = 'english'></a>
 In IELTS Task 1, there are two primary types of language you need to get familiarized with: Language of Change, and Language of Ratio/Percentage.
@@ -50,5 +55,35 @@ Here is the list of expressions we can use to describes trends of these two line
 | Noun + verb + adverb | Rice consumption increased steadily. |
 | Time + saw/experienced/witnessed + adjective + noun + in + noun | 1999 experienced a gradual increase in rice consumption. |
 
-## Language of Ratio/Percentage
+3. Here is an example of how the language of changes (expressions of describing changes and corresponding timeframe) is used:
 
+This line chart describes the changes and the overall decline in the 
+share price of KBP over a period of four years from 2006 to 2010.
+
+| Year | Trend|
+|------|------|
+| 2006 | The share price of KBP was **at first** **situated at** $12 <u>at the beginning of 2006</u>. <u>Over the course of 2006</u>, the stock price **experienced several fluctuations** before **drastically rising to** $31 <u>by the end of the year</u>. |
+| 2007 | The high price was short-lived, however, as the share price **dropped to** $22 <u>by the end of 2007</u>, despite several **small recoveries** during <u>mid-2007</u>. |
+| 2008 | The share price then **quickly rebounded to** $30 by <u>mid-2008</u> before **plummeting to** just over $5 <u>at the end of the year</u>. |
+| 2009 | The share price **began to recover** in <u>early 2009</u>, and despite **some fluctuations**, it **continued to rise until** it **reached a peak of** $17 in <u>early 2010</u>. |
+| 2010 | The share price eventually **declined to** $11 <u>by the end of the period</u>. |
+
+![](/images/posts_images/language_of_changes_02.png)
+
+## Language of Ratio/Percentage
+Here are some common expressions that we use when describing a table, a pie chart, or a bar graph with some comparisons included:
+
+| Expression	| Example |
+|-------------|---------|
+| x times the number of y	| The Iron Maiden concert was attended by three times the number of many people as the Stone Temple Pilots concert. |
+|more than x% of y |	More than 40% of people chose to use public transport. |
+| the bulk of x	| The bulk of purchases came from China as opposed to the E.U. |
+| one in x y | One in four customers ordered digital rather than traditional print products. |
+| under x%	| The social media website lost just under 75% of its visitors when compared to last year. |
+| the largest proportion of x |	The largest proportion of spending is on food, drinks, and tobacco than any other product categories. |
+| x had the lowest percentage	| The expenditure on leisure/education had the lowest percentage. |
+
+## Practice
+To write a good response for IELTS Task 1, you need to have a rich lexical resources, especially in how to describe trends and quantities. Hence, here are my proposals on how to enrich your repertoire:
+1. Do all exercises in these chapters of the **Check your English vocabulary for IELTS** workbook by Rawdon Wyatt - `Changes 1`, `Changes 2`, `Contrast & Comparison`, `Size, Quantity & Dimension`, and `Time`.
+2. Do exercises in chapters that focus on describing tables, pie chars, bar charts, and line charts in the **Collins Get Ready for IELTS Writing** by Fiona Aish and Jo Tomlinson. 
