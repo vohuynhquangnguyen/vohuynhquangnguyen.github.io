@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Ahoy There!
-My name is Vo Huynh Quang Nguyen, or Lucius for short. I am an engineering and science enthusiast with an industrial background in Computer Vision (CV), Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL).
+My name is Vo Huynh Quang Nguyen (last name - first name), or Lucius Vo for short. I am an engineering and science enthusiast with an industrial background in Computer Vision (CV), Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL).
 
 I am currently pursuing a Ph.D. program in Industrial Engineering and Management at Oklahoma State University, Stillwater (OSU). My research interests are primarily data science, computed intelligence, and computational architecture with a focus on machine-vision-based and data-driven solutions to enable the smart manufacturing of semiconductor devices. I am proficient in Python, statistical analysis with [SAS JMP](https://www.jmp.com/en_us/home.html), data retrieval and processing with [SQL](https://www.iso.org/standard/63555.html), and data visualization with [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/). I also excel in digital image processing with [OpenCV](https://opencv.org/), ML/DL model development, and deployment with [scikit-learn](https://scikit-learn.org/stable/index.html#) and [TensorFlow](https://www.tensorflow.org/). These proficiencies are exemplarily demonstrated by the Data Science projects I have completed as well as the guest lectures I have given at various universities. More details about these projects can be found at my [portfolio](../_pages/portfolio.md). Feel free to check this [page](../_pages/teaching.md) if you are interested in my lectures, tutorials, and workshops.
 
