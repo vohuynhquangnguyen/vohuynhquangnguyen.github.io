@@ -1,5 +1,5 @@
 ---
-title: 'Writing an Introduction to a Graph or a Chart'
+title: 'Language in IELTS Task 1'
 date: 2023-08-21
 permalink: /posts/2023/08/language-task-1/
 tags:
