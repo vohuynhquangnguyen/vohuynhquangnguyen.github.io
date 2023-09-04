@@ -61,7 +61,7 @@ Ngoài ra, các bạn còn có thể dùng những cụm từ sau đây:
   * `The most striking feature is the ... `. 
   * `The most significant facts to emerge from the graph are that ... `.
 
-## Ví dụ
+## Ví Dụ
 Hãy tìm hiểu một ví dụ như sau:
 
 ![](/images/posts_images/graph-chart-diagram-map-intro-1.png)
@@ -86,7 +86,7 @@ Dưới đây là một số gợi ý về cách các bạn có thể luyện t�
 1. Các bạn hãy viết phần Mở Bài cho các đề Writing trong bộ Cambridge (từ Cuốn 1 tới Cuốn 18). Các bạn có thể lên trang web [Study4](study4.com) để truy cập vào các đề Writing trong bộ Cambridge nhe.
 2. Sau khi đã viết xong, các bạn hãy gửi phần Mở Bài đã được viết cho các anh chị giáo viên IELTS có kinh nghiệm để được nhận xét và sửa lỗi.
 
-## Lời kết
+## Lời Kết
 Chung quy lại, phần Mở Bài cho Task 1, nhất là những dạng đề về biểu đồ/đồ thị, sẽ gồm có phần nhỏ là Mô Tả và Tổng Quan. Để có viết được những phần này sao cho hiệu quả, các bạn hãy dùng những gợi ý của mình ở trên để lên ý tưởng cho bài viết nhé.
 
 Nếu bạn đam mê tiếng Anh nhưng chưa biết làm thế nào để học tiếng Anh sao cho hiệu quả, hãy tham khảo những bài viết của mình tại [đây](/posts/2023/07/english-workshop/) nhé.
