@@ -54,7 +54,7 @@ The diagram details the floor plan of a central library in the present day compa
 
 2. My own response:
 <blockquote>
-The line chart illustrates the changes in monthly prices of three metals - copper, nickel, and zinc - over the course of 2014. Overall, there were declines for the prices of copper and especially nickel, and a moderate rise for zinc. By the end of the period, the changes had become less extreme and nickel clearly experienced the greatest month-to-month volatility. 
+The line chart illustrates the changes in monthly prices of three metals - copper, nickel, and zinc - over the course of 2014. Several trends are apparent. In the first half of 2014, there were general declines for the prices of these metals, with the price nickel experienced the greatest fall-out. By the end of the year, the changes had become less extreme, with the prices of the metals recovered.
 </blockquote>
 
 ## Cambridge IELTS Vol 17
@@ -72,6 +72,12 @@ The maps detail an industrial area in Norbiton in the present day and plans for 
 ### Practice Test 2
 
 ![](../images/posts_images/task1_practice_C17_2.jpg)
+
+1. Analysis:
+    * What type of graph are we describing? $\rightarrow$ Table and Pie chart
+    * What is the information? $\rightarrow$ (Table) Sources of income and how much from each source; (Pie Chart) How the money is allocated for each category
+    * How is this information measured? $\rightarrow$ (Table) in millions; (Pie Chart) Percentage
+    * Is there a time period? $\rightarrow$ In two different years - 2017, 2018
 
 2. My own response:
 <blockquote>
