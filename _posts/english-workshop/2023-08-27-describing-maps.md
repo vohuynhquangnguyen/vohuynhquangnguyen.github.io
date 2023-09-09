@@ -47,7 +47,7 @@ Sau khi đã trả lời tất cả các câu hỏi đã đề cập, bạn có 
 * Các bạn hãy nhóm các thông tin lại với nhau dựa trên các vị trí mà tại đó có những thay đổi rất dễ nhận thấy nhất. Hãy nhớ khi đề cập tới những vị trí này, các bạn hãy kết hợp với các cụm từ định hướng (chẳng hạn như: `in the northen part of`, `in the southern part of`, `in the center of`, v.v...) để giúp cho người đọc dễ điều hướng hơn
 * Ngoài ra, các bạn có thể sử dụng các cách diễn đạt mô tả sự thay đổi sau đây:
 
-| cách diễn dạt | Ngữ nghĩa | Ví dụ |
+| Cách diễn dạt | Ngữ nghĩa | Ví dụ |
 | --- | --- | --- |
 | `were knocked down to make way for` hoặc là `were demolished to create` | Khi một tòa nhà hoặc một bức tường nào đó bị phá hủy một cách có chủ đích để tạo không gian cho một thứ khác | The old factories `were knocked down to make way for` the accomodations. |
 | `were pulled down`| Tòa nhà hoặc bức tường nào đó bị phá hủy vì nó đã rất cũ hoặc rất nguy hiểm | Several old houses `were pulled down`, with a new hotel taking their place. |
@@ -55,6 +55,7 @@ Sau khi đã trả lời tất cả các câu hỏi đã đề cập, bạn có 
 | `was converted` | đã được biến đổi hoặc thay đổi thành một thứ khác | The fire station `was converted` into a gym and the car park torn down. |
 
 Ngoài ra, đây là một số động từ phổ biến mà bạn có thể tham khảo khi mô tả sự biến đổi của một khu vực:
+
 | Động từ | Ví dụ |
 | --- | --- |
 | turn into | The abandoned car-park near the woodlands turned into a museum. |
@@ -173,11 +174,9 @@ After answering all the aforementioned questions, you can begin to strategize on
 3. Here is my own response:
 <blockquote>
 The provided maps illustrate the significant changes that occurred on an island before and after the development of several tourist facilities. Overall, the island underwent extensive transformations with the construction of a restaurant, reception, pier, accommodations, and various tracks such as footpaths and vehicle tracks. Furthermore, the renovation efforts encompassed a majority of the island.
-<br>
-</br>
+
 It is evident from the diagram that with the introduction of tourism, the island now boasts ample accommodation for visitors. Additionally, the accommodation huts are interconnected by footpaths that wind around the reception and restaurant area. A total of six huts have been erected in the western part of the island, while another nine huts have been constructed around its center.
-<br>
-</br>
+
 A pier has also been established on the southern coast to enhance accessibility to the island for tourists, and a short road connects it to the reception and restaurant. The trees scattered around the island were left untouched, and a swimming area has been designated just off the beach.
 </blockquote>
 
