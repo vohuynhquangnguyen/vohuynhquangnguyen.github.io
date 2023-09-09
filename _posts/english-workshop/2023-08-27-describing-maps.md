@@ -69,13 +69,13 @@ Ngoài ra, đây là một số động từ phổ biến mà bạn có thể th
 | extend | The road was extended to the town center, and a new bus service was introduced to carry passengers to and from the airport |
 
 ## Ví Dụ
-1. Hãy xem xét ví dụ sau đây từ một bài thi thực tế.
+Hãy xem xét ví dụ sau đây từ một bài thi thực tế.
 
 ![](/images/posts_images/describing_maps_01.png)
 
 *Nguồn: Marc Roche.*
 
-2. Chúng ta hãy phân tích ví dụ này thông qua bộ câu hỏi mà mình đã đề cập ở trên:
+1. Chúng ta hãy phân tích ví dụ này thông qua bộ câu hỏi mà mình đã đề cập ở trên:
     * Were the changes minor or major? $\rightarrow$ The changes are major (e.g., significant).
     * Did the area’s infrastructure see substantial improvements? $\rightarrow$ Yes, with the introduction of footpath, vehicle track, and a pier.
     * How did the buildings and facilities within the area evolve?
@@ -83,22 +83,20 @@ Ngoài ra, đây là một số động từ phổ biến mà bạn có thể th
     * Has the area become more residential or less so? $\rightarrow$ the island became more residential.
     * Has there been an increase or decrease in green space over time? $\rightarrow$ not applicable.
 
-3. Sau đây là câu trả lời mà mình viết:
+2. Sau đây là câu trả lời mà mình viết:
 <blockquote>
 The provided maps illustrate the significant changes that occurred on an island before and after the development of several tourist facilities. Overall, the island underwent extensive transformations with the construction of a restaurant, reception, pier, accommodations, and various tracks such as footpaths and vehicle tracks. Furthermore, the renovation efforts encompassed a majority of the island.
-<br>
-</br>
+
 It is evident from the diagram that with the introduction of tourism, the island now boasts ample accommodation for visitors. Additionally, the accommodation huts are interconnected by footpaths that wind around the reception and restaurant area. A total of six huts have been erected in the western part of the island, while another nine huts have been constructed around its center.
-<br>
-</br>
+
 A pier has also been established on the southern coast to enhance accessibility to the island for tourists, and a short road connects it to the reception and restaurant. The trees scattered around the island were left untouched, and a swimming area has been designated just off the beach.
 </blockquote>
 
 ## Thực Hành
-1. Dưới đây là những đề xuất của mình về cách thực hành viết dạng câu hỏi này:
-    * Để mô tả bản đồ một cách hiệu quả, điều cần thiết là các bạn phải có có một vốn từ vựng đa dạng. Một cách để mở rộng vốn từ vựng, đặc biệt là trong dạng chủ đề này, là học các bản ghi âm (transcript)của Listening Section 2 của Bài Thi Nghe trong bộ Cambridge IELTS. Phần 2 của IELTS Listening là về một bài phát biểu của một người cụ thể và thông thường xoay quanh việc người đó hướng dẫn một chuyến tham quan hoặc cung cấp các chi tiết thú vị về một khu vực cụ thể.
-    * Sau khi bạn đã làm phong phú vốn từ vựng của mình, bạn có thể bắt đầu thực hành soạn các bài trả lời cho các bài kiểm tra có trong bộ Cambridge IELTS.
-    * Trong quá trình luyện tập, các bạn hãy gửi bài trả lời của mình cho một giáo viên hoặc người hướng dẫn về IELTS đã được chứng nhận để được nghe đánh giá và nhận xét.
+Dưới đây là những đề xuất của mình về cách thực hành viết dạng câu hỏi này:
+1. Để mô tả bản đồ một cách hiệu quả, điều cần thiết là các bạn phải có có một vốn từ vựng đa dạng. Một cách để mở rộng vốn từ vựng, đặc biệt là trong dạng chủ đề này, là học các bản ghi âm (transcript)của Listening Section 2 của Bài Thi Nghe trong bộ Cambridge IELTS. Phần 2 của IELTS Listening là về một bài phát biểu của một người cụ thể và thông thường xoay quanh việc người đó hướng dẫn một chuyến tham quan hoặc cung cấp các chi tiết thú vị về một khu vực cụ thể.
+2. Sau khi bạn đã làm phong phú vốn từ vựng của mình, bạn có thể bắt đầu thực hành soạn các bài trả lời cho các bài kiểm tra có trong bộ Cambridge IELTS.
+3. Trong quá trình luyện tập, các bạn hãy gửi bài trả lời của mình cho một giáo viên hoặc người hướng dẫn về IELTS đã được chứng nhận để được nghe đánh giá và nhận xét.
 
 ## Lời kết
 Nói tóm lại, các bạn có thể tham khảo các mẹo mà mình đã đề cập ở trên để viết một bài trả lời tốt cho câu hỏi dạng bản đồ trong Task 1.
@@ -157,13 +155,13 @@ After answering all the aforementioned questions, you can begin to strategize on
 
 ## Example
 
-1. Consider the following prompt from an actual test.    
+Consider the following prompt from an actual test.    
     
 ![](/images/posts_images/describing_maps_01.png)
 
 *The two maps below show an island, before and after the construction of some tourist facilities. Source: Marc Roche.*
     
-2. Let's analyze this prompt:
+1. Let's analyze this prompt:
     * Were the changes minor or major? $\rightarrow$ The changes are major (e.g., significant).
     * Did the area’s infrastructure see substantial improvements? $\rightarrow$ Yes, with the introduction of footpath, vehicle track, and a pier.
     * How did the buildings and facilities within the area evolve?
@@ -171,7 +169,7 @@ After answering all the aforementioned questions, you can begin to strategize on
     * Has the area become more residential or less so? $\rightarrow$ the island became more residential.
     * Has there been an increase or decrease in green space over time? $\rightarrow$ not applicable.
             
-3. Here is my own response:
+2. Here is my own response:
 <blockquote>
 The provided maps illustrate the significant changes that occurred on an island before and after the development of several tourist facilities. Overall, the island underwent extensive transformations with the construction of a restaurant, reception, pier, accommodations, and various tracks such as footpaths and vehicle tracks. Furthermore, the renovation efforts encompassed a majority of the island.
 
