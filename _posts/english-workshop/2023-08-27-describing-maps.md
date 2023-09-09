@@ -41,7 +41,7 @@ Tương tự như khi viết một bài trả lời cho những loại câu hỏ
 2. **Did the area’s infrastructure see substantial improvements?** Tạm dịch là Cơ sở hạ tầng của khu vực này có được cải thiện đáng kể không?
 3. **How did the buildings and facilities within the area evolve?** Tạm dịch là Các tòa nhà và cơ sở vật chất có trong khu vực này đã phát triển như thế nào?
 4. **Has the area become more residential or less so?** Tạm dịch là Khu vực này có trở nên phù hợp hơn cho người dân tới cư trú hơn hay không?
-5. **Has there been an increase or decrease in green space over time?** Có sự gia tăng hoặc giảm diện tích không gian xanh theo thời gian không?
+5. **Has there been an increase or decrease in green space over time?** Tạm dịch là Có sự gia tăng hoặc giảm diện tích không gian xanh theo thời gian không?
 
 Sau khi đã trả lời tất cả các câu hỏi đã đề cập, bạn có thể bắt đầu lập kế hoạch cũng như dàn ý cho phần Thân bài. Để viết một phần Thân bài hay thì:
 * Các bạn hãy nhóm các thông tin lại với nhau dựa trên các vị trí mà tại đó có những thay đổi rất dễ nhận thấy nhất. Hãy nhớ khi đề cập tới những vị trí này, các bạn hãy kết hợp với các cụm từ định hướng (chẳng hạn như: `in the northen part of`, `in the southern part of`, `in the center of`, v.v...) để giúp cho người đọc dễ điều hướng hơn
