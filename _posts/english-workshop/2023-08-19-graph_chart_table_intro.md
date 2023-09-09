@@ -64,7 +64,8 @@ Ngoài ra, các bạn còn có thể dùng những cụm từ sau đây:
 ## Ví Dụ
 Hãy tìm hiểu một ví dụ như sau:
 
-![](/images/posts_images/graph-chart-diagram-map-intro-1.png)
+![](/images/posts_images/graph_chart_table_intro_01.png)
+
 The line graph below shows changes in fast food consumed in the UK between 1970 and 1990. Summarize the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words. Nguồn: Marc Roche.
 
 Hãy thử phân tích biểu đồ này qua những câu hỏi mà mình đã nêu ở trên nhé:
@@ -137,7 +138,7 @@ Here are some phrases that we can use to:
 ## Example
 Consider the following example:
 
-![](/images/posts_images/graph-chart-diagram-map-intro-1.png)
+![](/images/posts_images/graph_chart_table_intro_01.png)
 The line graph below shows changes in fast food consumed in the UK between 1970 and 1990. Summarize the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words. Source: Marc Roche.
 
 Let's analyze this example using the questions I mentioned above:

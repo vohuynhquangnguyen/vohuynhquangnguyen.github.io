@@ -50,7 +50,7 @@ Sau đây là những thông tin chung mà các bạn cần biết về bài ki�
   * **Thân Bài - Đoạn 1**: In 2017, the police department received a budget allocation of 304.7 million GBP. The majority of this funding, 175.5 million GBP, was provided by the national government. The remaining funds were derived from local taxes, which contributed 91.2 million GBP, and other sources such as grants, which accounted for 38 million GBP. In the subsequent year, the total budget increased to 318 million GBP. This increase was primarily due to slight increases in funding from both the government and local taxes, which rose to 177.8 million and 102.3 million GBP, respectively. Funding from other sources also experienced a marginal increase to 38.5 million GBP.
   * **Thân Bài - Đoạn 2**: In terms of expenditure, the largest proportion was allocated to salaries, accounting for 75% and 69% of the total expenditure in 2017 and 2018, respectively. The next largest allocation was for technology, which accounted for 17% of the total expenditure in both years. This was followed by allocations for buildings and transport, which accounted for 8% of the total expenditure in 2017 and 14% in 2018. Notably, the proportion of expenditure allocated to salaries decreased slightly between the two years, while the proportion allocated to technology nearly doubled. Expenditure on buildings and transport remained relatively constant.
 
-![](/images/posts_images/ielts-academic-writing-overview-1.png)
+![](/images/posts_images/ielts_academic_writing_overview_01.png)
 
 *An example of a mixed-chart-question that is commonly occurred in Task 1 in the IELTS Writing Test. Source: Cambridge Academic 17.*
 
@@ -109,7 +109,7 @@ Here is a summary of the information you need to know about the Academic Writing
   * **Body (1)**: In 2017, the police department received a budget allocation of 304.7 million GBP. The majority of this funding, 175.5 million GBP, was provided by the national government. The remaining funds were derived from local taxes, which contributed 91.2 million GBP, and other sources such as grants, which accounted for 38 million GBP. In the subsequent year, the total budget increased to 318 million GBP. This increase was primarily due to slight increases in funding from both the government and local taxes, which rose to 177.8 million and 102.3 million GBP, respectively. Funding from other sources also experienced a marginal increase to 38.5 million GBP.
   * **Body (2)**: In terms of expenditure, the largest proportion was allocated to salaries, accounting for 75% and 69% of the total expenditure in 2017 and 2018, respectively. The next largest allocation was for technology, which accounted for 17% of the total expenditure in both years. This was followed by allocations for buildings and transport, which accounted for 8% of the total expenditure in 2017 and 14% in 2018. Notably, the proportion of expenditure allocated to salaries decreased slightly between the two years, while the proportion allocated to technology nearly doubled. Expenditure on buildings and transport remained relatively constant.
 
-![](/images/posts_images/ielts-academic-writing-overview-1.png)
+![](/images/posts_images/ielts_academic_writing_overview_01.png)
 
 *An example of a mixed-chart-question that is commonly occurred in Task 1 in the IELTS Writing Test. Source: Cambridge Academic IELTS Volume 17.*
 
