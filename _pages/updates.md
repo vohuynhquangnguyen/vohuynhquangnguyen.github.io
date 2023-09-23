@@ -9,8 +9,6 @@ author_profile: true
 
 **August 8, 2023**: I'm over the moon to announce that I'm officially engaged with my long-time girlfriend, (Mrs. now) Doan!
 
-<img title = "Just a picture of us celebrating during our engagement ceremony." src = "../images/updates_images/engaged.jpg">
-*Just a picture of us celebrating during our engagement ceremony.*
 
 ***
 
