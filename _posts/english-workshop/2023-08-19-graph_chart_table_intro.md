@@ -7,9 +7,7 @@ tags:
   - IELTS Academic Test
 ---
 
-In this lesson, we wil learn how to write an introduction to a graph or a chart, which is an usual prompt in Task 1 of the IELTS Academic Writing Test. The contents of this lesson are based on these textbooks: **IELTS Writing Masterclass 8.5** by Marc Roche, and **Collins Get Ready for IELTS Writing** by Fiona Aish and Jo Tomlinson. The lesson is in both Vietnamese and English. Moreover, this lesson is part of my collection of proposed lessons for self-learning English. You can navigate the entire collection [here](/posts/2023/07/english-workshop/).
-
-
+In this lesson, we will learn how to write an introduction to a graph or a chart, which is an usual prompt in Task 1 of the IELTS Academic Writing Test. The contents of this lesson are based on these textbooks: **IELTS Writing Masterclass 8.5** by Marc Roche, and **Collins Get Ready for IELTS Writing** by Fiona Aish and Jo Tomlinson. The lesson is in both Vietnamese and English. Moreover, this lesson is part of my collection of proposed lessons for self-learning English. You can navigate the entire collection [here](/posts/2023/07/english-workshop/).
 
 ***
 

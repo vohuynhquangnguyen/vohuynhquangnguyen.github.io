@@ -7,11 +7,7 @@ tags:
   - IELTS Academic Test
 ---
 
-This note is part of my collection of proposed lessons for self-learning English. You can navigate the entire collection [here](/posts/2023/07/english-workshop/).
-
-The contents of this note are based on the following textbooks:
-* IELTS Writing Masterclass 8.5 by Marc Roche.
-* Collins Get Ready for IELTS Writing by Fiona Aish and Jo Tomlinson.
+In this lesson, we will delve into the language in IELTS Task 1. The contents of this lesson are based on the following textbooks: **IELTS Writing Masterclass 8.5** by Marc Roche, and **Collins Get Ready for IELTS Writing** by Fiona Aish and Jo Tomlinson. The lesson is written in both Vietnamese and English. Moreover, this lesson is part of my collection of proposed lessons for self-learning English. You can navigate the entire collection [here](/posts/2023/07/english-workshop/).
 
 *** 
 
