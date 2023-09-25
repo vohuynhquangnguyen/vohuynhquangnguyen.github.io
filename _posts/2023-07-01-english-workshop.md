@@ -6,12 +6,9 @@ tags:
   - English Learning
 ---
 
-This is a collection of my proposed lessons for self-learning English in a structured and effective manner. 
+This is a collection of my proposed lessons for self-learning English in a structured and effective manner. Here are several disclaimers about this collection. Firstly, this collection is targeted towards learners of Academic English preparing for standardized language proficiency tests such as IELTS. Secondly, most of the lessons here are created with the intention of preparing the readers for IELTS. However, even those not preparing for IELTS may find the lessons useful. Finally, the lessons are written in both English and Vietnamese, making it a great reference for Vietnamese learners struggling with the language.
 
-Please note that:
-*  This collection is targeted towards learners of Academic English preparing for standardized language proficiency tests such as IELTS. 
-* Most of the lessons here are created with the intention of preparing the readers for IELTS. However, even those not preparing for IELTS may find the lessons useful.
-* The lessons are written in both English and Vietnamese, making it a great reference for Vietnamese learners struggling with the language.
+Let's get started!
 
 # Textbooks
 The list of recommended textbooks to learn Academic English are as follows:
