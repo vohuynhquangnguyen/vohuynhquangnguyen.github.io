@@ -7,11 +7,7 @@ tags:
   - IELTS Academic Test
 ---
 
-This note is part of my collection of proposed lessons for self-learning English. You can navigate the entire collection [here](/posts/2023/07/english-workshop/).
-
-The contents of this note are based on the following textbooks:
-* IELTS Writing Masterclass 8.5 by Marc Roche.
-* Collins Get Ready for IELTS Writing by Fiona Aish and Jo Tomlinson.
+In this lesson, we will learn how to describe a process flow, which is a typical prompt in Task 1 of the IELTS Academic Writing Test. The contents of this lesson are based on these two textbooks: **IELTS Writing Masterclass 8.5** by Marc Roche, and **Collins Get Ready for IELTS Writing** by Fiona Aish and Jo Tomlinson. The lesson is written in both English and Vietnamese. Besides, this lesson is part of my collection of proposed lessons for self-learning English. You can navigate the entire collection [here](/posts/2023/07/english-workshop/).
 
 ***
 
