@@ -18,12 +18,13 @@ In this lesson, we will delve into the language in IELTS Task 1. The contents of
 ***
 
 # Vietnamese version <a name = 'vietnamese'></a>
-Trong IELTS Task 1, có hai loại hình thái ngôn ngữ chính mà các bạn cần làm quen: Ngôn Ngữ Thay Đổi (Language of Changes) và Ngôn Ngữ Tỷ Lệ (Language of Ratio/Percentage).
+Trong IELTS Task 1, có ba loại hình thái ngôn ngữ chính mà các bạn cần làm quen: Ngôn Ngữ Thay Đổi (Language of Changes), Ngôn Ngữ Tỷ Lệ (Language of Ratio/Percentage), và Ngôn Ngữ So Sánh/Tương Quan (Language of Comparison/Contrast).
 
 ## Ngôn Ngữ Thay Đổi
 1. Hãy xem xét biểu đồ sau:
 
 ![](/images//posts_images/language_of_changes_01.png)
+
 _Nguồn: Marc Roche_
 
 Dưới đây là danh sách các cách diễn đạt có thể được sử dụng để mô tả xu hướng của hai đường dữ liệu có trong biểu đồ này:
@@ -76,6 +77,28 @@ Dưới đây là một số cách diễn đạt thông dụng được sử d�
 | under x%	| The social media website lost just under 75% of its visitors when compared to last year. |
 | the largest proportion of x |	The largest proportion of spending is on food, drinks, and tobacco than any other product categories. |
 | x had the lowest percentage	| The expenditure on leisure/education had the lowest percentage. |
+
+## Ngôn Ngữ So Sánh/Tương Quan
+1. Trong Ngôn Ngữ So Sánh/Tương Quan, có một đề mục Ngữ Pháp mà các bạn cần nhớ: đó chính là cách sử dụng tính từ ở thể So Sánh Hơn (Comparative) và So Sánh Nhất (Superlative). 
+
+2. Ngoài ra, các bạn cần trang bị thêm một số cấu trúc/cách diễn đạt sau để mô tả sự so sánh hay mối tương quan giữa các dữ liệu một cách linh hoạt hơn:
+
+| Cách Diễn Đạt/Cấu Trúc	| Ví Dụ |
+|-------------|---------|
+| Although X, Y	(**mô tả sự đối lập giữa mệnh đề X và mệnh đề Y**) | Although the sale prices of the CDS decreased, it remained the same for the year 2002 and 2003. |
+| X, whereas/while Y (**mô tả sự đối lập giữa mệnh đề X và mệnh đề Y**)|	The sale prices of the CDs decreased in 2001, whereas/while it remained the same in the year 2002 and 2003. |
+| X. In contrast, Y (**mô tả sự đối lập giữa mệnh đề X và mệnh đề Y**)	| There was a vast increase in the consumption of Fish and Chips. In contrast, there was a drop in the consumption of pizza over the years. |
+| On the one hand, X. On the other hand, Y. (**mô tả sự đối lập giữa mệnh đề X và mệnh đề Y**)| On the one hand, the consumption of hamburgers increased. On the other hand, the consumption of pizza decreased. |
+| Like X, Y also (**mô tả sự tương đồng giữa đối tượng X và đối tượng Y**) | Like Canada, Japan also has a 99% adult literacy rate. |
+| X + has + more + danh từ + than all the other + số lượng + danh từ (**mô tả sự vượt trội của X so với các đối tượng còn lại**)|	Canada has more annual income than all the other four countries. |
+| X is not as high as Y or Z (**mô tả sự thua kém của X so với các đối tượng còn lại**)	| Zaire’s life expectancy is not as high as Canada’s or Japan’s. |
+| X is far better than Y and Z (**mô tả sự vượt trội của X so với các đối tượng còn lại**) | The economic and social living standards of Canadian and Japanese citizens were far better than those of the people of Peru and Zaire. |
+
+3. Ở khía cạnh khác, các bạn có thể dùng Ngôn Ngữ So Sánh/Tương Quan để mô tả số liệu trong trường hợp các bạn khó xác định chính xác số liệu có trong biểu đồ như sau:
+  * In 1990, the fertility rate in Kuwait was `just over` 3.
+  * In 1990, the fertility rate in Kuwait was `approximately` 3.
+  * In 2000, the fertility rate in the UAE was `nearly` 3.
+  * In 2000, the fertility rate in the UAE was `almost` 3.
 
 ## Thực Hành
 Để viết một bài trả lời tốt cho Task 1 của IELTS, các bạn cần có một vốn từ vựng phong phú, đặc biệt là phải biết nhiều cách diễn đạt về xu hướng thay đổi của dữ liệu cũng như sự tương quan về mặt tỉ lệ giữa chúng. Sau đây là một số gợi ý của mình về cách trau dồi vốn từ vựng của các bạn:
