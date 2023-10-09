@@ -48,9 +48,12 @@ Trong Tiếng Anh Học Thuật, chúng ta thường sử dụng các cấu trú
 | Danh từ + động từ + trạng từ	 | Rice consumption increased steadily. |
 | Thời gian + saw/experienced/witnessed + tính từ + danh từ + in + danh từ | 1999 experienced a gradual increase in rice consumption. |
 
-Sau đây là một ví dụ về cách sử dụng ngôn ngữ mô tả sự thay đổi ( ví dụ này cũng sử dụng các cách diễn đạt về quãng thời gian tương ứng với sự thay đổi đó):
+Sau đây là một ví dụ về cách sử dụng ngôn ngữ mô tả sự thay đổi (ví dụ này cũng sử dụng các cách diễn đạt về quãng thời gian tương ứng với sự thay đổi đó):
 
-<blockquote>
+![](/images/posts_images/language_of_changes_02.png)
+
+_Nguồn: Marc Roche_
+
 This line chart describes the changes and the overall decline in the 
 share price of KBP over a period of four years from 2006 to 2010.
 
@@ -61,10 +64,6 @@ share price of KBP over a period of four years from 2006 to 2010.
 | 2008 | The share price then **quickly rebounded to** $30 by <u>mid-2008</u> before **plummeting to** just over $5 <u>at the end of the year</u>. |
 | 2009 | The share price **began to recover** in <u>early 2009</u>, and despite **some fluctuations**, it **continued to rise until** it **reached a peak of** $17 in <u>early 2010</u>. |
 | 2010 | The share price eventually **declined to** $11 <u>by the end of the period</u>. |
-</blockquote>
-
-![](/images/posts_images/language_of_changes_02.png)
-_Nguồn: Marc Roche_
 
 ## Ngôn Ngữ Tỉ Lệ
 
@@ -86,8 +85,6 @@ Sau đây là một ví dụ về cách sử dụng ngôn ngữ mô tả tỉ l�
 
 _Nguồn: Cambridge IELTS Vol. 18_
 
-<blockquote>
-
 In 1966: 
   1. The largest proportion of household spending was on food. 
   2. The food category had the largest percentage. 
@@ -104,7 +101,6 @@ In 1996:
   4. More than 10% of household spending was on food and restaurants, respectively.
   5. Computers constituted only 10% of the household spending.
 
-</blockquote>
 
 ## Ngôn Ngữ So Sánh/Tương Quan
 Trong Ngôn Ngữ So Sánh/Tương Quan, có một đề mục Ngữ Pháp mà các bạn cần nhớ: đó chính là cách sử dụng tính từ ở thể So Sánh Hơn (Comparative) và So Sánh Nhất (Superlative). 
@@ -172,7 +168,10 @@ In Academic Writing, we usually use the following structures to describe changes
 
 Here is an example of how the language of changes (expressions of describing changes and corresponding timeframe) is used:
 
-<blockquote>
+![](/images/posts_images/language_of_changes_02.png)
+
+_Source: Marc Roche_
+
 This line chart describes the changes and the overall decline in the 
 share price of KBP over a period of four years from 2006 to 2010.
 
@@ -183,11 +182,6 @@ share price of KBP over a period of four years from 2006 to 2010.
 | 2008 | The share price then **quickly rebounded to** $30 by <u>mid-2008</u> before **plummeting to** just over $5 <u>at the end of the year</u>. |
 | 2009 | The share price **began to recover** in <u>early 2009</u>, and despite **some fluctuations**, it **continued to rise until** it **reached a peak of** $17 in <u>early 2010</u>. |
 | 2010 | The share price eventually **declined to** $11 <u>by the end of the period</u>. |
-</blockquote>
-
-![](/images/posts_images/language_of_changes_02.png)
-
-_Source: Marc Roche_
 
 ## Language of Ratio/Percentage
 Here are some common expressions that we use when describing a table, a pie chart, or a bar graph with some comparisons included:
@@ -208,9 +202,6 @@ Here is an example of how to use descriptive language for ratios:
 
 _Source: Cambridge IELTS Vol. 18_
 
-
-<blockquote>
-
 In 1966: 
   1. The largest proportion of household spending was on food. 
   2. The food category had the largest percentage. 
@@ -227,7 +218,6 @@ In 1996:
   4. More than 10% of household spending was on food and restaurants, respectively.
   5. Computers constituted only 10% of the household spending.
 
-</blockquote>
 
 ## Language of Comparison/Contrast 
 In the Language of Comparison/Contrast, there is a grammar topic that you need to remember: that is how to use adjectives in the Comparative and Superlative forms.
