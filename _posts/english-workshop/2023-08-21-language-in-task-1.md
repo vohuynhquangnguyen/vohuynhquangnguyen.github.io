@@ -79,9 +79,9 @@ Dưới đây là một số cách diễn đạt thông dụng được sử d�
 | x had the lowest percentage	| The expenditure on leisure/education had the lowest percentage. |
 
 ## Ngôn Ngữ So Sánh/Tương Quan
-1. Trong Ngôn Ngữ So Sánh/Tương Quan, có một đề mục Ngữ Pháp mà các bạn cần nhớ: đó chính là cách sử dụng tính từ ở thể So Sánh Hơn (Comparative) và So Sánh Nhất (Superlative). 
+Trong Ngôn Ngữ So Sánh/Tương Quan, có một đề mục Ngữ Pháp mà các bạn cần nhớ: đó chính là cách sử dụng tính từ ở thể So Sánh Hơn (Comparative) và So Sánh Nhất (Superlative). 
 
-2. Ngoài ra, các bạn cần trang bị thêm một số cấu trúc/cách diễn đạt sau để mô tả sự so sánh hay mối tương quan giữa các dữ liệu một cách linh hoạt hơn:
+Ngoài ra, các bạn cần trang bị thêm một số cấu trúc/cách diễn đạt sau để mô tả sự so sánh hay mối tương quan giữa các dữ liệu một cách linh hoạt hơn:
 
 | Cách Diễn Đạt/Cấu Trúc	| Ví Dụ |
 |-------------|---------|
@@ -94,7 +94,7 @@ Dưới đây là một số cách diễn đạt thông dụng được sử d�
 | X is not as high as Y or Z (**mô tả sự thua kém của X so với các đối tượng còn lại**)	| Zaire’s life expectancy is not as high as Canada’s or Japan’s. |
 | X is far better than Y and Z (**mô tả sự vượt trội của X so với các đối tượng còn lại**) | The economic and social living standards of Canadian and Japanese citizens were far better than those of the people of Peru and Zaire. |
 
-3. Ở khía cạnh khác, các bạn có thể dùng Ngôn Ngữ So Sánh/Tương Quan để mô tả số liệu trong trường hợp các bạn khó xác định chính xác số liệu có trong biểu đồ như sau:
+Ở khía cạnh khác, các bạn có thể dùng Ngôn Ngữ So Sánh/Tương Quan để mô tả số liệu trong trường hợp các bạn khó xác định chính xác số liệu có trong biểu đồ như sau:
   * In 1990, the fertility rate in Kuwait was `just over` 3.
   * In 1990, the fertility rate in Kuwait was `approximately` 3.
   * In 2000, the fertility rate in the UAE was `nearly` 3.
@@ -171,9 +171,9 @@ Here are some common expressions that we use when describing a table, a pie char
 | x had the lowest percentage	| The expenditure on leisure/education had the lowest percentage. |
 
 ## Language of Comparison/Contrast 
-1. In the Language of Comparison/Contrast, there is a grammar topic that you need to remember: that is how to use adjectives in the Comparative and Superlative forms.
+In the Language of Comparison/Contrast, there is a grammar topic that you need to remember: that is how to use adjectives in the Comparative and Superlative forms.
 
-2. In addition, you need to equip yourself with some of the following structures/expressions to describe comparisons or correlations between data more flexibly:
+In addition, you need to equip yourself with some of the following structures/expressions to describe comparisons or correlations between data more flexibly:
 
 | Expression | Example |
 |-------------|---------|
@@ -186,11 +186,11 @@ Here are some common expressions that we use when describing a table, a pie char
 | X is not as high as Y or Z (**describes X's inferiority compared to other objects**)	| Zaire’s life expectancy is not as high as Canada’s or Japan’s. |
 | X is far better than Y and Z (**describes X's superiority over other objects**) | The economic and social living standards of Canadian and Japanese citizens were far better than those of the people of Peru and Zaire. |
 
-3. On another note, you can use Language of Comparison/Contrast  to describe data in cases where you find it difficult to determine exactly what data is in a chart as follows:
-  * In 1990, the fertility rate in Kuwait was `just over` 3.
-  * In 1990, the fertility rate in Kuwait was `approximately` 3.
-  * In 2000, the fertility rate in the UAE was `nearly` 3.
-  * In 2000, the fertility rate in the UAE was `almost` 3.
+On another note, you can use the Language of Comparison/Contrast to describe data in cases where you find it difficult to determine exactly what data is in a chart as follows:
+* In 1990, the fertility rate in Kuwait was `just over` 3.
+* In 1990, the fertility rate in Kuwait was `approximately` 3.
+* In 2000, the fertility rate in the UAE was `nearly` 3.
+* In 2000, the fertility rate in the UAE was `almost` 3.
 
 ## Practice
 To write a good response for IELTS Task 1, you need to have a rich lexical resources, especially in how to describe trends and quantities. Hence, here are my proposals on how to enrich your repertoire:
