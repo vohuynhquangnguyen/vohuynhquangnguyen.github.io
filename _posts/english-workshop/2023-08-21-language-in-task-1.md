@@ -170,6 +170,28 @@ Here are some common expressions that we use when describing a table, a pie char
 | the largest proportion of x |	The largest proportion of spending is on food, drinks, and tobacco than any other product categories. |
 | x had the lowest percentage	| The expenditure on leisure/education had the lowest percentage. |
 
+## Language of Comparison/Contrast 
+1. In the Language of Comparison/Contrast, there is a grammar topic that you need to remember: that is how to use adjectives in the Comparative and Superlative forms.
+
+2. In addition, you need to equip yourself with some of the following structures/expressions to describe comparisons or correlations between data more flexibly:
+
+| Expression | Example |
+|-------------|---------|
+| Although X, Y (**describes the contrast between clause X and clause Y**) | Although the sale prices of the CDs decreased, it remained the same for the year 2002 and 2003. |
+| X, whereas/while Y (**describes the contrast between clause X and clause Y**)|	The sale prices of the CDs decreased in 2001, whereas/while it remained the same in the year 2002 and 2003. |
+| X. In contrast, Y (**describes the contrast between clause X and clause Y**)	| There was a vast increase in the consumption of Fish and Chips. In contrast, there was a drop in the consumption of pizza over the years. |
+| On the one hand, X. On the other hand, Y. (**describes the contrast between clause X and clause Y**)| On the one hand, the consumption of hamburgers increased. On the other hand, the consumption of pizza decreased. |
+| Like X, Y also (**describes the similarity between object X and object Y**) | Like Canada, Japan also has a 99% adult literacy rate. |
+| X + has + more + noun + than all the other + quantity + noun (**describes X's superiority over other objects**)|	Canada has more annual income than all the other four countries. |
+| X is not as high as Y or Z (**describes X's inferiority compared to other objects**)	| Zaire’s life expectancy is not as high as Canada’s or Japan’s. |
+| X is far better than Y and Z (**describes X's superiority over other objects**) | The economic and social living standards of Canadian and Japanese citizens were far better than those of the people of Peru and Zaire. |
+
+3. On another note, you can use Language of Comparison/Contrast  to describe data in cases where you find it difficult to determine exactly what data is in a chart as follows:
+  * In 1990, the fertility rate in Kuwait was `just over` 3.
+  * In 1990, the fertility rate in Kuwait was `approximately` 3.
+  * In 2000, the fertility rate in the UAE was `nearly` 3.
+  * In 2000, the fertility rate in the UAE was `almost` 3.
+
 ## Practice
 To write a good response for IELTS Task 1, you need to have a rich lexical resources, especially in how to describe trends and quantities. Hence, here are my proposals on how to enrich your repertoire:
 1. Do all exercises in these chapters of the **Check your English vocabulary for IELTS** workbook by Rawdon Wyatt - `Changes 1`, `Changes 2`, `Contrast & Comparison`, `Size, Quantity & Dimension`, and `Time`.
