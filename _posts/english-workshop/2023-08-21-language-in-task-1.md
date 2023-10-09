@@ -50,6 +50,7 @@ Trong Tiếng Anh Học Thuật, chúng ta thường sử dụng các cấu trú
 
 Sau đây là một ví dụ về cách sử dụng ngôn ngữ mô tả sự thay đổi ( ví dụ này cũng sử dụng các cách diễn đạt về quãng thời gian tương ứng với sự thay đổi đó):
 
+<blockquote>
 This line chart describes the changes and the overall decline in the 
 share price of KBP over a period of four years from 2006 to 2010.
 
@@ -60,6 +61,7 @@ share price of KBP over a period of four years from 2006 to 2010.
 | 2008 | The share price then **quickly rebounded to** $30 by <u>mid-2008</u> before **plummeting to** just over $5 <u>at the end of the year</u>. |
 | 2009 | The share price **began to recover** in <u>early 2009</u>, and despite **some fluctuations**, it **continued to rise until** it **reached a peak of** $17 in <u>early 2010</u>. |
 | 2010 | The share price eventually **declined to** $11 <u>by the end of the period</u>. |
+</blockquote>
 
 ![](/images/posts_images/language_of_changes_02.png)
 _Nguồn: Marc Roche_
@@ -81,22 +83,28 @@ Dưới đây là một số cách diễn đạt thông dụng được sử d�
 Sau đây là một ví dụ về cách sử dụng ngôn ngữ mô tả tỉ lệ:
 
 ![](/images/posts_images/language_of_changes_03.png)
+
 _Nguồn: Cambridge IELTS Vol. 18_
 
-1. In 1966:
-    1. The largest proportion of household spending was on food.
-    The food category had the largest percentage.
-    The bulk of household spending was on food.
-    2. The computers category had the lowest percentage.
-    3. More than 20% of household spending was on cars.
-    4. The three categories including petrol, restaurants, and books were just under 10% each.
-    5. Furniture constituted only 10% of the household spending.
-2. In 1996:
-    1. The largest proportion of household spending was on cars, which accounted for 45%.
-    2. The book category had the lowest percentage, which stood at 1%.
-    3. The two categories including petrol and furniture were just under 10% each.
-    4. More than 10% of household spending was on food and restaurants, respectively.
-    5. Computers constituted only 10% of the household spending.
+<blockquote>
+
+In 1966: 
+  1. The largest proportion of household spending was on food. 
+  2. The food category had the largest percentage. 
+  3. The bulk of household spending was on food.
+  4. The computers category had the lowest percentage. 
+  5. More than 20% of household spending was on cars. 
+  6. The three categories including petrol, restaurants, and books were just under 10% each. 
+  7. Furniture constituted only 10% of the household spending.
+
+In 1996:
+  1. The largest proportion of household spending was on cars, which accounted for 45%.
+  2. The book category had the lowest percentage, which stood at 1%.
+  3. The two categories including petrol and furniture were just under 10% each.
+  4. More than 10% of household spending was on food and restaurants, respectively.
+  5. Computers constituted only 10% of the household spending.
+
+</blockquote>
 
 ## Ngôn Ngữ So Sánh/Tương Quan
 Trong Ngôn Ngữ So Sánh/Tương Quan, có một đề mục Ngữ Pháp mà các bạn cần nhớ: đó chính là cách sử dụng tính từ ở thể So Sánh Hơn (Comparative) và So Sánh Nhất (Superlative). 
@@ -137,8 +145,9 @@ Nếu bạn đam mê tiếng Anh nhưng chưa biết làm thế nào để học
 In IELTS Task 1, there are two primary types of language you need to get familiarized with: Language of Change, and Language of Ratio/Percentage.
 
 ## Language of Changes
-1. Consider the following graph:
+Consider the following graph:
 ![](/images//posts_images/language_of_changes_01.png)
+
 _Source: Marc Roche_
 
 Here is the list of expressions we can use to describes trends of these two lines:
@@ -153,7 +162,7 @@ Here is the list of expressions we can use to describes trends of these two line
 * J - K: Here, these expressions `remained flat`, `remained constant`, `remained unchanged`, or `stable at` are commonly used.
 * L - M: Here, we usually use the `fell gradually` expression.
 
-2. In Academic Writing, we usually use the following structures to describe changes during a particular timeframe.
+In Academic Writing, we usually use the following structures to describe changes during a particular timeframe.
 
 | Structure | Example |
 |-----------|---------|
@@ -161,8 +170,9 @@ Here is the list of expressions we can use to describes trends of these two line
 | Noun + verb + adverb | Rice consumption increased steadily. |
 | Time + saw/experienced/witnessed + adjective + noun + in + noun | 1999 experienced a gradual increase in rice consumption. |
 
-3. Here is an example of how the language of changes (expressions of describing changes and corresponding timeframe) is used:
+Here is an example of how the language of changes (expressions of describing changes and corresponding timeframe) is used:
 
+<blockquote>
 This line chart describes the changes and the overall decline in the 
 share price of KBP over a period of four years from 2006 to 2010.
 
@@ -173,8 +183,10 @@ share price of KBP over a period of four years from 2006 to 2010.
 | 2008 | The share price then **quickly rebounded to** $30 by <u>mid-2008</u> before **plummeting to** just over $5 <u>at the end of the year</u>. |
 | 2009 | The share price **began to recover** in <u>early 2009</u>, and despite **some fluctuations**, it **continued to rise until** it **reached a peak of** $17 in <u>early 2010</u>. |
 | 2010 | The share price eventually **declined to** $11 <u>by the end of the period</u>. |
+</blockquote>
 
 ![](/images/posts_images/language_of_changes_02.png)
+
 _Source: Marc Roche_
 
 ## Language of Ratio/Percentage
@@ -189,6 +201,33 @@ Here are some common expressions that we use when describing a table, a pie char
 | under x%	| The social media website lost just under 75% of its visitors when compared to last year. |
 | the largest proportion of x |	The largest proportion of spending is on food, drinks, and tobacco than any other product categories. |
 | x had the lowest percentage	| The expenditure on leisure/education had the lowest percentage. |
+
+Here is an example of how to use descriptive language for ratios:
+
+![](/images/posts_images/language_of_changes_03.png)
+
+_Source: Cambridge IELTS Vol. 18_
+
+
+<blockquote>
+
+In 1966: 
+  1. The largest proportion of household spending was on food. 
+  2. The food category had the largest percentage. 
+  3. The bulk of household spending was on food.
+  4. The computers category had the lowest percentage. 
+  5. More than 20% of household spending was on cars. 
+  6. The three categories including petrol, restaurants, and books were just under 10% each. 
+  7. Furniture constituted only 10% of the household spending.
+
+In 1996:
+  1. The largest proportion of household spending was on cars, which accounted for 45%.
+  2. The book category had the lowest percentage, which stood at 1%.
+  3. The two categories including petrol and furniture were just under 10% each.
+  4. More than 10% of household spending was on food and restaurants, respectively.
+  5. Computers constituted only 10% of the household spending.
+
+</blockquote>
 
 ## Language of Comparison/Contrast 
 In the Language of Comparison/Contrast, there is a grammar topic that you need to remember: that is how to use adjectives in the Comparative and Superlative forms.
