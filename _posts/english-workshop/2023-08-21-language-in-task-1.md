@@ -21,7 +21,7 @@ In this lesson, we will delve into the language in IELTS Task 1. The contents of
 Trong IELTS Task 1, có ba loại hình thái ngôn ngữ chính mà các bạn cần làm quen: Ngôn Ngữ Thay Đổi (Language of Changes), Ngôn Ngữ Tỷ Lệ (Language of Ratio/Percentage), và Ngôn Ngữ So Sánh/Tương Quan (Language of Comparison/Contrast).
 
 ## Ngôn Ngữ Thay Đổi
-1. Hãy xem xét biểu đồ sau:
+Hãy xem xét biểu đồ sau:
 
 ![](/images//posts_images/language_of_changes_01.png)
 
@@ -40,7 +40,7 @@ Dưới đây là danh sách các cách diễn đạt có thể được sử d�
 * J - K: Ở đây, các cách diễn đạt này `remained flat`, `remained constant`, `remained unchanged`, hoặc `stable at` thường được sử dụng.
 * L - M: Ở đây, chúng ta thường sử dụng cách diễn đạt `fell gradually`.
 
-2. Trong Tiếng Anh Học Thuật, chúng ta thường sử dụng các cấu trúc sau để mô tả sự thay đổi trong một khoảng thời gian cụ thể.
+Trong Tiếng Anh Học Thuật, chúng ta thường sử dụng các cấu trúc sau để mô tả sự thay đổi trong một khoảng thời gian cụ thể.
 
 | Cấu Trúc | Ví Dụ |
 |-----------|---------|
@@ -48,7 +48,7 @@ Dưới đây là danh sách các cách diễn đạt có thể được sử d�
 | Danh từ + động từ + trạng từ	 | Rice consumption increased steadily. |
 | Thời gian + saw/experienced/witnessed + tính từ + danh từ + in + danh từ | 1999 experienced a gradual increase in rice consumption. |
 
-3. Sau đây là một ví dụ về cách sử dụng ngôn ngữ mô tả sự thay đổi ( ví dụ này cũng sử dụng các cách diễn đạt về quãng thời gian tương ứng với sự thay đổi đó):
+Sau đây là một ví dụ về cách sử dụng ngôn ngữ mô tả sự thay đổi ( ví dụ này cũng sử dụng các cách diễn đạt về quãng thời gian tương ứng với sự thay đổi đó):
 
 This line chart describes the changes and the overall decline in the 
 share price of KBP over a period of four years from 2006 to 2010.
@@ -77,6 +77,26 @@ Dưới đây là một số cách diễn đạt thông dụng được sử d�
 | under x%	| The social media website lost just under 75% of its visitors when compared to last year. |
 | the largest proportion of x |	The largest proportion of spending is on food, drinks, and tobacco than any other product categories. |
 | x had the lowest percentage	| The expenditure on leisure/education had the lowest percentage. |
+
+Sau đây là một ví dụ về cách sử dụng ngôn ngữ mô tả tỉ lệ:
+
+![](/images/posts_images/language_of_changes_03.png)
+_Nguồn: Cambridge IELTS Vol. 18_
+
+1. In 1966:
+    1. The largest proportion of household spending was on food.
+    The food category had the largest percentage.
+    The bulk of household spending was on food.
+    2. The computers category had the lowest percentage.
+    3. More than 20% of household spending was on cars.
+    4. The three categories including petrol, restaurants, and books were just under 10% each.
+    5. Furniture constituted only 10% of the household spending.
+2. In 1996:
+    1. The largest proportion of household spending was on cars, which accounted for 45%.
+    2. The book category had the lowest percentage, which stood at 1%.
+    3. The two categories including petrol and furniture were just under 10% each.
+    4. More than 10% of household spending was on food and restaurants, respectively.
+    5. Computers constituted only 10% of the household spending.
 
 ## Ngôn Ngữ So Sánh/Tương Quan
 Trong Ngôn Ngữ So Sánh/Tương Quan, có một đề mục Ngữ Pháp mà các bạn cần nhớ: đó chính là cách sử dụng tính từ ở thể So Sánh Hơn (Comparative) và So Sánh Nhất (Superlative). 
