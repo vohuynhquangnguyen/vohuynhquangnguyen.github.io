@@ -131,7 +131,7 @@ Ngoài ra, các bạn cần trang bị thêm một số cấu trúc/cách diễn
 ## Thực Hành
 Để viết một bài trả lời tốt cho Task 1 của IELTS, các bạn cần có một vốn từ vựng phong phú, đặc biệt là phải biết nhiều cách diễn đạt về xu hướng thay đổi của dữ liệu cũng như sự tương quan về mặt tỉ lệ giữa chúng. Sau đây là một số gợi ý của mình về cách trau dồi vốn từ vựng của các bạn:
 
-1. Làm tất cả các bài tập trong các chương của cuốn sách **Check your English vocabulary for IELTS** của Rawdon Wyatt - Changes 1, Changes 2, Contrast & Comparison, Size, Quantity & Dimension, và Time.
+1. Làm tất cả các bài tập trong các chương của cuốn sách **Check your English vocabulary for IELTS** của Rawdon Wyatt - `Changes 1`, `Changes 2`, `Contrast & Comparison`, `Size, Quantity & Dimension`, và `Time`.
 2. Làm các bài tập trong các chương tập trung vào việc mô tả bảng dữ liệu, biểu đồ tròn, biểu đồ cột và biểu đồ đường trong cuốn **Collins Get Ready for IELTS Writing** của Fiona Aish và Jo Tomlinson.
 
 ## Lời Kết
