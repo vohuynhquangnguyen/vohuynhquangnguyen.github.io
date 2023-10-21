@@ -84,6 +84,12 @@ Indisputably, given that attending colleges is considered to be a significant in
 In conclusion, colleges students are recommended not to base their choice of field on the availability of jobs in that field because the job market is dynamic and there are many benefits to follow their interests.
 </blockquote>
 
+## Thục Hành
+Để viết một bài trả lời tốt cho Task 2 của IELTS, điều đầu tiên mà các bạn cần lưu ý là làm sao phải viết phần Mở Bài và Kết Bài một cách hoàn chỉnh. Vậy nên, mình có những khuyến nghị sau đây:
+
+1. Các bạn hãy viết phần Mở Bài cho các đề Writing trong bộ Cambridge (từ Cuốn 1 tới Cuốn 18). Các bạn có thể lên trang web [Study4](study4.com) để truy cập vào các đề Writing trong bộ Cambridge nhe.
+2. Tham khảo các bài viết mẫu được điểm cao (chẳng hạn như qua những bài viết mẫu của IELTS Fighter) để sưu tầm ý tưởng cho phần Thân Bài.
+
 ## Lời Kết
 Chung quy lại, trước khi viết một câu trả lời IELTS Task 2, việc đầu tiên các bạn cần làm là phân tích đề bài qua những câu hỏi sau đây: (1) Chủ đề ở đây là gì; (2) các bạn cần làm những gì; và (3) Đây là dạng đề gì.
 
@@ -159,6 +165,9 @@ Indisputably, given that attending colleges is considered to be a significant in
 <br>
 In conclusion, colleges students are recommended not to base their choice of field on the availability of jobs in that field because the job market is dynamic and there are many benefits to follow their interests.
 </blockquote>
+
+## Practice
+
 
 ## Final words
 In summary, before writing a response in IELTS Task 2, first we need to analyze the provided question to help us understand: (1) The nature of the prompt provided; (2) The tasks we are required to perform; and (3) The type of question posed. 
