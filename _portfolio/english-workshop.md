@@ -60,7 +60,7 @@ The list of lessons are as follows:
     * [Describing Tables]
     * [Describing Process Flows](/posts/2023/08/describing-process-flows/)
     * [Describing Maps](/_posts/english-workshop/2023-08-27-describing-maps.md)
-    * [Opinion Essay](/_posts/english-workshop/2023-10-21-ielts-task-2-opinion-essay.md)
+    * [Opinion Essay](/_posts/english-workshop/2023-10-21-opinion-essay.md)
     
 ## Reading
 ### Academic Reading Skills

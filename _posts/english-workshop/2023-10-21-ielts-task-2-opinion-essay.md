@@ -1,7 +1,7 @@
 ---
-title: 'IELTS Task 2 - Opinion Essay'
-date: 2023-08-30
-permalink: /posts/2023/08/ielts-task-2-opinion-essay/
+title: 'Opinion Essay'
+date: 2023-10-21
+permalink: /posts/2023/08/opinion-essay/
 tags:
   - English Learning
   - IELTS Academic Test
