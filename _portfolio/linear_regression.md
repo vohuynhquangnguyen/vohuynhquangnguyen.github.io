@@ -1,9 +1,8 @@
 ---
 title: "Linear Regression Explained"
 collection: statistics
-type: "Applied Regression Analysis"
-permalink: /portfolio/2023-linear-regression-explained
 date: 2023-09-22
+permalink: /portfolio/2023-linear-regression-explained
 ---
 
 Linear regression is a fundamental algorithm in data science and machine learning. It is utilized for predicting continuous variables using one or more predictor variables. In this project, I will:
