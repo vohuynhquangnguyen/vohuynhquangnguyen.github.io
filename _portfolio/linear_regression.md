@@ -1,5 +1,5 @@
 ---
-title: "Linear Regression Explained"
+title: "Linear Regression Explained (In Progress)"
 collection: statistics
 date: 2023-09-22
 permalink: /portfolio/2023-linear-regression-explained
