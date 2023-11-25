@@ -1,5 +1,5 @@
 ---
-title: "How to learn English in an effective manner"
+title: "How to learn English in an effective manner (In Progress)"
 collection: English
 date: 2023-07-01
 permalink: /portfolio/2023-english-workshop
