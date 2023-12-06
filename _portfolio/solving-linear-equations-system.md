@@ -1,5 +1,5 @@
 ---
-title: "Methods of Solving a System of Linear Equation"
+title: "Methods of Solving a System of Linear Equation (In Progress)"
 collection: linear-algebra
 date: 2023-11-25
 permalink: /portfolio/2023-solving-linear-equations-system.md
