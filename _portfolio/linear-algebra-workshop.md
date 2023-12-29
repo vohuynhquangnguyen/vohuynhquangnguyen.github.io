@@ -2,7 +2,7 @@
 title: "Linear Algebra for Machine Learning and Data Science"
 collection: linear-algebra
 date: 2023-11-25
-permalink: /portfolio/2023-linear-algebra-workshop.md
+permalink: /portfolio/2023-linear-algebra-workshop
 ---
 
 This is a collection of my projects and notes for learning and reviewing important linear algebra for the journey of masterning Machine Learning and Data Science. 
