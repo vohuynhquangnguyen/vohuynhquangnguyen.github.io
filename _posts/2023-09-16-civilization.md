@@ -18,7 +18,7 @@ This reflection is inspired by the recent tragic incident in Hanoi. On September
 
 # Vietnamese version <a name = 'vietnamese'></a>
 Theo bạn, văn minh là gì?
-Có thể bạn sẽ nói rằng: văn minh nghĩa là phải giàu sang về mặt kinh tế, là phải hoa lệ và hoành tráng, sạch sẽ và trật tự. Hoặc bạn cũng có thể cho rằng văn minh nghĩa là việc được tiếp cận dễ dàng với những tiện ích và tiện nghi trong cuộc sống. 
+Có thể bạn sẽ nói rằng: văn minh đồng nghĩa với việc là phải giàu sang về mặt kinh tế, là phải hoa lệ và hoành tráng, sạch sẽ và trật tự. Hoặc bạn cũng có thể cho rằng văn minh nghĩa là việc được tiếp cận dễ dàng với những tiện ích và tiện nghi trong cuộc sống. 
 
 Mình thấy rằng các cách hiểu như vậy đều không sai. Đúng lý mà nói, có rất nhiều cách để chúng ta có thể định nghĩa văn minh là gì. Với mình, văn minh đôi khi chỉ đơn giản là sự để ý tới những điều tưởng chừng nhỏ nhặt nhất.
 
@@ -32,19 +32,19 @@ Vụ cháy chung cư mini ở Hà Nội thật sự rất thương tâm. Tuy v�
 
 Buồn thay, cuộc đời không bao giờ có chữ giá như cả...
 
-P.S.: anh Nguyễn Hữu Trí của AWP vừa đăng một clip về kĩ năng sinh tồn khi gặp hỏa hoạn. Mọi người có thể qua trang hoặc kênh Youtube của anh để xem nhé. Mình để đường link tới clip của anh Trí ở comment phía dưới.
+P.S.: Anh Nguyễn Hữu Trí của AWP vừa đăng một clip về kĩ năng sinh tồn khi gặp hỏa hoạn. Mọi người có thể qua trang hoặc kênh Youtube của anh để xem nhé. Mình để đường link tới clip của anh Trí ở comment phía dưới.
 Về việc Sơ Cấp Cứu, mọi người có thể liên hệ với BS. Đức Todigon Vo Quang để bác gửi tài liệu cũng như hướng dẫn để mọi người tham khảo. 
 
-P.S.S.: theo như điều tra thì vụ việc cháy chung cư là đến từ pin xe điện.  Chắc mọi người cũng biết là pin cho xe điện hay cho đồ điện tử là làm từ kim loại lithium - một kim loại kiềm rất dễ phản ứng vì vậy rất dễ gây cháy khi gặp nhiệt độ cao hay va đập mạnh, và nếu đã cháy thì rất khó dập bằng bình chữa cháy. Đó là nguyên nhân vì sao mà mọi người hay nghe những khuyến cáo yêu cầu như (1) KHÔNG ĐƯỢC để đồ điện tử hay pin dự phòng ở hành lý kí gửi khi lên máy bay, (2) KHÔNG NÊN để những đồ này trong cốp xe máy hay trong xe hơi (vì sợ rằng để quên ở bãi gửi xe dưới trời nắng nóngs sẽ dễ gây ra cháy nổ), (3) không mua pin và bộ có xuất xứ không rõ ràng (vì những loại này ko có những tính năng đảm bảo an toàn như ngắt sạc). Vậy nên, mọi người hãy lưu ý khi dùng để tránh xảy ra sự cố đáng tiếc.
+P.S.S.: Theo như điều tra thì vụ việc cháy chung cư là đến từ pin xe điện.  Chắc mọi người cũng biết là pin cho xe điện hay cho đồ điện tử là làm từ kim loại lithium - một kim loại kiềm rất dễ phản ứng vì vậy rất dễ gây cháy khi gặp nhiệt độ cao hay va đập mạnh, và nếu đã cháy thì rất khó dập bằng bình chữa cháy. Đó là nguyên nhân vì sao mà mọi người hay nghe những khuyến cáo yêu cầu như (1) KHÔNG ĐƯỢC để đồ điện tử hay pin dự phòng ở hành lý kí gửi khi lên máy bay, (2) KHÔNG NÊN để những đồ này trong cốp xe máy hay trong xe hơi (vì sợ rằng để quên ở bãi gửi xe dưới trời nắng nóngs sẽ dễ gây ra cháy nổ), (3) không mua pin và bộ có xuất xứ không rõ ràng (vì những loại này ko có những tính năng đảm bảo an toàn như ngắt sạc). Vậy nên, mọi người hãy lưu ý khi dùng để tránh xảy ra sự cố đáng tiếc.
 
-P.S.S.S.: mình đính kèm ảnh của trường mình hiện đang học để mọi người thấy rằng họ chú ý tới những điều nhỏ nhặt như thế nào.
+P.S.S.S.: Mình đính kèm ảnh của trường mình hiện đang học để mọi người thấy rằng họ chú ý tới những điều nhỏ nhặt như thế nào.
 
 ***
 
 # English version <a name = 'english'></a>
-What do you think civilization is? You might say it’s about economic affluence, being flashy and magnificent, or having cleanliness and order. Or you might think it’s about easy access to amenities and comforts in life.
+If someone ask you: "What does it mean to be civilized?" What would be your answer? You might say it's about economic affluence, being flashy and magnificent, or having cleanliness and order. Or you might think it's about easy access to amenities and comforts in life.
 
-These definitions aren’t wrong, but for me, civilization sometimes means paying attention to even the smallest details.
+These definitions aren't wrong, but for me, civilization sometimes means paying attention to even the smallest details.
 
 Why do I think so? Let me share my experiences from my time studying for my Bachelor's and Master's degrees in Finland, and now as I pursue my PhD in the USA.
 
@@ -63,6 +63,6 @@ Sadly, life doesn't have "what ifs"...
 P.S.: Mr. Nguyen Huu Tri from AWP just posted a video on survival skills in case of a fire. Check out his page or YouTube channel to watch it. Link in the comments below.
 For First Aid info, contact Dr. Duc Todigon Vo Quang for materials and guidance.
 
-P.S.S.: The investigation revealed the fire was caused by an electric bicycle battery. Lithium batteries are highly reactive and can easily catch fire. Hence, the recommendations: (1) DON’T put electronics or spare batteries in checked luggage, (2) DON’T leave them in hot cars or trunks, (3) Avoid buying batteries/chargers of unknown origin. Stay safe!
+P.S.S.: The investigation revealed the fire was caused by an electric bicycle battery. Lithium batteries are highly reactive and can easily catch fire. Hence, the recommendations: (1) DON'T put electronics or spare batteries in checked luggage, (2) DON'T leave them in hot cars or trunks, (3) Avoid buying batteries/chargers of unknown origin. Stay safe!
 
 P.S.S.S.: Attached is a photo of my current university to show how they pay attention to even the smallest details.
