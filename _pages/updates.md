@@ -7,9 +7,21 @@ author_profile: true
 
 ***
 
-**April 10, 2024**: 🌟 Exciting News! 🌟 I'm thrilled to share that my research paper has been selected as a finalist in the Energy Systems Best Student Paper competition at the IISE Annual Meetings 2024! 
+**April 10, 2024**: 🌟 Exciting News! 🌟 I'm thrilled to share that our research paper at Distributed Systems Lab (DiSysLab), Oklahoma State Univeristy, has been selected as a finalist in the Energy Systems Best Student Paper competition at the IISE Annual Meetings 2024! I'm looking forward to presenting my paper in Montreal and interacting with fellow researchers and experts in the field.
 
-![Email confirmations of project acceptance at the 2023 IAIEC](../images/updates_images/IISE2024.jpg)
+<img src="../images/updates_images/IISE2024.jpg" alt="Email confirmations of research paper acceptance at the 2024 IISE Annual Meetings" width="200" height="auto">
+
+*Email confirmations of research paper acceptance at the 2024 IISE Annual Meetings*
+
+***
+
+**April 10, 2024**: Our paper titled "Deep Learning Models for Fault Detection and Diagnosis in Photovoltaic Modules Manufacture" has been accepted at IEEE CAI 2023! 🎉🎉🎉
+
+I'm thrilled to share this milestone and look forward to discussing our findings and networking with peers in the field. 
+
+<img src="../images/updates_images/IEEECAI2023.jpg" alt="Email confirmations of abstract acceptance at the 2023 IEEE CAI" width="200" height="auto">
+
+*Email confirmations of abstract acceptance at the 2023 IEEE CAI*
 
 ***
 
