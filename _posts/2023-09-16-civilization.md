@@ -6,7 +6,7 @@ tags:
   - Reflection
 ---
 
-This is a reflection inspired by the recent tragic incident in Hanoi. On September 12, 2023, around 23:30 ICT (UTC+07:00), a fire broke out in a nine-story microapartment building. Of the approximately 150 residents, 56 lost their lives and 37 were injured. My thoughts are shared here in both Vietnamese (first) and English.
+This reflection is inspired by the recent tragic incident in Hanoi. On September 12, 2023, at around 23:30 ICT (UTC+07:00), a devastating fire broke out in a nine-story microapartment building. Of the approximately 150 residents, 56 lost their lives and 37 were injured. My heartfelt condolences go out to the victims and their families. Here, I share my thoughts in both Vietnamese (first) and English.
 
 ***
 
