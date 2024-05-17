@@ -7,41 +7,48 @@ author_profile: true
 
 ***
 
-**August 8, 2023**: I'm over the moon to announce that I'm officially engaged with my long-time girlfriend, (Mrs. now) Doan!
+**April 10, 2024**: 🌟 Exciting News! 🌟 I'm thrilled to share that my research paper has been selected as a finalist in the Energy Systems Best Student Paper competition at the IISE Annual Meetings 2024! 
+
+![Email confirmations of project acceptance at the 2023 IAIEC](../images/updates_images/IISE2024.jpg)
 
 ***
 
-**July 1, 2023** Learning English is surprisingly difficult. So, let me help you by sharing my own experience and suggestions of how to learn (as a series of posts that you can find [here](/posts/2023/07/english-workshop/)) this amazing language in an effective and structured manner. These posts are written in both English and Vietnamese.
+**August 8, 2023**: Thrilled to announce my engagement to my wonderful long-time girlfriend, now fiancée, Doan! 🎆🎆🎆
 
 ***
 
-**March 15, 2023**: I wrote a post about my experience of applying for a Ph.D. program in the US, which I hoped would serve as either a guide or at least a reference for those preparing for their Ph.D. program application. The post is available to read [here](/posts/2023/03/phd-application/).
+**July 1, 2023**: Mastering English has its challenges, but I'm here to help! I've shared my journey and tips on learning this fascinating language in a series of bilingual posts. Explore them [here](/posts/2023/07/english-workshop/).
 
 ***
 
-**March 13, 2023**: After an arduous wait, I was finally admitted to the PhD program in Data Science and Engineering at Arizona State University, Ira A. Fulton School (ASU)!
-
-<img title = "Screenshot of the acceptance letter sent by the Graduate College of ASU." src = "../images/updates_images/ASU2023PhD.png">
-
-*Screenshot of the acceptance letter sent by the Graduate College of ASU.*
+**March 15, 2023**: I've documented my journey of applying for a Ph.D. in the US, hoping it serves as a guide or a valuable reference for prospective Ph.D. candidates. Read about my experience [here](/posts/2023/03/phd-application/).
 
 ***
 
-**Feb 05, 2023**: I was admitted to the PhD program in Industrial Engineering and Management at Oklahoma State University, Stillwater (OSU)!
+**March 13, 2023**: 🌟 Exciting news! 🌟 After a tense wait, I have been admitted to the PhD program in Data Science and Engineering at Arizona State University, Ira A. Fulton School (ASU)!
 
-<img title = "Screenshot of the acceptance letter sent by the Graduate College of OSU." src = "../images/updates_images/OSU2023PhD.png">
+![Acceptance letter from the Graduate College of ASU](../images/updates_images/ASU2023PhD.png)
 
-*Screenshot of the acceptance letter sent by the Graduate College of OSU.*
-
-***
-
-**Jan 12, 2023**: in Late November 2022, I had been invited by Mr. Khuong Nguyen Vinh, who is currently an Associated Lecturer of RMIT Vietnam, to give a guest lecture about the application of optics or optoelectronics in real life. I presented the lecture in Jan 11, 2023. The lecture slides can be found [here]()
-
+*Acceptance letter from the Graduate College of ASU.*
 
 ***
 
-**Dec 26, 2022**: at Intel Corp, there are two most pretigious conferences namely the Intel Manufacturing Excellence Conference (IMEC) and Intel AI Everywhere Conference (IAIEC). For the 2023 AIEC, I submited three projects that I was leading to the conference, and I got all three accepted! This was truly a marvelous achievement not only for my team but also for Intel Vietnam as this was the first time Intel Vietnam participated an AI-related conference within the corporation.
+**February 5, 2023**: I'm pleased to share that I've been admitted to the PhD program in Industrial Engineering and Management at Oklahoma State University, Stillwater (OSU)! 🎆🎆🎆
 
-<img title = "Screenshots of the emails sent by the 2023 IAIEC organizers regarding their decisions of my submissions." src = "../images/updates_images/intel2023AIE.png">
+![Acceptance letter from the Graduate College of OSU](../images/updates_images/OSU2023PhD.png)
 
-*Screenshots of the emails sent by the 2023 IAIEC organizers regarding their decisions of my submissions.*
+*Acceptance letter from the Graduate College of OSU.*
+
+***
+
+**January 12, 2023**: In late November 2022, I was invited by Mr. Khuong Nguyen Vinh, an Associate Lecturer at RMIT Vietnam, to deliver a guest lecture on real-world applications of optics and optoelectronics. The lecture was held on January 11, 2023, and the slides are available [here]().
+
+***
+
+**December 26, 2022**: At Intel Corp, the Intel Manufacturing Excellence Conference (IMEC) and the Intel AI Everywhere Conference (IAIEC) are highly prestigious. I'm proud to announce that all three projects I led were accepted at the 2023 IAIEC—an outstanding achievement for both my team and Intel Vietnam! 🍾🍾🍾
+
+![Email confirmations of project acceptance at the 2023 IAIEC](../images/updates_images/intel2023AIE.png)
+
+*Email confirmations of project acceptance at the 2023 IAIEC.*
+
+***
