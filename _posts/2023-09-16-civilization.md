@@ -1,5 +1,5 @@
 ---
-title: "From the tragic incident in Hanoi to the question 'What does it means to be civilized?'"
+title: "From the tragic incident in Hanoi to the question: What does it means to be civilized?"
 date: 2023-09-16
 permalink: /posts/2023/09/civilization/
 tags:
