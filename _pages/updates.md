@@ -11,7 +11,7 @@ author_profile: true
 
 <img src="../images/updates_images/IISE2024.jpg" alt="Email confirmations of research paper acceptance at the 2024 IISE Annual Meetings" width="200" height="auto">
 
-*Email confirmations of research paper acceptance at the 2024 IISE Annual Meetings*
+*Email confirmations of research paper acceptance at the 2024 IISE Annual Meetings.*
 
 ***
 
@@ -21,7 +21,7 @@ I'm thrilled to share this milestone and look forward to discussing our findings
 
 <img src="../images/updates_images/IEEECAI2023.jpg" alt="Email confirmations of abstract acceptance at the 2023 IEEE CAI" width="200" height="auto">
 
-*Email confirmations of abstract acceptance at the 2023 IEEE CAI*
+*Email confirmations of abstract acceptance at the 2023 IEEE CAI.*
 
 ***
 
