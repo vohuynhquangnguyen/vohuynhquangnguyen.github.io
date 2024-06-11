@@ -247,6 +247,6 @@ To write a good response for IELTS Task 1, you need to have a rich lexical resou
 2. Do exercises in chapters that focus on describing tables, pie chars, bar charts, and line charts in the **Collins Get Ready for IELTS Writing** by Fiona Aish and Jo Tomlinson. 
 
 ## Final Words
-In summary, there two types of language you need to master to write a good response for IELTS Task 1: language of changes and language of ratio/percentage. You can use my suggestions above as a reference on how to master these language types.
+In summary, there three types of language you need to master to write a good response for IELTS Task 1: language of changes and language of ratio/percentage. You can use my suggestions above as a reference on how to master these language types.
 
 If you are passionate about English but don’t know how to learn English effectively, please refer to the collection of my posts [here](/posts/2023/07/english-workshop/).

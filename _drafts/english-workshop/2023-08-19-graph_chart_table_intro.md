@@ -96,10 +96,10 @@ A typical response for Task 1 of the IELTS Academic Writing Test consists of two
 ## Structure of an introduction
 The introduction to a graph (or a chart) typically consists of two main parts:
 * **Description of the Graph, i.e., What does the graph show?**: This part should provide a brief overview of the graph including the following information:
-  *  The type of graph being described, i.e. What type of graph are we describing?.
-  *  The information presented in the graph, i.e., What is the information?.
-  *  The units of measurement used, i.e., How is this information measured?.
-  *  The time period covered by the data (if applicable), i.e., Is there a time period?.
+  1. The type of graph being described. In other words, what type of graph are we describing?.
+  2. The information presented in the graph.
+  3. The units of measurement used. In other words, how is this information measured?
+  4. The time period covered by the data (if applicable).
 
 * **Overview of the Graph, i.e., What is the overview of this graph?:** This part should provide a high-level summary of the main patterns or trends observed in the graph, such as:
   * The most significant changes or movements.
