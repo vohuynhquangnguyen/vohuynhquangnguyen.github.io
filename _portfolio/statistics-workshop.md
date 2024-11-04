@@ -67,3 +67,12 @@ This [lecture note](https://vohuynhquangnguyen.notion.site/Experimental-Design-5
     * Dean, Voss, Draguljić (2017). Design and Analysis of Experiments (2nd Edition).
     * Kuehl (2000). Design of Experiments - Statistical Principles of Research Design and Analysis (2nd Edition).
     * Montgomery (2017). Design and Analysis of Experiments (9th Edition).
+
+## Time Series Analysis
+This [lecture note](https://vohuynhquangnguyen.notion.site/Time-Series-Analysis-7f24f2934b0a43f78eba7e95c4780213?pvs=74) contains a summary of what I have learned about the topic of time series, which is an advanced subject in probability and statistics. Here are some disclaimers:
+
+* The contents of this note are based on the following courses:
+    * STAT-5053 Time Series Analysis offered by Oklahoma State University.
+* The following textbooks  is used to complement this lecture note.
+    * Cryer, Chan (2008). Time Series Analysis with Applications in R (2nd Edition).
+    * Montgomery, Jennings, Kulahci (2015). Introduction to Time Series Analysis and Forecasting (2nd Edition).
