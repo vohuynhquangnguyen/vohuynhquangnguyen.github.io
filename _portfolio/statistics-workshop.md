@@ -57,14 +57,13 @@ In [this project](), I will showcase how a thorough explanatory regression analy
 # Applied Statistics
 
 ## Experimental Design
-<aside>
 This [lecture note](https://vohuynhquangnguyen.notion.site/Experimental-Design-56fc76eca0d2422ebac5edf591b2ba70) contains a summary of what I have learned about experimental design, also known as design of experiments (DOE). Here are some disclaimers:
 
-- The contents of this note are based on the following courses:
-    - STAT-5303 Experimental Designs offered by Oklahoma State University.
-    - Design of Experiments Specialization offered by Arizona State University, hosted by Coursera.
-- The contents of this note are also based on the following books:
-    - Dean, Voss, Draguljić (2017). Design and Analysis of Experiments (2nd Edition).
-    - Kuehl (2000). Design of Experiments - Statistical Principles of Research Design and Analysis (2nd Edition).
-    - Montgomery (2017). Design and Analysis of Experiments (9th Edition).
-</aside>
+* The contents of this note are based on the following courses:
+    * STAT-5303 Experimental Designs offered by Oklahoma State University.
+    * Design of Experiments Specialization offered by Arizona State University, hosted by Coursera.
+
+* The contents of this note are also based on the following books:
+    * Dean, Voss, Draguljić (2017). Design and Analysis of Experiments (2nd Edition).
+    * Kuehl (2000). Design of Experiments - Statistical Principles of Research Design and Analysis (2nd Edition).
+    * Montgomery (2017). Design and Analysis of Experiments (9th Edition).
