@@ -75,7 +75,7 @@ I bring a robust understanding of Semiconductor Devices, Optical Metrology, Comp
   * Responsibilities:
     * Developed a safety system for construction machinery, forming the basis for a new product line.
 
-## Skills
+# Skills
 * Languages: English (IELTS Certified C2 level).
 * Technical Skills: Proficient in Python, MATLAB, LabVIEW, Arduino, and LaTEX; experienced with SAS JMP.
 * Areas of Expertise: Computer Vision, Data Science, Semiconductor Engineering, Optical Metrology, Power Electronics.
