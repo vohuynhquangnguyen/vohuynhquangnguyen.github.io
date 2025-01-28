@@ -64,7 +64,7 @@ I bring a robust understanding of Semiconductor Devices, Optical Metrology, Comp
 # Skills
 * Languages: Vietnamese; English (IELTS Certified C1 level).
 * Technical Skills: Python; MATLAB; LabVIEW; Arduino, LaTEX; SAS; SAS JMP.
-* Areas of Expertise: Computer Vision; Data Science; Semiconductor Engineering; Optical Metrology; Power Electronics.
+* Technical Knowledges: Computer Vision; Data Science; Semiconductor Engineering; Optical Metrology; Power Electronics.
 * Soft Skills: Project Management, Event Planning, Public Speaking.
 
 # Publications
