@@ -77,13 +77,15 @@ I bring a robust understanding of Semiconductor Devices, Optical Metrology, Comp
   * [Measurement setup for differential spectral responsivity of solar cells](https://link.springer.com/article/10.1007/s10043-020-00584-x) in Optical Review, Springer, 2020.
 
 * **Theses:**
-  * "Safety System in Construction Industry", Bachelor Thesis, Open Repository of Universities of Applied Sciences; 2018. [Link](https://www.theseus.fi/handle/10024/139396)
-  * "Realization and Verification of Deep Learning models for Fault Detection and Diagnosis of Photovoltaic Modules", Master Thesis, Aalto Learning Center; 2020. [Link](https://aaltodoc.aalto.fi/handle/123456789/102461)
+    * [Realization and Verification of Deep Learning models for Fault Detection and Diagnosis of Photovoltaic Modules](https://aaltodoc.aalto.fi/handle/123456789/102461), Master Thesis, Aalto Learning Center, 2020.
+  * [Safety System in Construction Industry: A protection system preventing fatal injuries by excavators in construction sites](https://www.theseus.fi/handle/10024/139396), Bachelor Thesis, Open Repository of Universities of Applied Sciences, 2018.
+
 
 ## Teaching
 * **Aalto University**, Espoo, Finland
-  * Teaching and Exercises Assistant, "Sensors and Measurement Methods" course (March 2019 - June 2019)
+  * Teaching and Exercises Assistant, (03/2019 - 06/2019), [Sensors and Measurement Methods](https://courses.aalto.fi/s/course/a053X000012QwysQAC/sensors-and-measurement-methods?language=en_US). 
 * **Master Thesis Advisor**
-  * Supervised thesis on "Crown-of-Thorns Starfish detection using YOLOv5" (January 2022 - June 2022)
+  * (01/2022 - 06/2022), [Crown-of-Thorns Starfish detection using YOLOv5](https://aaltodoc.aalto.fi/items/84e2ac36-cc4f-4b2c-8aad-5ab64a88ecc0), authored by Phuong Truong.
+  * (09/2023 - 08/2024) [Image Similarity Assessment for Product Quality Assurance](https://aaltodoc.aalto.fi/items/8c8449fd-4288-436f-8638-7c7f09905d07) by Khoa Nguyen.
 * **Visiting Lecturer**
   * RMIT University Vietnam, "Optics/Optoelectronic Applications in Reality" (January 2023)
