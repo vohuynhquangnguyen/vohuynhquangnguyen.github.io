@@ -26,7 +26,7 @@ I bring a robust understanding of Semiconductor Devices, Optical Metrology, Comp
   * Project: Modelling and Control Methods in Renewable Energy Systems. The project focused on developing a feasible algorithm that enables photovoltaic systems to generate maximum power, specifically for application in short-haul electric vehicle charging stations. The project was funded by Fortum Oy, one of Finland's largest energy companies.
 
 * **B.Tech. in Electronics**, (2014 - 2018). Metropolia University of Applied Sciences, Helsinki, Finland. 
-  * Achievements
+  * Achievements:
     * Graduate with Honors (GPA 4.6/5.0).
     * Tutor of the Year (2015-2016).
   * Thesis: Safety System in Construction Industry: A protection system preventing fatal injuries by excavators in construction sites. Advisors: Matti Fisher and Jani Virtanen.
