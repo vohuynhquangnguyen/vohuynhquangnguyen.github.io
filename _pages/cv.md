@@ -7,12 +7,12 @@ redirect_from:
   - /resume
 ---
 
-## Personal Statement
+# Personal Statement
 I am an engineering and science enthusiast committed to agility, responsibility, and teamwork. I strive to become an influential researcher in my field by consistently challenging myself and achieving my goals. My hobbies include liberal arts and languages, which I pursue passionately in my free time.
 
 I bring a robust understanding of Semiconductor Devices, Optical Metrology, Computer Vision, and Data Science from my extensive experience in both professional environments and academic settings. My keen eye for detail, diligent work ethic, and strong project management skills make me a prime candidate for roles in Semiconductor Design and Manufacturing, Data Analytics, and Machine Learning Operations.
 
-## Education
+# Education
 * **Ph.D. in Industrial Engineering and Management**, (Expected 2028). Oklahoma State University, Stillwater, USA 
   * Research Interests: Neuromorphic Computation; Machine Learning; Deep Learning; Applied Probability.
   * Achievements:
@@ -32,7 +32,7 @@ I bring a robust understanding of Semiconductor Devices, Optical Metrology, Comp
   * Thesis: Safety System in Construction Industry: A protection system preventing fatal injuries by excavators in construction sites. Advisors: Matti Fisher and Jani Virtanen.
   * Project: Indoor Air Quality Sensor Fusion. The project, which was a collaborative between Metropolia University of Applied Sciences (Finland) and Osnabrück Hochschule (Germany), focused on developing an indoor air quality monitoring system. The system was designed to detect air quality, transmit and display the data to users via a custom mobile application, and trigger integrated warnings when measurements exceeded predefined thresholds.
 
-## Work Experience
+# Work Experiences
 * **Intel Corp. (VNAT)**, (04/2021 - 12/2022). Saigon Hi-Tech Park, Ho Chi Minh City, Vietnam. 
   * Title: Process and Equipment Engineer & Deep Learning Scientist.
   * Responsibilities:
@@ -80,8 +80,7 @@ I bring a robust understanding of Semiconductor Devices, Optical Metrology, Comp
     * [Realization and Verification of Deep Learning models for Fault Detection and Diagnosis of Photovoltaic Modules](https://aaltodoc.aalto.fi/handle/123456789/102461), Master Thesis, Aalto Learning Center, 2020.
   * [Safety System in Construction Industry: A protection system preventing fatal injuries by excavators in construction sites](https://www.theseus.fi/handle/10024/139396), Bachelor Thesis, Open Repository of Universities of Applied Sciences, 2018.
 
-
-## Teaching
+# Teachings
 * **Aalto University**, Espoo, Finland
   * Teaching and Exercises Assistant, (03/2019 - 06/2019), [Sensors and Measurement Methods](https://courses.aalto.fi/s/course/a053X000012QwysQAC/sensors-and-measurement-methods?language=en_US). 
 * **Master Thesis Advisor**
