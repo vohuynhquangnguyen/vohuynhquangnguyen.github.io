@@ -14,7 +14,7 @@ I bring a robust understanding of Semiconductor Devices, Optical Metrology, Comp
 
 # Education
 * **Ph.D. in Industrial Engineering and Management**, (Expected 2028). Oklahoma State University, Stillwater, USA 
-  * Research Interests: Neuromorphic Computation; Machine Learning; Deep Learning; Applied Probability.
+  * Research Interests: Neuromorphic and In-memory Computation; Machine Learning; Deep Learning; Applied Probability.
   * Achievements:
     * Current GPA: 3.67/4.0.
     * Finalist of IISE Annual Meetings 2024 Student Paper Competition, Energy Division Track.
