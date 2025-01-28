@@ -87,4 +87,4 @@ I bring a robust understanding of Semiconductor Devices, Optical Metrology, Comp
   * (01/2022 - 06/2022), [Crown-of-Thorns Starfish detection using YOLOv5](https://aaltodoc.aalto.fi/items/84e2ac36-cc4f-4b2c-8aad-5ab64a88ecc0), authored by Phuong Truong.
   * (09/2023 - 08/2024) [Image Similarity Assessment for Product Quality Assurance](https://aaltodoc.aalto.fi/items/8c8449fd-4288-436f-8638-7c7f09905d07) by Khoa Nguyen.
 * **Visiting Lecturer**
-  * RMIT University Vietnam, "Optics/Optoelectronic Applications in Reality" (January 2023)
+  * (01/2023) [How to make frames and infer people - A lecture in Optics and Computer Vision](https://vohuynhquangnguyen.github.io/teaching/2023-spring-guest_lecture) in RMIT University Vietnam.
