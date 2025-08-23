@@ -5,7 +5,7 @@ permalink: /publication/2024-12-15-measurement-setup
 excerpt: 'We present SplitVAE, a decentralized scenario generation framework that leverages variational autoencoders to generate high-quality scenarios without moving stakeholder data.'
 date: '2024-12-15'
 venue: '2024 IEEE International Conference on Big Data (BigData)'
-citation: 'H. M. M. Islam, H. Q. N. Vo and P. Ramanan, "SplitVAEs: Decentralized scenario generation from siloed data for stochastic optimization problems," in 2024 IEEE International Conference on Big Data (BigData), Washington, DC, USA, 2024, pp. 938-948.'
+citation: 'H. M. M. Islam, H. Q. N. Vo and P. Ramanan, "SplitVAEs: Decentralized scenario generation from siloed data for stochastic optimization problems", in 2024 IEEE International Conference on Big Data (BigData), Washington, DC, USA, 2024, pp. 938-948.'
 ---
 
 # Abstract
