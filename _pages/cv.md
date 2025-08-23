@@ -69,22 +69,31 @@ I bring a robust understanding of Semiconductor Devices, Optical Metrology, Comp
 
 # Publications
 * **Books and Articles:**
-  * [SplitVAEs: Decentralized scenario generation from siloed data for stochastic optimization problems](https://doi.ieeecomputersociety.org/10.1109/BigData62323.2024.10826070) in 2024 IEEE International Conference on Big Data (BigData).
+  * [Harnessing the Full Potential of RRAMs through Scalable and Distributed In-Memory Computing with Integrated Error Correction](https://arxiv.org/abs/2508.13298). Submitted to Nature Communications.
 
-  * [The Lynchpin of In-Memory Computing: A Benchmarking Framework for Vector-Matrix Multiplication in RRAMs](https://doi.ieeecomputersociety.org/10.1109/ICONS62911.2024.00058) in 2024 ACM International Conference on Neuromorphic Systems (ICONS 2024).
-  * [Deep Learning Models for Fault Detection and Diagnosis in Photovoltaic Modules Manufacture](https://doi.ieeecomputersociety.org/10.1109/CAI54212.2023.00095) in 2023 IEEE Conference on Artificial Intelligence (CAI).
-  * [Case Study: Utilising of Deep Learning Models for Fault Detection and Diagnosis of Photovoltaic Modules to Improve Solar Energy Constructions' O&M Activities Quality](https://link.springer.com/chapter/10.1007/978-981-99-4792-8_5) in Information Systems Research in Vietnam (Volume 2), Springer, 2023.
-  * [Measurement setup for differential spectral responsivity of solar cells](https://link.springer.com/article/10.1007/s10043-020-00584-x) in Optical Review, Springer, 2020.
+  * [SplitVAEs: Decentralized scenario generation from siloed data for stochastic optimization problems](https://doi.ieeecomputersociety.org/10.1109/BigData62323.2024.10826070). Published in 2024 IEEE International Conference on Big Data (BigData).
+
+  * [The Lynchpin of In-Memory Computing: A Benchmarking Framework for Vector-Matrix Multiplication in RRAMs](https://doi.ieeecomputersociety.org/10.1109/ICONS62911.2024.00058). Published in 2024 ACM International Conference on Neuromorphic Systems (ICONS 2024).
+
+  * [Deep Learning Models for Fault Detection and Diagnosis in Photovoltaic Modules Manufacture](https://doi.ieeecomputersociety.org/10.1109/CAI54212.2023.00095). Published in 2023 IEEE Conference on Artificial Intelligence (CAI).
+
+  * [Case Study: Utilising of Deep Learning Models for Fault Detection and Diagnosis of Photovoltaic Modules to Improve Solar Energy Constructions' O&M Activities Quality](https://link.springer.com/chapter/10.1007/978-981-99-4792-8_5). Published in Information Systems Research in Vietnam (Volume 2), Springer, 2023.
+
+  * [Measurement setup for differential spectral responsivity of solar cells](https://link.springer.com/article/10.1007/s10043-020-00584-x). Published in Optical Review, Springer, 2020.
 
 * **Theses:**
     * [Realization and Verification of Deep Learning models for Fault Detection and Diagnosis of Photovoltaic Modules](https://aaltodoc.aalto.fi/handle/123456789/102461), Master Thesis, Aalto Learning Center, 2020.
+
   * [Safety System in Construction Industry: A protection system preventing fatal injuries by excavators in construction sites](https://www.theseus.fi/handle/10024/139396), Bachelor Thesis, Open Repository of Universities of Applied Sciences, 2018.
 
 # Teachings
 * **Aalto University**, Espoo, Finland
-  * Teaching and Exercises Assistant, (03/2019 - 06/2019), [Sensors and Measurement Methods](https://courses.aalto.fi/s/course/a053X000012QwysQAC/sensors-and-measurement-methods?language=en_US). 
+  * Teaching and Exercises Assistant, (03/2019 - 06/2019), [Sensors and Measurement Methods](https://courses.aalto.fi/s/course/a053X000012QwysQAC/sensors-and-measurement-methods?language=en_US).
+
 * **Master Thesis Advisor**
   * (01/2022 - 06/2022), [Crown-of-Thorns Starfish detection using YOLOv5](https://aaltodoc.aalto.fi/items/84e2ac36-cc4f-4b2c-8aad-5ab64a88ecc0), authored by Phuong Truong.
+
   * (09/2023 - 08/2024) [Image Similarity Assessment for Product Quality Assurance](https://aaltodoc.aalto.fi/items/8c8449fd-4288-436f-8638-7c7f09905d07) by Khoa Nguyen.
+
 * **Visiting Lecturer**
   * (01/2023) [How to make frames and infer people - A lecture in Optics and Computer Vision](https://vohuynhquangnguyen.github.io/teaching/2023-spring-guest_lecture) in RMIT University Vietnam.
