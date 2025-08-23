@@ -1,0 +1,15 @@
+---
+title: "The Lynchpin of In-Memory Computing: A Benchmarking Framework for Vector-Matrix Multiplication in RRAMs"
+collection: publications
+permalink: /publication/2024-07-31-lynchpin
+excerpt: 'We introduce MELISO (In-Memory Linear Solver), a comprehensive end-to-end VMM benchmarking framework tailored for RRAM-based systems. MELISO evaluates the error propagation in VMM operations, analyzing the impact of RRAM device metrics on error magnitude and distribution.'
+date: '2024-07-31'
+venue: "2024 International Conference on Neuromorphic Systems (ICONS'24)"
+citation: 'M. T. Rahman Chowdhury, H. Q. Nguyen Vo, P. Ramanan, M. Yildirim and G. Tutuncuoglu, "The Lynchpin of In-Memory Computing: A Benchmarking Framework for Vector-Matrix Multiplication in RRAMs," 2024 International Conference on Neuromorphic Systems (ICONS), Arlington, VA, USA, 2024, pp. 336-342.'
+---
+
+# Abstract
+The Von Neumann bottleneck, a fundamental challenge in conventional computer architecture, arises from the inability to execute fetch and data operations simultaneously due to a shared bus linking processing and memory units. This bottleneck significantly limits system performance, increases energy consumption, and exacerbates computational complexity. Emerging technologies such as Resistive Random Access Memories (RRAMs), leveraging crossbar arrays, offer promising alternatives for addressing the demands of data-intensive computational tasks through in-memory computing of analog vector-matrix multiplication (VMM) operations. However, the propagation of errors due to device and circuit-level imperfections remains a significant challenge. In this study, we introduce MELISO (In-Memory Linear Solver), a comprehensive end-to-end VMM benchmarking framework tailored for RRAM-based systems. MELISO evaluates the error propagation in VMM operations, analyzing the impact of RRAM device metrics on error magnitude and distribution. This paper introduces the MELISO framework and demonstrates its utility in characterizing and mitigating VMM error propagation using state-of-the-art RRAM device metrics.
+
+# Contents
+The contents of this article can be accessed [here](https://ieeexplore.ieee.org/document/10766540)
