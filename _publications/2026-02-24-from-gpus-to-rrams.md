@@ -13,7 +13,7 @@ The exponential growth of computational workloads is surpassing the capabilities
 
 # Contents
 The contents of this article can be accessed here:
-- SIAM Proceedings (DOI): https://epubs.siam.org/doi/10.1137/1.9781611979022.2
-- arXiv (preprint version): https://arxiv.org/abs/2509.21137
+- [SIAM Proceedings](https://epubs.siam.org/doi/10.1137/1.9781611979022.2)
+- [arXiv](https://arxiv.org/abs/2509.21137). 
 
 <!-- The presentation of this article for SIAM PP26 can be accessed here -->

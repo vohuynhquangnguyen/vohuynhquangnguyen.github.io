@@ -14,5 +14,5 @@ orders of magnitude, and decreases latency 100-fold. Hence, MELISO+ allows lower
 
 # Contents
 The contents of this article can be accessed here:
-- arXiv: https://arxiv.org/abs/2508.13298
+- [arXiv](https://arxiv.org/abs/2508.13298).
 - Nature Communications Engineering: pending.
