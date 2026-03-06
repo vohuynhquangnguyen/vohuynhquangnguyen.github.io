@@ -7,11 +7,6 @@ redirect_from:
   - /resume
 ---
 
-**Vo, Huynh Quang Nguyen (Lucius)**  
-Stillwater, Oklahoma, USA  
-Phone: +1 405 269 2708 · Email: lucius.vo@okstate.edu · Website: vohuynhquangnguyen.github.io  
-LinkedIn: https://www.linkedin.com/in/quangnguyen-vohuynh · GitHub: https://github.com/vohuynhquangnguyen
-
 # Personal Statement
 I am an engineering and science enthusiast committed to agility, responsibility, and teamwork. I strive to become an influential researcher in my field by consistently challenging myself and achieving my goals. My hobbies include liberal arts and languages, which I pursue passionately in my free time.
 
