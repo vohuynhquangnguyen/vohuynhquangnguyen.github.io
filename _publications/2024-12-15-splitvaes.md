@@ -1,7 +1,7 @@
 ---
 title: 'SplitVAEs: Decentralized scenario generation from siloed data for stochastic optimization problems'
 collection: publications
-permalink: /publication/2024-12-15-measurement-setup
+permalink: /publication/2024-12-15-splitvaes
 excerpt: 'We present SplitVAE, a decentralized scenario generation framework that leverages variational autoencoders to generate high-quality scenarios without moving stakeholder data.'
 date: '2024-12-15'
 venue: '2024 IEEE International Conference on Big Data (BigData)'
