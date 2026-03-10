@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 ## Personal Statement
+
 I am an engineering and science enthusiast committed to agility, responsibility, and teamwork. I strive to become an influential researcher in my field by consistently challenging myself and achieving my goals. My hobbies include liberal arts and languages, which I pursue passionately in my free time.
 
 I bring a robust understanding of Semiconductor Devices, Optical Metrology, Computer Vision, and Data Science from my extensive experience in both professional environments and academic settings. My keen eye for detail, diligent work ethic, and strong project management skills make me a prime candidate for roles in Semiconductor Design and Manufacturing, Data Analytics, and Machine Learning Operations.
 
 ## Education
+
 * **Ph.D. in Industrial Engineering and Management (Minor in Statistics)**, (Expected Aug 2028). Oklahoma State University (OSU), Stillwater, Oklahoma, USA  
   * Current GPA: 3.780/4.0.  
   * Research: Neuromorphic Computing; Parallel and Distributed Computing; Machine and Deep Learning; Optimization; Computational Statistics.
@@ -28,6 +30,7 @@ I bring a robust understanding of Semiconductor Devices, Optical Metrology, Comp
   * Project: *Indoor Air Quality Sensor Fusion*. The project, which was a collaboration between Metropolia University of Applied Sciences (Finland) and Osnabrück Hochschule (Germany), focused on developing an indoor air quality monitoring system. The system was designed to detect air quality, transmit and display the data to users via a custom mobile application, and trigger integrated warnings when measurements exceeded predefined thresholds.
 
 ## Work Experiences
+
 * **Argonne National Laboratory**, (06/2025 - 09/2025). Lemont, IL, USA  
   * Title: Ph.D. Research Student Aide.  
   * Responsibilities:
@@ -62,6 +65,7 @@ I bring a robust understanding of Semiconductor Devices, Optical Metrology, Comp
     * Assisted in the production of the company's principal product, the NL Camera, enabling the company to meet its production quota and address growing market demand.
 
 ## Teaching
+
 * **Aalto University**, Espoo, Finland  
   * Teaching and Exercises Assistant, (03/2019 - 06/2019), [Sensors and Measurement Methods](https://courses.aalto.fi/s/course/a053X000012QwysQAC/sensors-and-measurement-methods?language=en_US).
 * **RMIT University Vietnam**, Ho Chi Minh City, Vietnam  
@@ -71,9 +75,12 @@ I bring a robust understanding of Semiconductor Devices, Optical Metrology, Comp
   * (09/2023 - 08/2024), [Image Similarity Assessment for Product Quality Assurance](https://aaltodoc.aalto.fi/items/8c8449fd-4288-436f-8638-7c7f09905d07), authored by Khoa Nguyen.
   
 ## Leadership Experience
+
 * **Vice President (VP) of INFORMS Student Chapters**, (10/2025 - Present). Oklahoma State University.
 
 ## Honors and Awards
+
+* **SIAM Travel Awards** for SIAM Conference on Parallel Processing for Scientific Computing (PP26).
 * **Finalist, Student Paper Competition (Energy Division Track)**, IISE Annual Meetings 2024 & 2025 (2024 - 2025).  
   * Recognized for research contribution in the Energy Division track of the IISE Annual 2024 conference.
 * **Dean’s List**, Aalto University (2019 - 2020).  
@@ -82,12 +89,14 @@ I bring a robust understanding of Semiconductor Devices, Optical Metrology, Comp
   * Recognized for exceptional contributions as a student tutor.
 
 ## Skills
+
 * Languages: Vietnamese; English (IELTS Certified C1 level).
 * Technical Skills: Python; MATLAB; LabVIEW; Arduino; LaTeX; SAS; SAS JMP.
 * Technical Knowledge: Computer Vision; Data Science; Semiconductor Engineering; Optical Metrology; Power Electronics; Parallel & Distributed Computing; Optimization.
 * Soft Skills: Project Management, Event Planning, Public Speaking.
 
 ## Publications
+
 P=Preprint, B=Book Chapter, C=Conference, J=Journal.
 
 * **[C]** Huynh Q. N. Vo, Md Tawsif Rahman Chowdhury, Paritosh Ramanan, Gozde Tutuncuoglu, Junchi Yang, Feng Qiu, and Murat Yildirim. (2025). *From GPUs to RRAMs: Distributed In-Memory Primal-Dual Hybrid Gradient Method for Solving Large-Scale Linear Optimization Problems.* In: Proceedings of the 2026 SIAM Conference on Parallel Processing for Scientific Computing (PP26).
@@ -99,5 +108,6 @@ P=Preprint, B=Book Chapter, C=Conference, J=Journal.
 * **[C]** P. Kärhä, H. Baumgartner, J. Askola, K. Kylmänen, B. Oksanen, K. Maham, H. Vo, E. Ikonen. (2020). [Measurement setup for differential spectral responsivity of solar cells](https://link.springer.com/article/10.1007/s10043-020-00584-x). The 13th Japan-Finland Joint Symposium on Optics in Engineering (OIE’19). *Optical Review* 27, 195–204 (2020).
 
 ## Theses
+
 * [Realization and Verification of Deep Learning models for Fault Detection and Diagnosis of Photovoltaic Modules](https://aaltodoc.aalto.fi/handle/123456789/102461), Master Thesis, Aalto Learning Center, 2020.
 * [Safety System in Construction Industry: A protection system preventing fatal injuries by excavators in construction sites](https://www.theseus.fi/handle/10024/139396), Bachelor Thesis, Open Repository of Universities of Applied Sciences, 2018.
