@@ -14,7 +14,7 @@ I am currently pursuing a Ph.D. program in Industrial Engineering and Management
 
 Moreover, I have been a contributor to [AI Vietnam](https://aivietnam.edu.vn/) since June 2021, which is one of the largest Vietnamese communities of AI enthusiasts. The community is co-led by Dr. Vinh Dinh Quang (currently tenuring at Vietnamese-German University) and Dr. Phuc Nguyen Hong (currently tenuring at Eastern International University).
 
-I love writing a lot! Hence, you can find many posts where I share my experiences on how to learn English, how to start coding in several programming languages such as Python, how to prepare a good profile to apply for doctoral studies, as well as my commentaries on this [page](../_pages/year-archive.md).
+I love writing a lot! Hence, you can find many posts where I share my experiences on how to learn English, how to start coding in several programming languages such as Python, how to prepare a good profile to apply for doctoral studies, as well as my commentaries on this [page](../_pages/year-archive.html).
 
 
 ## My Prior Life!
