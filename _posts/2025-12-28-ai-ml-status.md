@@ -10,7 +10,7 @@ toc: true
 toc_sticky: true
 ---
 
-This post is adapted from a short social media reflection I previously shared about the explosive growth of AI research submissions and the mounting pressure it places on the conference review system.
+This post is adapted from a short social media reflection I previously shared about the explosive growth of AI research submissions and the mounting pressure it places on the conference review system, mentioned by a [post](https://www.reddit.com/r/MachineLearning/comments/1px1agd/d_rmachinelearning_a_year_in_review/) on Reddit.
 
 In this post, I expand that reflection into a more structured discussion in **Vietnamese first**, followed by an **English version**.
 
