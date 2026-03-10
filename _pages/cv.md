@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+> **Note:** A PDF version of my CV is available [here](../files/miscs/LuciusVo_CV.pdf).
+
 ## Personal Statement
 
 I am an engineering and science enthusiast committed to agility, responsibility, and teamwork. I strive to become an influential researcher in my field by consistently challenging myself and achieving my goals. My hobbies include liberal arts and languages, which I pursue passionately in my free time.
