@@ -10,19 +10,20 @@ This reflection is inspired by the recent tragic incident in Hanoi. On September
 
 ***
 
-# Mục Lục (Table of Contents)
+## Mục Lục (Table of Contents)
 1. [Bản Tiếng Việt (Vietnamese version)](#vietnamese)
 2. [Bản Tiếng Anh (English version)](#english)
 
 ***
 
-# Vietnamese version <a name = 'vietnamese'></a>
+## Vietnamese version {#vietnamese}
 Theo bạn, văn minh là gì?
 Có thể bạn sẽ nói rằng: văn minh đồng nghĩa với việc là phải giàu sang về mặt kinh tế, là phải hoa lệ và hoành tráng, sạch sẽ và trật tự. Hoặc bạn cũng có thể cho rằng văn minh nghĩa là việc được tiếp cận dễ dàng với những tiện ích và tiện nghi trong cuộc sống. 
 
 Mình thấy rằng các cách hiểu như vậy đều không sai. Đúng lý mà nói, có rất nhiều cách để chúng ta có thể định nghĩa văn minh là gì. Với mình, văn minh đôi khi chỉ đơn giản là sự để ý tới những điều tưởng chừng nhỏ nhặt nhất.
 
 Tại sao lại như vầy? Mong các bạn hãy dành ít phút đọc qua những trải nghiệm khi mình còn học Cử Nhân và Thạc Sĩ ở Phần Lan, cũng như hiện tại khi mình đang học bậc Tiến Sĩ ở Hoa Kỳ.
+
 1. Hồi mình còn học ở Phần Lan, những khóa học như Sơ Cấp Cứu (First Aid) và Sinh Tồn khi gặp Khủng Khoảng (Survival During Crisis) là những khóa học mà nhà trường khuyến khích cho các bạn sinh viên đăng kí học, chẳng hạn như ở Đại Học Aalto nơi mình từng học. Thậm chí có rất nhiều trường khác có quy chế để những khóa học này là những môn học bắt buộc: nếu các bạn không học thì sẽ khó mà tốt nghiệp. 
 Đến khi mà mình qua thành phố Stillwater ở Oklahoma - một bang của Hoa Kỳ, nằm ở phía bắc Texas - mình cũng thấy một quy chế tương tự. Ở đây, ngay đầu năm học, trường mình (Đại Học Bang Oklahoma) đã bắt buộc các bạn sinh viên phải học và hoàn thành những khóa bảo vệ bản thân trước những mối nguy hại chẳng hạn như hỏa hạn, nã súng trong trường học, gặp lốc xoáy, v.v... v thì mới được đăng kí môn học. 
 2. Ở Phần Lan và Hoa Kỳ, mình để ý hầu hết các công trình, nhà cửa luôn được thiết kế và xây dựng theo hướng đảm bảo rằng: (1) dù bạn có là người tàn tật, bạn vẫn sẽ tự mình ra vào một cách dễ dàng; (2) bạn sẽ dễ dàng thoát ra ngoài nếu như có sự cố hỏa hoạn cháy nổ; (3) nếu cần sơ cứu thì các bạn rất dễ tiếp cận những thiết bị hỗ trợ như máy khử rung tim (AED). Mặt khác, ở những khu vực/thành phố đông sinh viên như Stillwater chẳng hạn, các bạn rất dễ liên lạc với cảnh sát hay cứu hỏa qua những cột liên lạc khẩn cấp. 
@@ -36,7 +37,8 @@ P.S.: Theo như điều tra thì vụ việc cháy chung cư là đến từ pin
 
 ***
 
-# English version <a name = 'english'></a>
+## English version {#english}
+
 If someone ask you: "What does it mean to be civilized?" What would be your answer? You might say it's about economic affluence, being flashy and magnificent, or having cleanliness and order. Or you might think it's about easy access to amenities and comforts in life.
 
 These definitions aren't wrong, but for me, civilization sometimes means paying attention to even the smallest details.
