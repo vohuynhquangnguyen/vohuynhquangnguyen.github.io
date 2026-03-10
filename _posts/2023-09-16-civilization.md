@@ -48,9 +48,9 @@ Khi chuyển đến Stillwater, Oklahoma, mình cũng thấy một tinh thần t
 
 Ở cả Phần Lan lẫn Hoa Kỳ, mình nhận thấy phần lớn công trình và nhà cửa đều được thiết kế theo hướng bảo đảm rằng:
 
-- người khuyết tật vẫn có thể ra vào một cách tương đối dễ dàng;
-- mọi người có thể thoát hiểm nhanh hơn khi xảy ra hỏa hoạn;
-- các thiết bị hỗ trợ khẩn cấp như **AED** tương đối dễ tiếp cận.
+- Người khuyết tật vẫn có thể ra vào một cách tương đối dễ dàng;
+- Mọi người có thể thoát hiểm nhanh hơn khi xảy ra hỏa hoạn;
+- Các thiết bị hỗ trợ khẩn cấp như **AED** tương đối dễ tiếp cận.
 
 Ngoài ra, ở những khu vực tập trung đông sinh viên như Stillwater, cũng có các cột liên lạc khẩn cấp để liên hệ nhanh với cảnh sát hoặc cứu hỏa.
 
@@ -64,9 +64,9 @@ Qua những điều mình tận mắt chứng kiến, mình cảm nhận rằng 
 
 Vụ cháy chung cư mini ở Hà Nội thật sự rất thương tâm. Tuy vậy, mình vẫn nghĩ rằng thảm kịch ấy có thể đã được ngăn chặn hoặc giảm thiểu rất nhiều **nếu**:
 
-- chủ đầu tư xây dựng có tâm hơn;
-- cơ quan quản lý đô thị làm việc có trách nhiệm hơn;
-- người dân có điều kiện tiếp cận tốt hơn với kiến thức sinh tồn trong tình huống nguy hiểm.
+- Chủ đầu tư xây dựng có tâm hơn;
+- Cơ quan quản lý đô thị làm việc có trách nhiệm hơn;
+- Người dân có điều kiện tiếp cận tốt hơn với kiến thức sinh tồn trong tình huống nguy hiểm.
 
 Buồn thay, cuộc đời không bao giờ có chữ “giá như”.
 
