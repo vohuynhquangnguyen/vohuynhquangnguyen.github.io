@@ -1,63 +1,147 @@
 ---
-title: "From the tragic incident in Hanoi to the question: What does it means to be civilized?"
+title: "From a Tragic Fire in Hanoi to a Larger Question: What Does It Mean to Be Civilized?"
 date: 2023-09-16
 permalink: /posts/2023/09/civilization/
 tags:
   - Reflection
+toc: true
+toc_sticky: true
 ---
 
-This reflection is inspired by the recent tragic incident in Hanoi. On September 12, 2023, at around 23:30 ICT (UTC+07:00), a devastating fire broke out in a nine-story microapartment building. Of the approximately 150 residents, 56 lost their lives and 37 were injured. My heartfelt condolences go out to the victims and their families. Here, I share my thoughts in both Vietnamese (first) and English.
+This reflection was inspired by the tragic fire in Hanoi on September 12, 2023.  
+At around 23:30 ICT (UTC+07:00), a devastating fire broke out in a nine-story mini apartment building. Of the approximately 150 residents, 56 lost their lives and 37 were injured.
 
-***
+My heartfelt condolences go out to the victims and their families.
 
-## Mục Lục (Table of Contents)
+In this post, I share a personal reflection in **Vietnamese first**, followed by an **English version**.
 
-1. [Bản Tiếng Việt (Vietnamese version)](#vietnamese)
+---
 
-2. [Bản Tiếng Anh (English version)](#english)
+## Table of Contents
 
-***
+- [Bản Tiếng Việt](#ban-tieng-viet)
+- [English Version](#english-version)
 
-## Vietnamese version {#vietnamese}
+---
+
+## Bản Tiếng Việt
+
+### Văn minh là gì?
 
 Theo bạn, văn minh là gì?
-Có thể bạn sẽ nói rằng: văn minh đồng nghĩa với việc là phải giàu sang về mặt kinh tế, là phải hoa lệ và hoành tráng, sạch sẽ và trật tự. Hoặc bạn cũng có thể cho rằng văn minh nghĩa là việc được tiếp cận dễ dàng với những tiện ích và tiện nghi trong cuộc sống. 
 
-Mình thấy rằng các cách hiểu như vậy đều không sai. Đúng lý mà nói, có rất nhiều cách để chúng ta có thể định nghĩa văn minh là gì. Với mình, văn minh đôi khi chỉ đơn giản là sự để ý tới những điều tưởng chừng nhỏ nhặt nhất.
+Có thể bạn sẽ nói rằng văn minh đồng nghĩa với sự giàu có về mặt kinh tế, với sự hoa lệ, sạch sẽ, và trật tự. Hoặc bạn cũng có thể cho rằng văn minh là việc được tiếp cận dễ dàng với những tiện ích và tiện nghi trong cuộc sống.
 
-Tại sao lại như vầy? Mong các bạn hãy dành ít phút đọc qua những trải nghiệm khi mình còn học Cử Nhân và Thạc Sĩ ở Phần Lan, cũng như hiện tại khi mình đang học bậc Tiến Sĩ ở Hoa Kỳ.
+Mình nghĩ rằng những cách hiểu đó đều không sai. Thật ra, có rất nhiều cách để định nghĩa “văn minh”. Nhưng với mình, văn minh đôi khi chỉ đơn giản là **sự để ý đến những điều tưởng chừng nhỏ nhặt nhất**.
 
-1. Hồi mình còn học ở Phần Lan, những khóa học như Sơ Cấp Cứu (First Aid) và Sinh Tồn khi gặp Khủng Khoảng (Survival During Crisis) là những khóa học mà nhà trường khuyến khích cho các bạn sinh viên đăng kí học, chẳng hạn như ở Đại Học Aalto nơi mình từng học. Thậm chí có rất nhiều trường khác có quy chế để những khóa học này là những môn học bắt buộc: nếu các bạn không học thì sẽ khó mà tốt nghiệp. 
-Đến khi mà mình qua thành phố Stillwater ở Oklahoma - một bang của Hoa Kỳ, nằm ở phía bắc Texas - mình cũng thấy một quy chế tương tự. Ở đây, ngay đầu năm học, trường mình (Đại Học Bang Oklahoma) đã bắt buộc các bạn sinh viên phải học và hoàn thành những khóa bảo vệ bản thân trước những mối nguy hại chẳng hạn như hỏa hạn, nã súng trong trường học, gặp lốc xoáy, v.v... v thì mới được đăng kí môn học. 
-2. Ở Phần Lan và Hoa Kỳ, mình để ý hầu hết các công trình, nhà cửa luôn được thiết kế và xây dựng theo hướng đảm bảo rằng: (1) dù bạn có là người tàn tật, bạn vẫn sẽ tự mình ra vào một cách dễ dàng; (2) bạn sẽ dễ dàng thoát ra ngoài nếu như có sự cố hỏa hoạn cháy nổ; (3) nếu cần sơ cứu thì các bạn rất dễ tiếp cận những thiết bị hỗ trợ như máy khử rung tim (AED). Mặt khác, ở những khu vực/thành phố đông sinh viên như Stillwater chẳng hạn, các bạn rất dễ liên lạc với cảnh sát hay cứu hỏa qua những cột liên lạc khẩn cấp. 
-3. Ngoài ra, nếu các bạn cần nhu yếu phẩm - gồm thực phẩm, băng vệ sinh, v.v... mà các bạn chưa có hoặc không có điều kiện mua được, các trường ở đây luôn có những khu vực mà bạn có thể dễ dàng tới mà lấy. 
-Qua những điều mà mình tận mắt thấy ở trên, mình cảm nhận được rằng với các nước châu Âu và Bắc Hoa Kỳ, các cấp quản lý và lãnh đạo có sự ưu tiên lớn về vấn đề tiện nghi, an toàn cũng như tính mạng của các bạn sinh viên nói riêng và công dân của họ nói chung. 
-Vụ cháy chung cư mini ở Hà Nội thật sự rất thương tâm. Tuy vậy, mình nghĩ rằng vụ cháy này có thể ngăn chặn được ngay từ đầu GIÁ NHƯ mà chủ đầu tư xây dựng có tâm, phía quản lý đô thị của quận Thanh Xuân làm việc có trách nhiệm hơn, và người dân ở chung cư này có điều kiện tiếp cận hơn với những bài học về cách sinh tồn trong tình huống nguy hiểm để họ có thể bảo vệ bản thân mình cũng như của người xung quanh dễ dàng hơn.
+### Vì sao mình nghĩ như vậy?
 
-Buồn thay, cuộc đời không bao giờ có chữ giá như cả...
+Mong các bạn dành ít phút đọc qua những trải nghiệm của mình khi còn học Cử Nhân và Thạc Sĩ ở Phần Lan, cũng như hiện tại khi mình đang học Tiến Sĩ ở Hoa Kỳ.
 
-P.S.: Theo như điều tra thì vụ việc cháy chung cư là đến từ pin xe điện.  Chắc mọi người cũng biết là pin cho xe điện hay cho đồ điện tử là làm từ kim loại lithium - một kim loại kiềm rất dễ phản ứng vì vậy rất dễ gây cháy khi gặp nhiệt độ cao hay va đập mạnh, và nếu đã cháy thì rất khó dập bằng bình chữa cháy. Đó là nguyên nhân vì sao mà mọi người hay nghe những khuyến cáo yêu cầu như (1) KHÔNG ĐƯỢC để đồ điện tử hay pin dự phòng ở hành lý kí gửi khi lên máy bay, (2) KHÔNG NÊN để những đồ này trong cốp xe máy hay trong xe hơi (vì sợ rằng để quên ở bãi gửi xe dưới trời nắng nóngs sẽ dễ gây ra cháy nổ), (3) không mua pin và bộ có xuất xứ không rõ ràng (vì những loại này ko có những tính năng đảm bảo an toàn như ngắt sạc). Vậy nên, mọi người hãy lưu ý khi dùng để tránh xảy ra sự cố đáng tiếc.
+#### 1. Giáo dục về sinh tồn và an toàn không phải là chuyện phụ
 
-***
+Khi còn học ở Phần Lan, những khóa học như **Sơ Cấp Cứu (First Aid)** và **Sinh Tồn Khi Gặp Khủng Hoảng (Survival During Crisis)** là những khóa học được nhà trường khuyến khích sinh viên đăng ký học. Ở một số nơi, đây thậm chí còn là những môn học bắt buộc nếu muốn tốt nghiệp.
 
-## English version {#english}
+Khi chuyển đến Stillwater, Oklahoma, mình cũng thấy một tinh thần tương tự. Ngay từ đầu năm học, trường mình — **Oklahoma State University** — yêu cầu sinh viên hoàn thành các nội dung hướng dẫn bảo vệ bản thân trước những mối nguy như hỏa hoạn, nổ súng trong trường học, lốc xoáy, v.v. rồi mới được đăng ký môn học.
 
-If someone ask you: "What does it mean to be civilized?" What would be your answer? You might say it's about economic affluence, being flashy and magnificent, or having cleanliness and order. Or you might think it's about easy access to amenities and comforts in life.
+#### 2. Cơ sở hạ tầng được thiết kế với sự quan tâm đến con người
 
-These definitions aren't wrong, but for me, civilization sometimes means paying attention to even the smallest details.
+Ở cả Phần Lan lẫn Hoa Kỳ, mình nhận thấy phần lớn công trình và nhà cửa đều được thiết kế theo hướng bảo đảm rằng:
 
-Why do I think so? Let me share my experiences from my time studying for my Bachelor's and Master's degrees in Finland, and now as I pursue my PhD in the USA.
+- người khuyết tật vẫn có thể ra vào một cách tương đối dễ dàng;
+- mọi người có thể thoát hiểm nhanh hơn khi xảy ra hỏa hoạn;
+- các thiết bị hỗ trợ khẩn cấp như **AED** tương đối dễ tiếp cận.
 
-In Finland, courses like First Aid and Survival During Crisis were encouraged for students. At Aalto University, where I studied, these were even mandatory at many schools. In the USA, at Oklahoma State University, students must complete self-defense courses against hazards like fires, school shootings, and tornadoes before enrolling in classes.
+Ngoài ra, ở những khu vực tập trung đông sinh viên như Stillwater, cũng có các cột liên lạc khẩn cấp để liên hệ nhanh với cảnh sát hoặc cứu hỏa.
 
-In both Finland and the USA, buildings are designed to ensure: (1) accessibility for people with disabilities, (2) easy escape in case of a fire, and (3) availability of emergency aid devices like AEDs. In student-dense areas like Stillwater, emergency call posts make it easy to contact the police or fire department.
+#### 3. Ngay cả nhu yếu phẩm cơ bản cũng được xem là điều cần được bảo đảm
 
-If you need essentials like food or sanitary products and can't afford them, schools here have areas where you can easily get them.
+Nếu sinh viên cần nhu yếu phẩm như thực phẩm, băng vệ sinh, hoặc những vật dụng thiết yếu khác mà chưa có điều kiện mua, nhiều trường vẫn có những khu vực hỗ trợ để các bạn có thể đến nhận.
 
-From my observations, European and North American countries prioritize convenience, safety, and the well-being of students and citizens.
+### Điều mình rút ra
 
-The mini apartment fire in Hanoi was truly tragic. However, this could have been prevented if the developer had integrity, urban management acted responsibly, and residents had better access to survival lessons.
+Qua những điều mình tận mắt chứng kiến, mình cảm nhận rằng ở nhiều nơi tại châu Âu và Bắc Mỹ, các cấp quản lý và lãnh đạo đặt sự ưu tiên rất lớn vào **tiện nghi, an toàn, và tính mạng con người** — đặc biệt là sinh viên và công dân nói chung.
 
-Sadly, life doesn't have "what ifs"...
+Vụ cháy chung cư mini ở Hà Nội thật sự rất thương tâm. Tuy vậy, mình vẫn nghĩ rằng thảm kịch ấy có thể đã được ngăn chặn hoặc giảm thiểu rất nhiều **nếu**:
 
-P.S.: The investigation revealed the fire was caused by an electric bicycle battery. Lithium batteries are highly reactive and can easily catch fire. Hence, the recommendations: (1) DON'T put electronics or spare batteries in checked luggage, (2) DON'T leave them in hot cars or trunks, (3) Avoid buying batteries/chargers of unknown origin. Stay safe!
+- chủ đầu tư xây dựng có tâm hơn;
+- cơ quan quản lý đô thị làm việc có trách nhiệm hơn;
+- người dân có điều kiện tiếp cận tốt hơn với kiến thức sinh tồn trong tình huống nguy hiểm.
+
+Buồn thay, cuộc đời không bao giờ có chữ “giá như”.
+
+### P.S.
+
+Theo thông tin điều tra mà mình được biết, nguyên nhân vụ cháy có liên quan đến pin xe điện.
+
+Pin xe điện hay nhiều thiết bị điện tử hiện nay thường sử dụng **lithium**, một kim loại rất dễ phản ứng. Vì vậy, chúng có thể dễ gây cháy khi gặp nhiệt độ cao, va đập mạnh, hoặc lỗi kỹ thuật; và một khi đã cháy thì cũng rất khó dập bằng các phương tiện thông thường.
+
+Đó cũng là lý do vì sao người ta thường khuyến cáo:
+
+1. **Không** để thiết bị điện tử hoặc pin dự phòng trong hành lý ký gửi khi đi máy bay;
+2. **Không nên** để các thiết bị này trong cốp xe máy hoặc trong ô tô dưới trời nắng nóng;
+3. **Không nên** mua pin hoặc bộ sạc không rõ nguồn gốc.
+
+Mọi người hãy lưu ý để tránh những sự cố đáng tiếc.
+
+---
+
+## English Version
+
+### What does it mean to be civilized?
+
+If someone asked you, *“What does it mean to be civilized?”* how would you answer?
+
+You might say it means economic affluence, impressive infrastructure, cleanliness, and social order. Or perhaps you would define it as easy access to comfort and convenience in daily life.
+
+I do not think those answers are wrong. But to me, civilization can sometimes be something much simpler: **paying attention to the smallest details**.
+
+### Why do I think so?
+
+Let me share a few experiences from my time studying for my Bachelor's and Master's degrees in Finland, and now as I pursue my PhD in the United States.
+
+#### 1. Safety education is treated as essential
+
+In Finland, courses such as **First Aid** and **Survival During Crisis** were strongly encouraged for students. In some places, such training is even mandatory.
+
+Here in Stillwater, Oklahoma, I noticed a similar mindset. At **Oklahoma State University**, students are required to complete safety-related training on hazards such as fires, school shootings, tornadoes, and other emergencies before registering for classes.
+
+#### 2. Infrastructure is designed with human safety in mind
+
+In both Finland and the United States, many buildings are designed to ensure that:
+
+- people with disabilities can access them more easily;
+- occupants can evacuate more safely in the event of a fire;
+- emergency support devices such as **AEDs** are accessible.
+
+In student-populated areas like Stillwater, emergency call stations also make it easier to contact the police or fire department quickly.
+
+#### 3. Even basic necessities are treated as worthy of support
+
+If students need essentials such as food, sanitary products, or other daily necessities and cannot afford them, many schools provide places where those items can be accessed more easily.
+
+### What I have learned from this
+
+From what I have personally seen, many places in Europe and North America place a high priority on **comfort, safety, and human life** — especially for students and citizens.
+
+The mini apartment fire in Hanoi was truly heartbreaking. And yet, I cannot help thinking that the tragedy might have been prevented — or at least reduced in severity — if:
+
+- the developer had acted with greater integrity,
+- local urban authorities had taken their responsibilities more seriously,
+- residents had better access to survival and emergency-response education.
+
+Sadly, life does not give us the comfort of “what if.”
+
+### P.S.
+
+Based on the investigation as I understood it, the fire was linked to an electric bicycle battery.
+
+Lithium batteries — commonly used in electric vehicles and electronics — are highly reactive. They can ignite under high temperatures, strong impacts, or technical failure, and once they catch fire, they can be very difficult to extinguish.
+
+That is why safety recommendations often include:
+
+1. **Do not** place electronics or spare batteries in checked luggage;
+2. **Do not** leave these items in hot cars or enclosed trunks for long periods;
+3. **Avoid** buying batteries or chargers of unclear origin.
+
+Please stay safe and use these devices with care.
