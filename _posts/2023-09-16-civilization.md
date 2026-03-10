@@ -11,12 +11,15 @@ This reflection is inspired by the recent tragic incident in Hanoi. On September
 ***
 
 ## Mục Lục (Table of Contents)
+
 1. [Bản Tiếng Việt (Vietnamese version)](#vietnamese)
+
 2. [Bản Tiếng Anh (English version)](#english)
 
 ***
 
 ## Vietnamese version {#vietnamese}
+
 Theo bạn, văn minh là gì?
 Có thể bạn sẽ nói rằng: văn minh đồng nghĩa với việc là phải giàu sang về mặt kinh tế, là phải hoa lệ và hoành tráng, sạch sẽ và trật tự. Hoặc bạn cũng có thể cho rằng văn minh nghĩa là việc được tiếp cận dễ dàng với những tiện ích và tiện nghi trong cuộc sống. 
 
