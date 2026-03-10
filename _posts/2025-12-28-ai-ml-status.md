@@ -1,7 +1,7 @@
 ---
 title: "Are current AI Conferences being overloaded?"
-date: 2026-03-10
-permalink: /posts/2026/03/ai-conference-overload/
+date: 2025-12-28
+permalink: /posts/2025/12/ai-conference-overload/
 tags:
   - AI Research
   - Academic Publishing
