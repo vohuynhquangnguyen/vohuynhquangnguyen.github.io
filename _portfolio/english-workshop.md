@@ -1,69 +1,139 @@
 ---
-title: "How to learn English in an effective manner (In Progress)"
+title: "How to Learn English Effectively"
 collection: English
 date: 2023-07-01
 permalink: /portfolio/2023-english-workshop
 ---
 
-This is a collection of my proposed lessons for self-learning English in a structured and effective manner. Here are several disclaimers about this collection. Firstly, this collection is targeted towards learners of Academic English preparing for standardized language proficiency tests such as IELTS. Secondly, most of the lessons here are created with the intention of preparing the readers for IELTS. However, even those not preparing for IELTS may find the lessons useful. Finally, the lessons are written in both English and Vietnamese, making it a great reference for Vietnamese learners struggling with the language.
+This page gathers my lesson plans, study notes, and recommended materials for learning English in a structured and effective way.
 
-# Textbooks
-The list of recommended textbooks to learn Academic English are as follows:
-1. Grammar and Vocabulary:
-  * ``Giải Thích Ngữ Pháp Tiếng Anh`` (tr. Explaining English Grammar) by Mai Lan Hương and Hà Thanh Uyên $\rightarrow$ by far the best grammar reference books for Vietnamese students.
-  * ``English Grammar in Use`` by Raymond Murphy $\rightarrow$ one of the most popular grammar reference books for learning English in general.
-  * ``Grammar for IELTS`` by Diana Hopkins and Pauline Cullen $\rightarrow$ one of the best grammar reference books with a focus on IELTS.
-  * ``Destination`` (there are three volumes) by Malcolm Mann and Steve Taylore-Knowles $\rightarrow$ highly praised for their combined contents between grammar and vocabulary. 
+Most of the content is designed for **Vietnamese learners of Academic English**, especially those preparing for standardized proficiency tests such as **IELTS**. That said, many of the lessons and resources here are still useful for anyone who wants to strengthen their English systematically.
 
-2. Reading:
-  * ``Inside Reading``, published by Oxford Publishing $\rightarrow$ one of the most popular for reference books for learning academic reading.
-  * ``Collins Reading for IETLS`` by Els Van Geyte  $\rightarrow$ one of the most well-known reference books for IELTS Academic Reading preparation.
-  *  ``Improve Your IELTS - Reading Skills`` by Sam McCarter and Norman Whitby $\rightarrow$ a great complimentary to the Collins series once the latter is finished.
+> **Note:** This page is still a work in progress. More lessons and practice materials will be added over time.
 
-3. Listening:
-  * ``Listening & Notetaking Skills``, published by National Geography $\rightarrow$ one of the highly praised textbooks to self-learning listening in English.  
-  * ``Collins Listening for IELTS`` by Fiona Aish and Jo Tomlinson $\rightarrow$ one of the most well-known reference books for IELTS Academic Listening preparation.
-  * ``Improve Your IELTS - Listening and Speaking Skills`` by Barry Cusack and Sam McCarter $\rightarrow$ a great complimentary for the Collin series after the latter is finised.
+---
 
-4. Writing:
-  * ``Longman Academic Writing Series`` (there are five volumes) $\rightarrow$ by far the best academic writing reference books.
-  * ``Colins Writing for IELTS`` by Anneli Williams $\rightarrow$ one of the most well-known reference books for IELTS Academic Writing preparation.
+## Who this collection is for
 
-5. Speaking:
-  * ``ELSA`` by ELSA Ltd. $\rightarrow$ a great AI-powered tool to learn speaking in English.
-  * ``English Collocations in Use`` by Felicity O’Dell and Michael McCarthy $\rightarrow$ without doubt, this is a great textbook to learn how to use and speak English like a native.
+This collection may be useful if you are:
 
-6. Academic skills:
-  * ``Cambridge Academic English - An Integrated Skills Course for EAP`` $\rightarrow$ these are the must-have materials to prepare for studying in universities where degrees are taught in English.
+- preparing for the IELTS exam,
+- building a stronger foundation in academic English,
+- looking for a bilingual English–Vietnamese reference,
+- trying to study English independently with a clear roadmap.
 
-7. IELTS Practice Tests:
-  * ``New Insight into IELTS`` by Vanessa Jakeman and Claire McDowell $\rightarrow$ great materials to get familiarized with IELTS.
-  * ``Cambridge IELTS Practice Tests``, published by Cambridge $\rightarrow$ these are the must-have practice tests to prepare for IELTS. The tests are hosted in [study4.com](study4.com) (the webpage is in Vietnamese).
+---
 
-# Lessons
-The list of lessons are as follows:
+## Recommended textbooks and resources
 
-## Speaking
-### General English Speaking Skills
+### 1. Grammar and vocabulary
+
+- **_Giải Thích Ngữ Pháp Tiếng Anh_** by Mai Lan Hương and Hà Thanh Uyên  
+  A highly practical grammar reference for Vietnamese learners.
+
+- **_English Grammar in Use_** by Raymond Murphy  
+  One of the most widely used grammar books for self-study.
+
+- **_Grammar for IELTS_** by Diana Hopkins and Pauline Cullen  
+  A strong grammar resource tailored to IELTS preparation.
+
+- **_Destination_** (3 volumes) by Malcolm Mann and Steve Taylore-Knowles  
+  Excellent for combining grammar and vocabulary practice.
+
+### 2. Reading
+
+- **_Inside Reading_** (Oxford University Press)  
+  A popular series for academic reading development.
+
+- **_Collins Reading for IELTS_** by Els Van Geyte  
+  A well-known resource for IELTS Academic Reading.
+
+- **_Improve Your IELTS: Reading Skills_** by Sam McCarter and Norman Whitby  
+  A helpful follow-up resource after finishing the Collins series.
+
+### 3. Listening
+
+- **_Listening and Notetaking Skills_** (National Geographic Learning)  
+  A strong resource for self-study in listening.
+
+- **_Collins Listening for IELTS_** by Fiona Aish and Jo Tomlinson  
+  A trusted IELTS Academic Listening preparation book.
+
+- **_Improve Your IELTS: Listening and Speaking Skills_** by Barry Cusack and Sam McCarter  
+  A solid companion after the Collins series.
+
+### 4. Writing
+
+- **_Longman Academic Writing Series_**  
+  One of the best series for developing academic writing skills.
+
+- **_Collins Writing for IELTS_** by Anneli Williams  
+  A useful reference for IELTS Academic Writing preparation.
+
+### 5. Speaking
+
+- **ELSA Speak**  
+  A useful AI-powered tool for pronunciation and speaking practice.
+
+- **_English Collocations in Use_** by Felicity O’Dell and Michael McCarthy  
+  Great for sounding more natural and fluent in English.
+
+### 6. Academic skills
+
+- **_Cambridge Academic English: An Integrated Skills Course for EAP_**  
+  Excellent preparation for studying in English-medium universities.
+
+### 7. IELTS practice tests
+
+- **_New Insight into IELTS_** by Vanessa Jakeman and Claire McDowell  
+  A good starting point for getting familiar with IELTS.
+
+- **_Cambridge IELTS Practice Tests_**  
+  Essential materials for realistic IELTS practice.
+
+---
+
+## Lesson roadmap
+
+Below is the current roadmap of lessons and practice topics.
+
+### Speaking
+
+#### General English speaking skills
+
 1. [How to introduce yourself in English](/posts/2023/08/introducing-oneself/)
-2. How to initiate small talks
-3. How to prepare for an English interview
+2. *How to initiate small talk* — coming soon
+3. *How to prepare for an English interview* — coming soon
 
-## Writing
-### IELTS Academic Writing
+### Writing
+
+#### IELTS Academic Writing
+
 1. [An overview of the IELTS Academic Writing Test](/posts/2023/08/ielts-academic-writing-overview/)
-2. How to get a Band 7.0+ for the IELTS Academic Writing Test
-    * [Writing an Introduction to a Graph or a Chart](/posts/2023/08/graph-chart-table-intro/)
-    * [Language in Task 1](/posts/2023/08/language-task-1/)
-    * [Describing Bar Charts]
-    * [Describing Pie Charts]
-    * [Describing Tables]
-    * [Describing Process Flows](/posts/2023/08/describing-process-flows/)
-    * [Describing Maps](/_posts/english-workshop/2023-08-27-describing-maps.md)
-    * [Opinion Essay](/_posts/english-workshop/opinion-essay.md)
-    
-## Reading
-### Academic Reading Skills
-1. How to excel in reading English materials
 
+2. **How to get a Band 7.0+ in IELTS Academic Writing**
+   - [Writing an introduction to a graph or chart](/posts/2023/08/graph-chart-table-intro/)
+   - [Language in Task 1](/posts/2023/08/language-task-1/)
+   - *Describing bar charts* — coming soon
+   - *Describing pie charts* — coming soon
+   - *Describing tables* — coming soon
+   - [Describing process flows](/posts/2023/08/describing-process-flows/)
+   - [Describing maps](/_posts/english-workshop/2023-08-27-describing-maps.md)
+   - [Opinion essay](/_posts/english-workshop/opinion-essay.md)
 
+### Reading
+
+#### Academic reading skills
+
+1. *How to excel in reading English materials* — coming soon
+
+---
+
+## Ongoing development
+
+I am gradually expanding this collection into a structured self-study library for English learners. Future additions will include:
+
+- more IELTS-focused lessons,
+- guided vocabulary and grammar review,
+- reading and listening practice workflows,
+- bilingual explanations for difficult language points.
