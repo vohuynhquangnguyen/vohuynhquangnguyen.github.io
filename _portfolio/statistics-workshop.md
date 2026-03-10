@@ -1,78 +1,79 @@
 ---
 title: "Probability and Statistics for Machine Learning and Data Science"
-collection: English
+collection: statistics
 date: 2023-12-18
 permalink: /portfolio/2023-statistics-workshop
 ---
 
-This is a collection of my lecture notes designed to enhance learning and solidify my understanding of essential probability and statistics concepts crucial for mastering Machine Learning and Data Science. 
+This page collects my lecture notes and learning materials in probability, statistics, and applied statistical modeling for machine learning and data science.
 
-***
+My goal is to build a clear and structured reference that connects statistical theory with practical applications such as experimentation, regression, forecasting, and data-driven decision-making.
 
-<!-- # Probability Theory
-In this series of lecture notes, I will explain the fundamental concepts of the following topics:
-* Overview of probability and counting.
-* Condition probability.
-* Random variables.
-* Joint probability distribution.
+---
 
-For this series of lecture notes, the following textbooks are used to complement this lecture note.
-- **Introduction to Probability (2nd Edition)** by Joseph K. Blitzstein and Jessica Hwang .
-- **Applied Statistics and Probability for Engineers (7th Edition)** by Douglas C. Montgomery and George C. Runger.
+## What this collection covers
 
-***
+This collection is intended to support learning in areas such as:
 
-# Statistical Inference
-In this series of lecture notes, I will explain the fundamental concepts of the following topics:
-* Confidence interval
-* Hypothesis Test
-* Non-parametric Test
+- probability foundations,
+- statistical inference,
+- regression analysis,
+- experimental design,
+- time series analysis,
+- applied statistics for data science.
 
-For this series of lecture notes, the following textbooks are used to complement this lecture note.
-- **Applied Statistics and Probability for Engineers (7th Edition)** by Douglas C. Montgomery and George C. Runger.
-- **Statistics - The Art and Science of Learning (5th Edition)** from Data by Alan Agresti.
+---
 
-***
+## Applied statistics
 
-# Regression Analysis
-In this series of lecture notes, I will explain the concepts of the following topics:
-* Simple and multiple linear regression models.
-* Logistic regression models.
+### Experimental design
 
-For this series of lecture notes and projects, the following textbooks are used to complement this lecture note.
-- **Introduction to Linear Regression Analysis (5th Edition)** by Douglas C. Montgomery, Elizabeth A. Peck, and G. Geoffrey Vining.
-- **A Second Course in Statistics: Regression Analysis (8th Edition)** by William Mendenhall, and Terry Sincich. -->
+This [lecture note](https://vohuynhquangnguyen.notion.site/Experimental-Design-56fc76eca0d2422ebac5edf591b2ba70) summarizes what I have learned about **experimental design**, also known as **design of experiments (DOE)**.
 
+#### Background
 
-<!-- ## Linear Regression 
-Linear regression is a fundamental algorithm in data science and machine learning. It is utilized for predicting continuous variables using one or more predictor variables. 
+The note is based on the following courses:
 
-In [this project](), I will:
-* Explain the fundamental concepts behind linear regression;
-* Build a simple linear regression (SLR) model using Python from scratch, and implement functions enabling us to evaluate our model.
-* Build a multiple linear regression (MLR) model using Python from scratch, and implement functions enabling us to evaluate our model.
+- **STAT-5303 Experimental Designs** offered by Oklahoma State University
+- **Design of Experiments Specialization** offered by Arizona State University on Coursera
 
-In [this project](), I will showcase how a thorough explanatory regression analysis is conducted using a sample dataset. -->
+#### Main references
 
-# Applied Statistics
+- Dean, Voss, and Draguljić (2017), *Design and Analysis of Experiments* (2nd Edition)
+- Kuehl (2000), *Design of Experiments: Statistical Principles of Research Design and Analysis* (2nd Edition)
+- Montgomery (2017), *Design and Analysis of Experiments* (9th Edition)
 
-## Experimental Design
-This [lecture note](https://vohuynhquangnguyen.notion.site/Experimental-Design-56fc76eca0d2422ebac5edf591b2ba70) contains a summary of what I have learned about experimental design, also known as design of experiments (DOE). Here are some disclaimers:
+---
 
-* The contents of this note are based on the following courses:
-    * STAT-5303 Experimental Designs offered by Oklahoma State University.
-    * Design of Experiments Specialization offered by Arizona State University, hosted by Coursera.
+### Time series analysis
 
-* The contents of this note are also based on the following books:
-    * Dean, Voss, Draguljić (2017). Design and Analysis of Experiments (2nd Edition).
-    * Kuehl (2000). Design of Experiments - Statistical Principles of Research Design and Analysis (2nd Edition).
-    * Montgomery (2017). Design and Analysis of Experiments (9th Edition).
+This [lecture note](https://vohuynhquangnguyen.notion.site/Time-Series-Analysis-7f24f2934b0a43f78eba7e95c4780213?pvs=74) summarizes what I have learned about **time series analysis**, an important area of advanced probability and statistics.
 
-## Time Series Analysis
-This [lecture note](https://vohuynhquangnguyen.notion.site/Time-Series-Analysis-7f24f2934b0a43f78eba7e95c4780213?pvs=74) contains a summary of what I have learned about the topic of time series, which is an advanced subject in probability and statistics. Here are some disclaimers:
+#### Background
 
-* The contents of this note are based on the following courses:
-    * STAT-5053 Time Series Analysis offered by Oklahoma State University.
-* The following textbooks  is used to complement this lecture note.
-    * Cryer, Chan (2008). Time Series Analysis with Applications in R (2nd Edition).
-    * Montgomery, Jennings, Kulahci (2015). Introduction to Time Series Analysis and Forecasting (2nd Edition).
+The note is based on the following course:
+
+- **STAT-5053 Time Series Analysis** offered by Oklahoma State University
+
+#### Main references
+
+- Cryer and Chan (2008), *Time Series Analysis with Applications in R* (2nd Edition)
+- Montgomery, Jennings, and Kulahci (2015), *Introduction to Time Series Analysis and Forecasting* (2nd Edition)
+
+---
+
+## Planned additions
+
+In the future, I plan to expand this page with additional notes and projects on:
+
+- probability theory,
+- statistical inference,
+- regression analysis,
+- predictive modeling,
+- and other topics that bridge classical statistics with modern machine learning.
+
+---
+
+## Purpose of this page
+
+This page serves as a public archive of my learning journey in probability and statistics, while also providing a structured reference for readers interested in the mathematical foundations of data science.
