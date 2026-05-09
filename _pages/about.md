@@ -1,78 +1,47 @@
 ---
+layout: neoclassical-home
 permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
+title: "Lucius Vo — Doctoral Candidate, Data Scientist"
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
+
+hero:
+  greeting: "Salvete — Welcome"
+  title: "Between marble and silicon."
+  subtitle: "I'm Lucius Vo — a Ph.D. candidate at Oklahoma State University working at the seam where neuromorphic hardware, in-memory computing, and machine learning meet."
+
+prologue: "I grew up in Vietnam, learned to be an engineer in Finland, and learned to be a researcher in three places I never expected. This site is a small exhibition of that path — and a window onto what I am building next: machines that no longer separate memory from thought."
+
+journey:
+  - year: "Origin · Vietnam"
+    place: "Where the curiosity began"
+    role: "A childhood between books and circuit boards"
+    body: "Long before any of the labs that follow, there was a kid in Vietnam taking radios apart. The questions that drive my research today started there — quietly, and without language for them yet."
+
+  - year: "2014 — 2018 · Helsinki, Finland"
+    place: "Metropolia University of Applied Sciences"
+    role: "B.Tech., Electrical & Electronics Engineering"
+    body: "My first real engineering apprenticeship. I built a wireless sensor system for excavator safety, taught myself the patience that hardware demands, and earned Tutor of the Year for the company I kept among incoming students."
+
+  - year: "2018 — 2020 · Espoo, Finland"
+    place: "Aalto University"
+    role: "M.Sc., Automation & Electrical Engineering — Data Science"
+    body: "At Aalto's Metrology Research Institute I worked on the differential spectral responsivity of solar cells with Petri Kärhä and Erkki Ikonen. Quietly, in parallel, I fell into machine learning — and never came out. Graduated with honors and a thesis on deep learning for fault diagnosis in PV modules."
+
+  - year: "2020 — 2022 · Saigon, Vietnam"
+    place: "First Solar &amp; Intel Products Vietnam"
+    role: "Manufacturing & Deep Learning Engineer"
+    body: "I returned home to put the research to work. At First Solar I built defect-commonality tooling that is still used across their factories. At Intel I led the ILLIAD inspection system — featured at the 2023 AI Everywhere Conference — and mentored Python and ML across the company's AI Everywhere community."
+
+  - year: "2023 — present · Stillwater, Oklahoma"
+    place: "Oklahoma State University"
+    role: "Ph.D., Industrial Engineering &amp; Management"
+    body: "My current home. I work on resistive random-access memory, in-memory computing, and the optimization algorithms that can take advantage of both. Two-time finalist in the IISE student paper competition, SIAM travel awardee for PP26, and currently VP of the OSU INFORMS chapter."
+
+  - year: "Summer 2025 · Lemont, Illinois"
+    place: "Argonne National Laboratory"
+    role: "Ph.D. Research Student Aide"
+    body: "A summer at a national lab, asking whether RRAM crossbars can solve the linear programs that move electricity across the U.S. grid. The preliminary answer became a paper accepted at SIAM PP26."
 ---
-
-## Ahoy there!
-
-I am **Vo-Huynh Quang-Nguyen** (last name - first name), and I also go by **Lucius Vo**.
-
-I am an engineering and science enthusiast with an industrial background in **computer vision**, **data science**, **artificial intelligence**, **machine learning**, and **deep learning**. I am currently pursuing a **Ph.D. in Industrial Engineering and Management** at **Oklahoma State University (OSU), Stillwater**.
-
-My research interests span **applied probability**, **data science**, **optimization**, **computational intelligence**, and **computational architecture**, with an emphasis on **resistive random-access memory (RRAM) technology** to enable [in-memory computing](https://research.ibm.com/projects/in-memory-computing).
-
-### Current focus
-
-I have worked across several areas of applied computing and analytics, including:
-
-- High-performance computing with [MPI on Python](https://mpi4py.readthedocs.io/en/stable/intro.html).
-- Statistical analysis with [SAS JMP](https://www.jmp.com/en_us/home.html)  
-- Data retrieval and processing with [SQL](https://www.iso.org/standard/63555.html)  
-- Data visualization with [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/)  
-- Digital image processing with [OpenCV](https://opencv.org/)  
-- Machine learning and deep learning development with [scikit-learn](https://scikit-learn.org/stable/index.html#), [TensorFlow](https://www.tensorflow.org/), and [PyTorch](https://pytorch.org/foundation/).
-
-These interests are reflected in projects I have completed, as well as the guest lectures, tutorials, and workshops I have delivered. You can explore them on [this page](../_pages/portfolio.html).
-
-### Community and writing
-
-Since June 2021, I have been a contributor to [AI Vietnam](https://aivietnam.edu.vn/), one of the largest Vietnamese communities for AI enthusiasts. The community is co-led by Dr. Vinh Dinh Quang (currently at Vietnamese-German University) and Dr. Phuc Nguyen Hong (currently at Eastern International University).
-
-I also enjoy writing. On [my blog archive](../_pages/year-archive.html), I share thoughts and experiences on topics such as:
-
-- learning English,
-- getting started with programming, especially Python  
-- preparing a strong profile for doctoral study applications  
-- reflections on broader social and academic issues  
-
-## Professional journey
-
-### Oklahoma State University
-
-I am currently pursuing my Ph.D. in Industrial Engineering and Management at Oklahoma State University, where I continue to develop research at the intersection of mathematical analysis, AI/ML/DL, and in-memory computing.
-
-### Intel Products Vietnam
-
-From **April 2021 to December 2022**, I worked at **Intel Products Vietnam**, an assembly and test manufacturing site of Intel Corporation in Vietnam.
-
-My work focused on:
-
-- developing and deploying automated inspection solutions for downstream processes  
-- mentoring aspiring engineers in programming and machine learning as an associate of both **Intel AI** and **Intel Image Analytics Centers of Excellence**  
-- contributing to **Intel NextGen Vietnam**, an initiative aimed at improving the onboarding and integration experience of new hires  
-
-### First Solar Vietnam
-
-Before Intel, I joined **First Solar Vietnam** as an engineering trainee from **November 2020 to April 2021**. There, I worked on a project involving **commonality analysis of defects** generated by laser scribing processes on thin-film solar panels.
-
-## Academic background
-
-### Aalto University
-
-I received my **M.Sc. degree** from **Aalto University, Finland**, in **December 2020**. My master's work focused on machine learning and deep learning.
-
-For my [master’s thesis](https://aaltodoc.aalto.fi/handle/123456789/102461), I worked with [Dr. Petri Kärhä](https://research.aalto.fi/en/persons/petri-k%C3%A4rh%C3%A4) and [Prof. Erkki Ikonen](https://research.aalto.fi/en/persons/erkki-ikonen) on the development of a measurement setup for determining the **differential spectral responsivity of solar cells**. We also explored, for a limited time, an estimation method to account for **spectral mismatch uncertainty** in solar cell calibration.
-
-### Metropolia University of Applied Sciences
-
-Before starting my M.Sc. studies in Autumn 2018, I completed my bachelor’s degree in **Electronics** at **Helsinki Metropolia University of Applied Sciences, Finland**.
-
-During my undergraduate studies, I conducted research in **wireless sensor networks** under the supervision of **Dr. Matti Fisher**.
-
----
-
-Thanks for visiting my website.
