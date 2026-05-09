@@ -1,8 +1,10 @@
 ---
-layout: archive
-title: "CV"
+layout: neoclassical-page
+title: "Curriculum Vitae"
+eyebrow: "Lucius Vo · Vita"
+lede: "A record of training, work, and writing — kept in the spirit of an academic ledger. A PDF is also available."
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---

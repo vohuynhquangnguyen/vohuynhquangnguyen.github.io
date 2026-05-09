@@ -1,0 +1,180 @@
+---
+layout: compress
+---
+{% include base_path %}
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+  <body class="neoclassical neoclassical--home">
+
+    <div class="nc-progress" aria-hidden="true"></div>
+
+    <header class="nc-nav" role="banner">
+      <div class="nc-nav__inner">
+        <a class="nc-nav__brand" href="{{ base_path }}/">
+          <span class="nc-nav__brand-mark" aria-hidden="true"></span>
+          <span>Lucius&nbsp;Vo</span>
+        </a>
+        <button class="nc-nav__toggle" type="button" aria-expanded="false" aria-controls="nc-primary-nav">
+          <span>Menu</span>
+        </button>
+        <ul id="nc-primary-nav" class="nc-nav__links">
+          <li><a href="#prologue">Prologue</a></li>
+          <li><a href="#journey">Journey</a></li>
+          <li><a href="#vision">Research</a></li>
+          <li><a href="#works">Works</a></li>
+          <li><a href="{{ base_path }}/cv/">CV</a></li>
+          <li><a href="#connect">Connect</a></li>
+        </ul>
+      </div>
+    </header>
+
+    <main id="nc-main">
+
+      {% comment %} ============== HERO ============== {% endcomment %}
+      <section class="nc-hero" aria-labelledby="hero-title">
+        <div class="nc-hero__bg" aria-hidden="true" data-parallax></div>
+        <div class="nc-hero__veil" aria-hidden="true"></div>
+        <div class="nc-hero__inner">
+          <span class="nc-hero__greeting">{{ page.hero.greeting | default: "Salvete — Welcome" }}</span>
+          <h1 id="hero-title" class="nc-hero__title" data-stagger>{{ page.hero.title | default: "Between marble and silicon." }}</h1>
+          <p class="nc-hero__subtitle">{{ page.hero.subtitle | default: "" }}</p>
+          <a class="nc-hero__scroll" href="#prologue">
+            <span class="nc-hero__scroll-line" aria-hidden="true"></span>
+            <span>Begin reading</span>
+          </a>
+        </div>
+        <span class="nc-hero__caption">Jacques-Louis David — <em>The Death of Socrates</em>, 1787</span>
+      </section>
+
+      {% comment %} ============== PROLOGUE ============== {% endcomment %}
+      <section id="prologue" class="nc-section nc-prologue">
+        <div class="nc-prologue__inner nc-reveal">
+          <span class="nc-prologue__salute">Lectori salutem</span>
+          <p class="nc-prologue__body">{{ page.prologue }}</p>
+          <span class="nc-prologue__sign">— L. V., Stillwater, MMXXVI</span>
+          <div class="nc-ornament" aria-hidden="true">
+            <span class="nc-ornament__diamond"></span>
+          </div>
+        </div>
+      </section>
+
+      {% comment %} ============== JOURNEY ============== {% endcomment %}
+      <section id="journey" class="nc-section nc-journey" aria-labelledby="journey-title">
+        <div class="nc-journey__intro nc-reveal">
+          <span class="nc-eyebrow">Act I</span>
+          <h2 id="journey-title" class="nc-section__title">A journey across <em>four geographies</em></h2>
+          <p class="nc-lede">From a childhood in Vietnam to research benches in Finland, factory floors at Intel, and now the prairies of Oklahoma — each place reshaped the questions I wanted to ask.</p>
+        </div>
+        <ol class="nc-journey__list" role="list">
+          {% for stop in page.journey %}
+            <li class="nc-stop">
+              <span class="nc-stop__year">{{ stop.year }}</span>
+              <h3 class="nc-stop__place">{{ stop.place }}</h3>
+              <p class="nc-stop__role">{{ stop.role }}</p>
+              <p class="nc-stop__body">{{ stop.body }}</p>
+            </li>
+          {% endfor %}
+        </ol>
+      </section>
+
+      {% comment %} ============== VISION ============== {% endcomment %}
+      <section id="vision" class="nc-section nc-vision" aria-labelledby="vision-title">
+        <div class="nc-vision__inner">
+          <div class="nc-vision__text nc-reveal">
+            <span class="nc-eyebrow">Act II — Research</span>
+            <h2 id="vision-title" class="nc-vision__title">Teaching <em>matter</em> to think.</h2>
+            <p class="nc-vision__body">My research lives at the meeting of three disciplines. <strong>Resistive random-access memory</strong> (RRAM) gives us a substrate where computation and storage are no longer separate things. <strong>Analog &amp; in-memory computing</strong> turns that substrate into a working machine. And <strong>optimization &amp; learning</strong> ask what such a machine could solve that GPUs cannot.</p>
+            <p class="nc-vision__body">I am building the bridge between the three — designing distributed primal-dual algorithms that run natively on RRAM crossbars, and chasing the day when neuromorphic hardware quietly outperforms a rack of GPUs on the world's hardest linear programs.</p>
+            <p class="nc-vision__body"><a href="{{ base_path }}/publications/">Read recent work →</a></p>
+          </div>
+          <div class="nc-triad" aria-hidden="true">
+            <svg viewBox="0 0 400 400" role="img" aria-label="Three research threads connecting around a central core">
+              <!-- triangle edges -->
+              <path class="nc-triad__edge" d="M 200 60 L 60 320 L 340 320 Z" />
+              <!-- inner triangle -->
+              <path class="nc-triad__edge" d="M 200 140 L 140 270 L 260 270 Z" style="animation-duration: 14s;" />
+              <!-- core -->
+              <circle class="nc-triad__core" cx="200" cy="226" r="10" />
+              <!-- nodes -->
+              <g class="nc-triad__node" transform="translate(200 60)">
+                <circle r="46" fill="rgba(139,30,63,0.85)" stroke="#c19a4f" stroke-width="1" />
+                <text class="nc-triad__node-label" y="-2">RRAM</text>
+                <text y="14">Hardware</text>
+              </g>
+              <g class="nc-triad__node" transform="translate(60 320)">
+                <circle r="46" fill="rgba(139,30,63,0.85)" stroke="#c19a4f" stroke-width="1" />
+                <text class="nc-triad__node-label" y="-2">Analog</text>
+                <text y="14">Compute</text>
+              </g>
+              <g class="nc-triad__node" transform="translate(340 320)">
+                <circle r="46" fill="rgba(139,30,63,0.85)" stroke="#c19a4f" stroke-width="1" />
+                <text class="nc-triad__node-label" y="-2">Optim.</text>
+                <text y="14">&amp; Learning</text>
+              </g>
+            </svg>
+          </div>
+        </div>
+      </section>
+
+      {% comment %} ============== SELECTED WORKS ============== {% endcomment %}
+      <section id="works" class="nc-section nc-works" aria-labelledby="works-title">
+        <div class="nc-works__intro nc-reveal">
+          <span class="nc-eyebrow">Act III — Selected Works</span>
+          <h2 id="works-title" class="nc-section__title">A small library of <em>recent papers</em></h2>
+          <p class="nc-lede">A glimpse at what currently occupies my desk. The full list lives in <a href="{{ base_path }}/publications/">publications</a>.</p>
+        </div>
+        <div class="nc-works__grid">
+          {% assign sorted_pubs = site.publications | sort: "date" | reverse %}
+          {% for pub in sorted_pubs limit: 4 %}
+            <article class="nc-card nc-reveal">
+              {% if pub.venue %}<span class="nc-card__tag">{{ pub.venue }}</span>{% endif %}
+              <h3 class="nc-card__title">
+                {% if pub.paperurl %}<a href="{{ pub.paperurl }}">{{ pub.title }}</a>
+                {% else %}{{ pub.title }}{% endif %}
+              </h3>
+              {% if pub.date %}<p class="nc-card__meta">{{ pub.date | date: "%Y" }}{% if pub.citation %} · {{ pub.citation | truncate: 80, "…" }}{% endif %}</p>{% endif %}
+              {% if pub.excerpt %}<p class="nc-card__excerpt">{{ pub.excerpt | strip_html | truncate: 160, "…" }}</p>{% endif %}
+              {% if pub.paperurl %}<a class="nc-card__cta" href="{{ pub.paperurl }}">Read →</a>{% endif %}
+            </article>
+          {% endfor %}
+        </div>
+      </section>
+
+      {% comment %} ============== CONNECT ============== {% endcomment %}
+      <section id="connect" class="nc-section nc-connect" aria-labelledby="connect-title">
+        <div class="nc-connect__inner nc-reveal">
+          <span class="nc-eyebrow">Epilogue</span>
+          <h2 id="connect-title" class="nc-section__title">Stay in <em>correspondence</em></h2>
+          <p class="nc-connect__body">Always glad to meet new collaborators — for research, mentoring, or simply a conversation about David's brushwork over coffee.</p>
+          <ul class="nc-links" role="list">
+            <li><a href="mailto:{{ site.author.email }}">Email</a></li>
+            {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Scholar</a></li>{% endif %}
+            {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a></li>{% endif %}
+            {% if site.author.linkedin %}<li><a href="https://{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a></li>{% endif %}
+            <li><a href="{{ base_path }}/cv/">Curriculum vitae</a></li>
+          </ul>
+        </div>
+      </section>
+
+    </main>
+
+    <footer class="nc-footer">
+      <div class="nc-footer__crest">
+        <span class="nc-footer__crest-mark" aria-hidden="true"></span>
+        <p class="nc-footer__name">Lucius Vo</p>
+      </div>
+      <p class="nc-footer__meta">{{ site.author.location }} · MMXXVI</p>
+      <p class="nc-footer__meta" style="margin-top:0.4rem;">
+        Paintings by Jacques-Louis David, public domain via Wikimedia Commons
+      </p>
+    </footer>
+
+    <script src="{{ base_path }}/assets/js/neoclassical.js" defer></script>
+
+    {% include analytics.html %}
+  </body>
+</html>
