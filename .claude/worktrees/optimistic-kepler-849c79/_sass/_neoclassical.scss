@@ -1,0 +1,1042 @@
+/* ==========================================================================
+   Neoclassical theme
+   Inspired by Jacques-Louis David — parchment, crimson, ochre, ink.
+   Scoped to .neoclassical so it does not affect default theme pages.
+   ========================================================================== */
+
+.neoclassical {
+  --nc-ivory:        #f4ebd9;
+  --nc-ivory-soft:   #ebe1cb;
+  --nc-marble:       #d8cdb8;
+  --nc-crimson:      #8b1e3f;
+  --nc-crimson-deep: #5a0f2a;
+  --nc-ochre:        #c19a4f;
+  --nc-ochre-deep:   #8b6f3a;
+  --nc-ink:          #1a1612;
+  --nc-ink-soft:     #4a3f30;
+  --nc-cloud:        rgba(244, 235, 217, 0.92);
+
+  --nc-serif-display: "Cormorant Garamond", "EB Garamond", "Garamond", Georgia, serif;
+  --nc-serif-body:    "EB Garamond", "Cormorant Garamond", Georgia, serif;
+  --nc-smallcaps:     "Cormorant SC", "Cormorant Garamond", Georgia, serif;
+  --nc-sans:          "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+
+  --nc-w-narrow: 38rem;
+  --nc-w-text:   46rem;
+  --nc-w-wide:   72rem;
+
+  --nc-ease:     cubic-bezier(0.22, 0.61, 0.36, 1);
+
+  background: var(--nc-ivory);
+  color: var(--nc-ink);
+  font-family: var(--nc-serif-body);
+  font-size: 18px;
+  line-height: 1.65;
+  font-feature-settings: "liga", "kern", "onum";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Subtle parchment grain — pure CSS, no asset */
+  background-image:
+    radial-gradient(rgba(139, 30, 63, 0.025) 1px, transparent 1px),
+    radial-gradient(rgba(26, 22, 18, 0.018) 1px, transparent 1px);
+  background-size: 4px 4px, 7px 7px;
+  background-position: 0 0, 2px 3px;
+
+  *, *::before, *::after { box-sizing: border-box; }
+
+  a {
+    color: var(--nc-crimson);
+    text-decoration: none;
+    background-image: linear-gradient(to right, var(--nc-ochre), var(--nc-ochre));
+    background-size: 0% 1px;
+    background-repeat: no-repeat;
+    background-position: 0 92%;
+    transition: background-size 0.35s var(--nc-ease), color 0.25s var(--nc-ease);
+  }
+  a:hover, a:focus {
+    color: var(--nc-crimson-deep);
+    background-size: 100% 1px;
+  }
+
+  h1, h2, h3, h4, h5 {
+    font-family: var(--nc-serif-display);
+    font-weight: 500;
+    /* color inherits from .neoclassical so per-component overrides win */
+    letter-spacing: -0.005em;
+  }
+
+  hr.nc-rule {
+    border: 0;
+    height: 1px;
+    background: linear-gradient(to right, transparent, var(--nc-ochre) 30%, var(--nc-ochre) 70%, transparent);
+    margin: 3rem auto;
+    max-width: 14rem;
+  }
+
+  ::selection { background: var(--nc-ochre); color: var(--nc-ink); }
+}
+
+/* ==========================================================================
+   Layout primitives
+   ========================================================================== */
+
+.nc-container {
+  width: 100%;
+  max-width: var(--nc-w-wide);
+  padding: 0 1.5rem;
+  margin: 0 auto;
+}
+.nc-container--text   { max-width: var(--nc-w-text); }
+.nc-container--narrow { max-width: var(--nc-w-narrow); }
+
+.nc-section {
+  position: relative;
+  padding: 6rem 0;
+}
+@media (max-width: 720px) {
+  .nc-section { padding: 4rem 0; }
+}
+
+.nc-eyebrow {
+  font-family: var(--nc-smallcaps);
+  font-size: 0.78rem;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: var(--nc-ochre-deep);
+  display: inline-block;
+  margin-bottom: 1.25rem;
+}
+.nc-eyebrow::before {
+  content: "—";
+  margin-right: 0.6em;
+  color: var(--nc-ochre);
+}
+
+.nc-section__title {
+  font-family: var(--nc-serif-display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(2rem, 4.2vw, 3.4rem);
+  line-height: 1.1;
+  margin: 0 0 1.5rem;
+}
+
+.nc-lede {
+  font-family: var(--nc-serif-body);
+  font-size: 1.2rem;
+  line-height: 1.7;
+  color: var(--nc-ink-soft);
+  max-width: var(--nc-w-text);
+}
+
+/* ==========================================================================
+   Top navigation (sticky, slim, parchment)
+   ========================================================================== */
+
+.nc-nav {
+  position: sticky;
+  top: 0;
+  z-index: 80;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  background: var(--nc-cloud);
+  border-bottom: 1px solid rgba(139, 30, 63, 0.12);
+  transition: padding 0.3s var(--nc-ease), background 0.3s var(--nc-ease);
+}
+.nc-nav__inner {
+  max-width: var(--nc-w-wide);
+  margin: 0 auto;
+  padding: 1.05rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+.nc-nav__brand {
+  font-family: var(--nc-serif-display);
+  font-size: 1.18rem;
+  letter-spacing: 0.04em;
+  color: var(--nc-ink);
+  background: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+.nc-nav__brand:hover { color: var(--nc-crimson); background: none; }
+.nc-nav__brand-mark {
+  display: inline-block;
+  width: 1.25rem;
+  height: 1.25rem;
+  border: 1px solid var(--nc-ochre);
+  position: relative;
+  transform: rotate(45deg);
+}
+.nc-nav__brand-mark::after {
+  content: "";
+  position: absolute;
+  inset: 3px;
+  background: var(--nc-crimson);
+}
+.nc-nav__links {
+  display: flex;
+  gap: 1.6rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  flex-wrap: wrap;
+}
+.nc-nav__links a {
+  font-family: var(--nc-smallcaps);
+  font-size: 0.78rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--nc-ink);
+}
+.nc-nav__toggle {
+  display: none;
+  background: none;
+  border: none;
+  font: inherit;
+  cursor: pointer;
+  padding: 0.25rem;
+  color: var(--nc-ink);
+}
+@media (max-width: 720px) {
+  .nc-nav__links {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    gap: 0.9rem;
+    padding-top: 0.8rem;
+    border-top: 1px solid rgba(139, 30, 63, 0.12);
+    margin-top: 0.6rem;
+  }
+  .nc-nav__inner { flex-wrap: wrap; }
+  .nc-nav__toggle { display: inline-flex; align-items: center; gap: 0.4rem; font-family: var(--nc-smallcaps); font-size: 0.8rem; letter-spacing: 0.18em; text-transform: uppercase; }
+  .nc-nav.is-open .nc-nav__links { display: flex; }
+}
+
+/* ==========================================================================
+   Hero — Death of Socrates
+   ========================================================================== */
+
+.nc-hero {
+  position: relative;
+  min-height: 92vh;
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+  isolation: isolate;
+}
+.nc-hero__bg {
+  position: absolute;
+  inset: 0;
+  background-image: url("../../images/neoclassical/attributes-of-the-arts.jpg");
+  background-size: cover;
+  background-position: center 35%;
+  filter: saturate(0.85) contrast(1.05) brightness(0.7);
+  transform: scale(1.05);
+  z-index: -2;
+  will-change: transform;
+}
+.nc-hero__veil {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background:
+    /* directional darken: heavier on left/bottom where the text sits */
+    linear-gradient(to right,
+      rgba(26, 22, 18, 0.65) 0%,
+      rgba(26, 22, 18, 0.35) 55%,
+      rgba(26, 22, 18, 0.15) 100%),
+    linear-gradient(to bottom,
+      rgba(26, 22, 18, 0.55) 0%,
+      rgba(26, 22, 18, 0.50) 50%,
+      rgba(26, 22, 18, 0.45) 80%,
+      rgba(244, 235, 217, 0.20) 96%,
+      var(--nc-ivory) 100%),
+    radial-gradient(ellipse at 70% 40%, transparent 0%, rgba(26, 22, 18, 0.4) 100%);
+}
+.nc-hero__inner {
+  position: relative;
+  width: 100%;
+  max-width: var(--nc-w-wide);
+  padding: 2.5rem 1.5rem 5rem;
+  margin: 0 auto;
+}
+.nc-hero__greeting {
+  font-family: var(--nc-smallcaps);
+  font-size: 0.85rem;
+  letter-spacing: 0.42em;
+  text-transform: uppercase;
+  color: var(--nc-ochre);
+  margin-bottom: 1.2rem;
+  display: inline-block;
+}
+.nc-hero__greeting::before,
+.nc-hero__greeting::after {
+  content: "";
+  display: inline-block;
+  width: 2.2rem;
+  height: 1px;
+  background: var(--nc-ochre);
+  vertical-align: middle;
+  margin: 0 0.85rem;
+}
+.nc-hero__title {
+  font-family: var(--nc-serif-display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(2.6rem, 7vw, 5.5rem);
+  line-height: 1.02;
+  color: #ffffff;
+  margin: 0 0 1rem;
+  text-shadow:
+    0 0 1px rgba(0, 0, 0, 0.65),
+    0 2px 6px rgba(0, 0, 0, 0.55),
+    0 6px 36px rgba(0, 0, 0, 0.5);
+}
+.nc-hero__title .nc-word { color: inherit; }
+.nc-hero__title em {
+  font-style: italic;
+  color: var(--nc-ochre);
+  text-shadow:
+    0 0 1px rgba(0, 0, 0, 0.65),
+    0 2px 6px rgba(0, 0, 0, 0.6);
+}
+.nc-hero__subtitle {
+  font-family: var(--nc-serif-body);
+  font-size: clamp(1.05rem, 1.6vw, 1.35rem);
+  color: #fdf8ec;
+  opacity: 1;
+  max-width: 36rem;
+  line-height: 1.55;
+  margin: 0 0 2rem;
+  text-shadow:
+    0 0 1px rgba(0, 0, 0, 0.6),
+    0 1px 4px rgba(0, 0, 0, 0.55),
+    0 2px 18px rgba(0, 0, 0, 0.5);
+}
+.nc-hero__caption {
+  position: absolute;
+  right: 1.5rem;
+  bottom: 1.4rem;
+  font-family: var(--nc-smallcaps);
+  font-size: 0.68rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(244, 235, 217, 0.65);
+}
+.nc-hero__scroll {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.7rem;
+  font-family: var(--nc-smallcaps);
+  font-size: 0.75rem;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: var(--nc-ivory);
+  background: none;
+}
+.nc-hero__scroll:hover { color: var(--nc-ochre); background: none; }
+.nc-hero__scroll-line {
+  display: inline-block;
+  width: 3rem;
+  height: 1px;
+  background: currentColor;
+  position: relative;
+  overflow: hidden;
+}
+.nc-hero__scroll-line::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--nc-ochre);
+  transform: translateX(-100%);
+  animation: nc-scroll-line 2.4s var(--nc-ease) infinite;
+}
+@keyframes nc-scroll-line {
+  0%   { transform: translateX(-100%); }
+  50%  { transform: translateX(0); }
+  100% { transform: translateX(100%); }
+}
+
+/* Animated entry of hero text — applied by JS once .is-loaded is set */
+.nc-hero__title .nc-word,
+.nc-hero__subtitle,
+.nc-hero__greeting,
+.nc-hero__scroll {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity 0.9s var(--nc-ease), transform 0.9s var(--nc-ease);
+}
+.is-loaded .nc-hero__title .nc-word { opacity: 1; transform: translateY(0); }
+.is-loaded .nc-hero__title .nc-word:nth-child(1) { transition-delay: 0.20s; }
+.is-loaded .nc-hero__title .nc-word:nth-child(2) { transition-delay: 0.30s; }
+.is-loaded .nc-hero__title .nc-word:nth-child(3) { transition-delay: 0.40s; }
+.is-loaded .nc-hero__title .nc-word:nth-child(4) { transition-delay: 0.50s; }
+.is-loaded .nc-hero__title .nc-word:nth-child(5) { transition-delay: 0.60s; }
+.is-loaded .nc-hero__title .nc-word:nth-child(n+6) { transition-delay: 0.70s; }
+.is-loaded .nc-hero__greeting { opacity: 1; transform: none; transition-delay: 0.05s; }
+.is-loaded .nc-hero__subtitle { opacity: 1; transform: none; transition-delay: 0.85s; }
+.is-loaded .nc-hero__scroll   { opacity: 1; transform: none; transition-delay: 1.05s; }
+
+/* ==========================================================================
+   Prologue — opening note
+   ========================================================================== */
+
+.nc-prologue {
+  background: var(--nc-ivory);
+  position: relative;
+}
+.nc-prologue__inner {
+  max-width: var(--nc-w-text);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  text-align: center;
+}
+.nc-prologue__salute {
+  font-family: var(--nc-smallcaps);
+  font-size: 0.82rem;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: var(--nc-crimson);
+}
+.nc-prologue__body {
+  font-family: var(--nc-serif-display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(1.4rem, 2.4vw, 1.85rem);
+  line-height: 1.5;
+  color: var(--nc-ink);
+  margin: 1.5rem 0;
+}
+.nc-prologue__body::first-letter {
+  font-family: var(--nc-serif-display);
+  font-style: normal;
+  font-weight: 500;
+  font-size: 4.6em;
+  float: left;
+  line-height: 0.85;
+  margin: 0.06em 0.12em 0 0;
+  color: var(--nc-crimson);
+}
+.nc-prologue__sign {
+  font-family: var(--nc-smallcaps);
+  font-size: 0.78rem;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--nc-ink-soft);
+}
+
+/* ==========================================================================
+   Ornamental dividers
+   ========================================================================== */
+
+.nc-ornament {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 3rem auto;
+  max-width: 18rem;
+  color: var(--nc-ochre);
+}
+.nc-ornament::before,
+.nc-ornament::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(to right, transparent, currentColor);
+}
+.nc-ornament::after {
+  background: linear-gradient(to left, transparent, currentColor);
+}
+.nc-ornament__diamond {
+  width: 8px;
+  height: 8px;
+  background: currentColor;
+  transform: rotate(45deg);
+  display: inline-block;
+}
+
+/* ==========================================================================
+   Journey — vertical timeline (alternating sides on desktop)
+   ========================================================================== */
+
+.nc-journey {
+  background:
+    linear-gradient(to bottom, var(--nc-ivory), var(--nc-ivory-soft));
+  position: relative;
+}
+.nc-journey__intro {
+  text-align: center;
+  max-width: var(--nc-w-text);
+  margin: 0 auto 4rem;
+  padding: 0 1.5rem;
+}
+.nc-journey__list {
+  position: relative;
+  max-width: var(--nc-w-wide);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  list-style: none;
+}
+.nc-journey__list::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: linear-gradient(to bottom, transparent, var(--nc-ochre) 8%, var(--nc-ochre) 92%, transparent);
+  transform: translateX(-0.5px);
+}
+.nc-stop {
+  position: relative;
+  width: 50%;
+  padding: 0 3rem 4rem 0;
+  opacity: 0;
+  transform: translateX(-30px);
+  transition: opacity 0.9s var(--nc-ease), transform 0.9s var(--nc-ease);
+}
+.nc-stop:nth-child(even) {
+  margin-left: 50%;
+  padding: 0 0 4rem 3rem;
+  transform: translateX(30px);
+  text-align: left;
+}
+.nc-stop:nth-child(odd)  { text-align: right; }
+.nc-stop.is-visible      { opacity: 1; transform: translateX(0); }
+.nc-stop::before {
+  content: "";
+  position: absolute;
+  top: 0.7rem;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--nc-ivory);
+  border: 2px solid var(--nc-crimson);
+  box-shadow: 0 0 0 4px var(--nc-ivory);
+  transition: background 0.3s var(--nc-ease), transform 0.3s var(--nc-ease);
+}
+.nc-stop:nth-child(odd)::before  { right: -7px; }
+.nc-stop:nth-child(even)::before { left: -7px; }
+.nc-stop:hover::before { background: var(--nc-crimson); transform: scale(1.25); }
+
+.nc-stop__year {
+  font-family: var(--nc-smallcaps);
+  font-size: 0.78rem;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--nc-ochre-deep);
+  display: block;
+  margin-bottom: 0.4rem;
+}
+.nc-stop__place {
+  font-family: var(--nc-serif-display);
+  font-style: italic;
+  font-size: 1.85rem;
+  font-weight: 400;
+  line-height: 1.15;
+  margin: 0 0 0.2rem;
+  color: var(--nc-ink);
+}
+.nc-stop__role {
+  font-family: var(--nc-serif-body);
+  font-size: 1rem;
+  color: var(--nc-crimson);
+  margin: 0 0 0.9rem;
+}
+.nc-stop__body {
+  font-family: var(--nc-serif-body);
+  font-size: 1.02rem;
+  line-height: 1.65;
+  color: var(--nc-ink-soft);
+  margin: 0;
+}
+
+@media (max-width: 820px) {
+  .nc-journey__list::before { left: 18px; }
+  .nc-stop,
+  .nc-stop:nth-child(even) {
+    width: 100%;
+    margin-left: 0;
+    padding: 0 0 3rem 3rem;
+    text-align: left;
+    transform: translateX(20px);
+  }
+  .nc-stop::before,
+  .nc-stop:nth-child(odd)::before,
+  .nc-stop:nth-child(even)::before {
+    left: 11px;
+    right: auto;
+  }
+}
+
+/* ==========================================================================
+   Research vision — animated diagram of three threads
+   ========================================================================== */
+
+.nc-vision {
+  background: var(--nc-ink);
+  color: var(--nc-ivory);
+  position: relative;
+  overflow: hidden;
+}
+.nc-vision::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("../../images/neoclassical/oath-of-the-horatii.jpg");
+  background-size: cover;
+  background-position: center;
+  opacity: 0.07;
+  filter: saturate(0.5);
+  z-index: 0;
+}
+.nc-vision__inner {
+  position: relative;
+  z-index: 1;
+  max-width: var(--nc-w-wide);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  align-items: center;
+}
+@media (max-width: 880px) {
+  .nc-vision__inner { grid-template-columns: 1fr; gap: 2.5rem; }
+}
+.nc-vision .nc-eyebrow { color: var(--nc-ochre); }
+.nc-vision__title {
+  font-family: var(--nc-serif-display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  line-height: 1.1;
+  color: var(--nc-ivory);
+  margin: 0 0 1.2rem;
+}
+.nc-vision__title em { color: var(--nc-ochre); }
+.nc-vision__body {
+  font-family: var(--nc-serif-body);
+  font-size: 1.08rem;
+  line-height: 1.75;
+  color: rgba(244, 235, 217, 0.85);
+  margin: 0 0 1.4rem;
+}
+.nc-vision__body strong { color: var(--nc-ivory); font-weight: 500; }
+.nc-vision a { color: var(--nc-ochre); }
+.nc-vision a:hover { color: var(--nc-ivory); }
+
+.nc-triad {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1;
+  max-width: 460px;
+  margin: 0 auto;
+}
+.nc-triad svg { width: 100%; height: 100%; display: block; overflow: visible; }
+.nc-triad__node circle {
+  transition: r 0.4s var(--nc-ease), fill 0.4s var(--nc-ease);
+  cursor: pointer;
+}
+.nc-triad__node:hover circle { r: 56; fill: var(--nc-crimson); }
+.nc-triad__node text {
+  font-family: var(--nc-smallcaps);
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  fill: var(--nc-ivory);
+  text-anchor: middle;
+  pointer-events: none;
+}
+.nc-triad__node-label {
+  font-family: var(--nc-serif-display) !important;
+  font-style: italic;
+  font-size: 16px !important;
+  letter-spacing: 0 !important;
+  text-transform: none !important;
+  font-weight: 400;
+}
+.nc-triad__edge {
+  stroke: var(--nc-ochre);
+  stroke-width: 1;
+  stroke-dasharray: 4 4;
+  fill: none;
+  opacity: 0.55;
+  stroke-dashoffset: 0;
+  animation: nc-dash 18s linear infinite;
+}
+@keyframes nc-dash {
+  to { stroke-dashoffset: -200; }
+}
+.nc-triad__core {
+  fill: var(--nc-ochre);
+  animation: nc-pulse 4s var(--nc-ease) infinite;
+  transform-origin: center;
+}
+@keyframes nc-pulse {
+  0%, 100% { opacity: 0.65; transform: scale(1); }
+  50%      { opacity: 1;    transform: scale(1.1); }
+}
+
+/* ==========================================================================
+   Selected works — publication cards
+   ========================================================================== */
+
+.nc-works {
+  background: var(--nc-ivory);
+  position: relative;
+}
+.nc-works__intro {
+  text-align: center;
+  max-width: var(--nc-w-text);
+  margin: 0 auto 3.5rem;
+  padding: 0 1.5rem;
+}
+.nc-works__grid {
+  max-width: var(--nc-w-wide);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+.nc-card {
+  position: relative;
+  background: var(--nc-ivory-soft);
+  border: 1px solid rgba(139, 30, 63, 0.15);
+  padding: 2rem 1.75rem 1.75rem;
+  transition: transform 0.4s var(--nc-ease), box-shadow 0.4s var(--nc-ease), border-color 0.4s var(--nc-ease);
+  display: flex;
+  flex-direction: column;
+}
+.nc-card::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 0; height: 1px;
+  background: var(--nc-ochre);
+  transition: width 0.6s var(--nc-ease);
+}
+.nc-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 18px 38px -22px rgba(26, 22, 18, 0.35);
+  border-color: var(--nc-ochre);
+}
+.nc-card:hover::before { width: 100%; }
+.nc-card__tag {
+  font-family: var(--nc-smallcaps);
+  font-size: 0.7rem;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--nc-crimson);
+  margin-bottom: 0.5rem;
+}
+.nc-card__title {
+  font-family: var(--nc-serif-display);
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.25;
+  margin: 0 0 0.6rem;
+  color: var(--nc-ink);
+}
+.nc-card__title a { color: inherit; background: none; }
+.nc-card__title a:hover { color: var(--nc-crimson); background: none; }
+.nc-card__meta {
+  font-family: var(--nc-serif-body);
+  font-style: italic;
+  font-size: 0.92rem;
+  color: var(--nc-ink-soft);
+  margin: 0 0 0.9rem;
+}
+.nc-card__excerpt {
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: var(--nc-ink-soft);
+  margin: 0 0 1.2rem;
+  flex: 1;
+}
+.nc-card__cta {
+  font-family: var(--nc-smallcaps);
+  font-size: 0.74rem;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--nc-crimson);
+  align-self: flex-start;
+}
+
+/* ==========================================================================
+   Connect / Epilogue
+   ========================================================================== */
+
+.nc-connect {
+  background: var(--nc-ivory-soft);
+  text-align: center;
+}
+.nc-connect__inner {
+  max-width: var(--nc-w-text);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+.nc-connect__body {
+  font-family: var(--nc-serif-display);
+  font-style: italic;
+  font-size: clamp(1.3rem, 2.2vw, 1.7rem);
+  line-height: 1.5;
+  color: var(--nc-ink);
+  margin: 0 0 2rem;
+}
+.nc-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0;
+}
+.nc-links a {
+  font-family: var(--nc-smallcaps);
+  font-size: 0.82rem;
+  letter-spacing: 0.26em;
+  text-transform: uppercase;
+  color: var(--nc-ink);
+  border: 1px solid var(--nc-ink);
+  padding: 0.85rem 1.6rem;
+  display: inline-block;
+  transition: all 0.3s var(--nc-ease);
+  background: none;
+}
+.nc-links a:hover {
+  background: var(--nc-ink);
+  color: var(--nc-ivory);
+  border-color: var(--nc-ink);
+}
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
+.nc-footer {
+  background: var(--nc-ink);
+  color: var(--nc-ivory);
+  padding: 3rem 1.5rem 2.5rem;
+  text-align: center;
+  position: relative;
+}
+.nc-footer__crest {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+.nc-footer__crest-mark {
+  width: 30px;
+  height: 30px;
+  border: 1px solid var(--nc-ochre);
+  display: inline-block;
+  transform: rotate(45deg);
+  position: relative;
+}
+.nc-footer__crest-mark::after {
+  content: "";
+  position: absolute;
+  inset: 6px;
+  background: var(--nc-crimson);
+}
+.nc-footer__name {
+  font-family: var(--nc-serif-display);
+  font-style: italic;
+  font-size: 1.2rem;
+  margin: 0;
+}
+.nc-footer__meta {
+  font-family: var(--nc-smallcaps);
+  font-size: 0.72rem;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: rgba(244, 235, 217, 0.6);
+  margin: 0.6rem 0 0;
+}
+.nc-footer a { color: var(--nc-ochre); background: none; }
+.nc-footer a:hover { color: var(--nc-ivory); background: none; }
+
+/* ==========================================================================
+   Reading-progress bar
+   ========================================================================== */
+
+.nc-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2px;
+  background: var(--nc-crimson);
+  width: 0;
+  z-index: 200;
+  transition: width 0.1s linear;
+}
+
+/* ==========================================================================
+   Reveal-on-scroll utility
+   ========================================================================== */
+
+.nc-reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.9s var(--nc-ease), transform 0.9s var(--nc-ease);
+}
+.nc-reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+.nc-reveal--delay-1.is-visible { transition-delay: 0.10s; }
+.nc-reveal--delay-2.is-visible { transition-delay: 0.20s; }
+.nc-reveal--delay-3.is-visible { transition-delay: 0.30s; }
+
+@media (prefers-reduced-motion: reduce) {
+  .nc-reveal,
+  .nc-stop,
+  .nc-hero__title .nc-word,
+  .nc-hero__subtitle,
+  .nc-hero__greeting,
+  .nc-hero__scroll {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+  .nc-hero__scroll-line::after,
+  .nc-triad__edge,
+  .nc-triad__core { animation: none !important; }
+}
+
+/* ==========================================================================
+   CV / archive page styling
+   ========================================================================== */
+
+.neoclassical--page .nc-page-hero {
+  position: relative;
+  padding: 8rem 1.5rem 5rem;
+  text-align: center;
+  background:
+    linear-gradient(to bottom, rgba(244, 235, 217, 0.85), rgba(244, 235, 217, 0.96)),
+    url("../../images/neoclassical/oath-of-the-horatii.jpg");
+  background-size: cover;
+  background-position: center 35%;
+  border-bottom: 1px solid rgba(139, 30, 63, 0.15);
+}
+.nc-page-hero__eyebrow {
+  font-family: var(--nc-smallcaps);
+  font-size: 0.82rem;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: var(--nc-crimson);
+  margin-bottom: 0.8rem;
+}
+.nc-page-hero__title {
+  font-family: var(--nc-serif-display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(2.4rem, 5vw, 4rem);
+  margin: 0 0 0.5rem;
+  color: var(--nc-ink);
+}
+.nc-page-hero__lede {
+  font-family: var(--nc-serif-body);
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: var(--nc-ink-soft);
+  max-width: var(--nc-w-text);
+  margin: 0 auto;
+}
+
+.nc-doc {
+  max-width: 52rem;
+  margin: 0 auto;
+  padding: 4rem 1.5rem 6rem;
+  font-family: var(--nc-serif-body);
+  font-size: 1.05rem;
+  line-height: 1.72;
+  color: var(--nc-ink);
+}
+.nc-doc h2 {
+  font-family: var(--nc-serif-display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 1.15;
+  margin: 3.5rem 0 1.2rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--nc-marble);
+  color: var(--nc-ink);
+  position: relative;
+}
+.nc-doc h2::before {
+  content: "";
+  position: absolute;
+  top: -1px;
+  left: 0;
+  width: 3rem;
+  height: 1px;
+  background: var(--nc-crimson);
+}
+.nc-doc h2:first-of-type { margin-top: 0; padding-top: 0; border-top: none; }
+.nc-doc h2:first-of-type::before { display: none; }
+
+.nc-doc h3 {
+  font-family: var(--nc-serif-display);
+  font-weight: 500;
+  font-size: 1.32rem;
+  margin: 2rem 0 0.4rem;
+  color: var(--nc-ink);
+}
+.nc-doc p { margin: 0 0 1.1rem; }
+.nc-doc ul {
+  list-style: none;
+  padding-left: 1.2rem;
+  margin: 0 0 1.4rem;
+}
+.nc-doc ul li {
+  position: relative;
+  margin-bottom: 0.6rem;
+}
+.nc-doc ul li::before {
+  content: "";
+  position: absolute;
+  left: -1.2rem;
+  top: 0.65em;
+  width: 0.5rem;
+  height: 1px;
+  background: var(--nc-ochre);
+}
+.nc-doc ul ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.8rem;
+  padding-left: 1.4rem;
+}
+.nc-doc ul ul li::before { background: var(--nc-marble); }
+.nc-doc strong { color: var(--nc-crimson-deep); font-weight: 600; }
+.nc-doc em     { font-style: italic; color: var(--nc-ink-soft); }
+.nc-doc blockquote {
+  margin: 1.5rem 0;
+  padding: 1.2rem 1.6rem;
+  border-left: 3px solid var(--nc-ochre);
+  background: var(--nc-ivory-soft);
+  font-style: italic;
+  color: var(--nc-ink-soft);
+}
+.nc-doc blockquote p:last-child { margin-bottom: 0; }
+.nc-doc hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--nc-ochre), transparent);
+  margin: 3rem auto;
+  max-width: 14rem;
+}
+.nc-doc a { color: var(--nc-crimson); }
+.nc-doc a:hover { color: var(--nc-crimson-deep); }
