@@ -404,10 +404,21 @@
 }
 .nc-prologue__salute {
   font-family: var(--nc-smallcaps);
-  font-size: 0.82rem;
-  letter-spacing: 0.32em;
+  font-size: 1rem;
+  letter-spacing: 0.34em;
   text-transform: uppercase;
   color: var(--nc-crimson);
+  display: inline-block;
+}
+.nc-prologue__salute::before,
+.nc-prologue__salute::after {
+  content: "";
+  display: inline-block;
+  width: 2.6rem;
+  height: 1px;
+  background: var(--nc-crimson);
+  vertical-align: middle;
+  margin: 0 0.95rem;
 }
 .nc-prologue__body {
   font-family: var(--nc-serif-display);
@@ -417,6 +428,12 @@
   line-height: 1.5;
   color: var(--nc-ink);
   margin: 1.5rem 0;
+  /* the body reads as a letter — justify + soft hyphenation
+     gives the block its even, classical edge */
+  text-align: justify;
+  text-align-last: center;
+  hyphens: auto;
+  -webkit-hyphens: auto;
 }
 .nc-prologue__body::first-letter {
   font-family: var(--nc-serif-display);

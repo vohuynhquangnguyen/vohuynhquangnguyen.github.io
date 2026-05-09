@@ -12,7 +12,7 @@ hero:
   title: "Between marble and silicon."
   subtitle: "I'm Lucius Vo — a Ph.D. candidate at Oklahoma State University working at the seam where neuromorphic hardware, in-memory computing, and machine learning meet."
 
-prologue: "I grew up in Vietnam, learned to be an engineer in Finland, and learned to be a researcher in three places I never expected. This site is a small exhibition of that path — and a window onto what I am building next: machines that no longer separate memory from thought."
+prologue: "I grew up in Vietnam, learned to be an engineer in Finland, and learned to be a researcher in the US. Each chapter of that journey taught me a different discipline to carry — the patience of optical metrology, the scale of semiconductor manufacturing, and the open questions that still keep computation honest. This site is a small exhibition of that path, and a window onto what I am building next: machines that no longer separate memory from thought."
 
 journey:
   - year: "Origin · Vietnam"
