@@ -235,8 +235,10 @@
   background-image: url("../../images/neoclassical/attributes-of-the-arts.jpg");
   background-size: cover;
   background-position: center 35%;
-  filter: saturate(0.85) contrast(1.05) brightness(0.7);
-  transform: scale(1.05);
+  /* slight blur + heavier darken — the painting becomes atmosphere, not focal */
+  filter: saturate(0.8) contrast(1.05) brightness(0.55) blur(3px);
+  /* extra scale hides the soft edges introduced by blur */
+  transform: scale(1.10);
   z-index: -2;
   will-change: transform;
 }
@@ -247,14 +249,14 @@
   background:
     /* directional darken: heavier on left/bottom where the text sits */
     linear-gradient(to right,
-      rgba(26, 22, 18, 0.65) 0%,
-      rgba(26, 22, 18, 0.35) 55%,
-      rgba(26, 22, 18, 0.15) 100%),
+      rgba(26, 22, 18, 0.78) 0%,
+      rgba(26, 22, 18, 0.45) 55%,
+      rgba(26, 22, 18, 0.20) 100%),
     linear-gradient(to bottom,
-      rgba(26, 22, 18, 0.55) 0%,
-      rgba(26, 22, 18, 0.50) 50%,
-      rgba(26, 22, 18, 0.45) 80%,
-      rgba(244, 235, 217, 0.20) 96%,
+      rgba(26, 22, 18, 0.60) 0%,
+      rgba(26, 22, 18, 0.60) 50%,
+      rgba(26, 22, 18, 0.62) 88%,
+      rgba(244, 235, 217, 0.10) 98%,
       var(--nc-ivory) 100%),
     radial-gradient(ellipse at 70% 40%, transparent 0%, rgba(26, 22, 18, 0.4) 100%);
 }
@@ -267,31 +269,31 @@
 }
 .nc-hero__greeting {
   font-family: var(--nc-smallcaps);
-  font-size: 0.85rem;
+  font-size: 1rem;
   letter-spacing: 0.42em;
   text-transform: uppercase;
   color: var(--nc-ochre);
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.4rem;
   display: inline-block;
 }
 .nc-hero__greeting::before,
 .nc-hero__greeting::after {
   content: "";
   display: inline-block;
-  width: 2.2rem;
+  width: 2.6rem;
   height: 1px;
   background: var(--nc-ochre);
   vertical-align: middle;
-  margin: 0 0.85rem;
+  margin: 0 0.95rem;
 }
 .nc-hero__title {
   font-family: var(--nc-serif-display);
   font-style: italic;
   font-weight: 400;
-  font-size: clamp(2.6rem, 7vw, 5.5rem);
+  font-size: clamp(3.2rem, 8.5vw, 6.8rem);
   line-height: 1.02;
   color: #ffffff;
-  margin: 0 0 1rem;
+  margin: 0 0 1.2rem;
   text-shadow:
     0 0 1px rgba(0, 0, 0, 0.65),
     0 2px 6px rgba(0, 0, 0, 0.55),
@@ -307,12 +309,12 @@
 }
 .nc-hero__subtitle {
   font-family: var(--nc-serif-body);
-  font-size: clamp(1.05rem, 1.6vw, 1.35rem);
+  font-size: clamp(1.25rem, 2vw, 1.6rem);
   color: #fdf8ec;
   opacity: 1;
-  max-width: 36rem;
+  max-width: 40rem;
   line-height: 1.55;
-  margin: 0 0 2rem;
+  margin: 0 0 2.4rem;
   text-shadow:
     0 0 1px rgba(0, 0, 0, 0.6),
     0 1px 4px rgba(0, 0, 0, 0.55),
@@ -328,18 +330,22 @@
   text-transform: uppercase;
   color: rgba(244, 235, 217, 0.65);
 }
-.nc-hero__scroll {
+/* scoped under .neoclassical so it beats `.neoclassical a { color: crimson }` */
+.neoclassical .nc-hero__scroll {
   display: inline-flex;
   align-items: center;
-  gap: 0.7rem;
+  gap: 0.85rem;
   font-family: var(--nc-smallcaps);
-  font-size: 0.75rem;
-  letter-spacing: 0.32em;
+  font-size: 0.88rem;
+  letter-spacing: 0.34em;
   text-transform: uppercase;
-  color: var(--nc-ivory);
+  color: #ffffff;
   background: none;
+  text-shadow:
+    0 0 1px rgba(0, 0, 0, 0.65),
+    0 1px 4px rgba(0, 0, 0, 0.5);
 }
-.nc-hero__scroll:hover { color: var(--nc-ochre); background: none; }
+.neoclassical .nc-hero__scroll:hover { color: var(--nc-ochre); background: none; }
 .nc-hero__scroll-line {
   display: inline-block;
   width: 3rem;
