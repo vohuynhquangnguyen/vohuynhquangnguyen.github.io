@@ -62,7 +62,7 @@
   h1, h2, h3, h4, h5 {
     font-family: var(--nc-serif-display);
     font-weight: 500;
-    color: var(--nc-ink);
+    /* color inherits from .neoclassical so per-component overrides win */
     letter-spacing: -0.005em;
   }
 
@@ -245,13 +245,18 @@
   inset: 0;
   z-index: -1;
   background:
+    /* directional darken: heavier on left/bottom where the text sits */
+    linear-gradient(to right,
+      rgba(26, 22, 18, 0.65) 0%,
+      rgba(26, 22, 18, 0.35) 55%,
+      rgba(26, 22, 18, 0.15) 100%),
     linear-gradient(to bottom,
       rgba(26, 22, 18, 0.55) 0%,
-      rgba(26, 22, 18, 0.30) 35%,
-      rgba(244, 235, 217, 0.10) 60%,
-      rgba(244, 235, 217, 0.85) 92%,
+      rgba(26, 22, 18, 0.50) 50%,
+      rgba(26, 22, 18, 0.45) 80%,
+      rgba(244, 235, 217, 0.20) 96%,
       var(--nc-ivory) 100%),
-    radial-gradient(ellipse at 70% 40%, transparent 0%, rgba(26, 22, 18, 0.45) 100%);
+    radial-gradient(ellipse at 70% 40%, transparent 0%, rgba(26, 22, 18, 0.4) 100%);
 }
 .nc-hero__inner {
   position: relative;
@@ -285,23 +290,33 @@
   font-weight: 400;
   font-size: clamp(2.6rem, 7vw, 5.5rem);
   line-height: 1.02;
-  color: var(--nc-ivory);
+  color: #fdf8ec;
   margin: 0 0 1rem;
-  text-shadow: 0 2px 30px rgba(0, 0, 0, 0.35);
+  text-shadow:
+    0 0 1px rgba(0, 0, 0, 0.65),
+    0 2px 6px rgba(0, 0, 0, 0.55),
+    0 6px 36px rgba(0, 0, 0, 0.5);
 }
+.nc-hero__title .nc-word { color: inherit; }
 .nc-hero__title em {
   font-style: italic;
   color: var(--nc-ochre);
+  text-shadow:
+    0 0 1px rgba(0, 0, 0, 0.65),
+    0 2px 6px rgba(0, 0, 0, 0.6);
 }
 .nc-hero__subtitle {
   font-family: var(--nc-serif-body);
   font-size: clamp(1.05rem, 1.6vw, 1.35rem);
-  color: var(--nc-ivory);
-  opacity: 0.92;
+  color: #fdf8ec;
+  opacity: 1;
   max-width: 36rem;
   line-height: 1.55;
   margin: 0 0 2rem;
-  text-shadow: 0 1px 14px rgba(0, 0, 0, 0.4);
+  text-shadow:
+    0 0 1px rgba(0, 0, 0, 0.6),
+    0 1px 4px rgba(0, 0, 0, 0.55),
+    0 2px 18px rgba(0, 0, 0, 0.5);
 }
 .nc-hero__caption {
   position: absolute;
@@ -364,7 +379,7 @@
 .is-loaded .nc-hero__title .nc-word:nth-child(5) { transition-delay: 0.60s; }
 .is-loaded .nc-hero__title .nc-word:nth-child(n+6) { transition-delay: 0.70s; }
 .is-loaded .nc-hero__greeting { opacity: 1; transform: none; transition-delay: 0.05s; }
-.is-loaded .nc-hero__subtitle { opacity: 0.92; transform: none; transition-delay: 0.85s; }
+.is-loaded .nc-hero__subtitle { opacity: 1; transform: none; transition-delay: 0.85s; }
 .is-loaded .nc-hero__scroll   { opacity: 1; transform: none; transition-delay: 1.05s; }
 
 /* ==========================================================================
