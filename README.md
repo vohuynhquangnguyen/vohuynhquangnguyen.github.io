@@ -18,31 +18,38 @@ This README is a **practical editing guide** for the homepage, the CV page, and 
    - [Selected works](#selected-works)
    - [Connect / footer](#connect--footer)
 4. [Editing the CV page](#editing-the-cv-page)
-5. [Visual tweaks](#visual-tweaks)
+5. [Publications](#publications)
+6. [Visual tweaks](#visual-tweaks)
    - [Swap the hero painting](#swap-the-hero-painting)
    - [Change colors](#change-colors)
    - [Change font sizes](#change-font-sizes)
    - [Change the hero blur / darkness](#change-the-hero-blur--darkness)
    - [The two specificity gotchas](#the-two-specificity-gotchas)
-6. [Local preview & deployment](#local-preview--deployment)
-7. [Past edits — quick recipe log](#past-edits--quick-recipe-log)
-8. [Credits](#credits)
+7. [Local preview & deployment](#local-preview--deployment)
+8. [Past edits — quick recipe log](#past-edits--quick-recipe-log)
+9. [Credits](#credits)
 
 ---
 
 ## Repository map
 
-The Neoclassical theme is **scoped under the `.neoclassical` body class** so it only affects the homepage and CV. Every other page renders with the original Minimal Mistakes theme.
+The Neoclassical theme is **scoped under the `.neoclassical` body class** so it only affects the homepage, CV, and publications. Every other page renders with the original Minimal Mistakes theme.
 
 ```
 _pages/
   about.md                     ← homepage content (front matter is structured)
   cv.md                        ← CV page (markdown body + theme front matter)
-  publications.md, talks.html, teaching.html, portfolio.html, ...
+  publications.md              ← publications list page (thin front-matter only)
+  talks.html, teaching.html, portfolio.html, ...
+
+_publications/                 ← collection of individual paper markdown files
+  YYYY-MM-DD-slug.md           ← one file per publication (title, venue, date, etc.)
 
 _layouts/
-  neoclassical-home.html       ← homepage layout (hero, prologue, journey, vision, works, connect)
-  neoclassical-page.html       ← CV / styled content-page layout
+  neoclassical-home.html         ← homepage (hero, prologue, journey, vision, works, connect)
+  neoclassical-page.html         ← CV / styled content-page layout
+  neoclassical-publications.html ← publications LIST page (year-grouped)
+  neoclassical-publication.html  ← individual publication DETAIL page
   default.html, single.html, splash.html, ...   ← upstream layouts (unchanged)
 
 _sass/
@@ -83,6 +90,10 @@ images/neoclassical/
 | Connect section copy / contact links | `_layouts/neoclassical-home.html` | section with `id="connect"` |
 | CV body | `_pages/cv.md` | plain markdown |
 | CV hero eyebrow + lede | `_pages/cv.md` | front matter |
+| Publications list page hero (title, eyebrow, lede) | `_pages/publications.md` | front matter only |
+| Add / edit a publication entry | `_publications/YYYY-MM-DD-slug.md` | one file per paper; see [Publications](#publications) |
+| Publication detail page layout / sections | `_layouts/neoclassical-publication.html` | hero, citation, body, "Read the paper" CTA |
+| Publications list layout / year grouping | `_layouts/neoclassical-publications.html` | groups by `pub.date | date: '%Y'` |
 | Hero painting *image file* | `images/neoclassical/` + `_sass/_neoclassical.scss` line ~235 |
 | Theme colors | `_sass/_neoclassical.scss` | top of file (`--nc-ivory`, `--nc-crimson`, ...) |
 | Font sizes | `_sass/_neoclassical.scss` | per-component blocks |
@@ -216,6 +227,74 @@ permalink: /cv/
 ```
 
 Edit the markdown body normally. The theme styles `h2`, `h3`, `ul`, `blockquote`, etc. The PDF copy of the CV lives at `files/miscs/LuciusVo_CV.pdf` — replace that file to update the downloadable PDF.
+
+---
+
+## Publications
+
+Two views, both Neoclassical-themed:
+
+- **List page** at `/publications/` — year-grouped index, accessed from the "Read recent work →" link on the homepage's Act II and from the top nav.
+- **Detail page** at `/publication/<slug>/` — one per paper, with the full abstract and any extra content.
+
+### Adding a new publication
+
+Create a new markdown file in `_publications/`. Naming convention: `YYYY-MM-DD-slug.md`. Front-matter shape:
+
+```yaml
+---
+title: "Full title of the paper, plain quoted"
+collection: publications
+permalink: /publication/YYYY-MM-DD-slug
+date: '2026-02-24'              ← used for chronological sort and year grouping
+venue: 'SIAM PP26'              ← short venue name; shown as the small-caps tag on the list page
+excerpt: 'One-sentence abstract that appears under the title on the list page.'
+citation: 'Authors. (Year). Title. Venue.'      ← full citation, shown as the pull-quote on the detail page
+paperurl: 'https://...'                          ← optional link to PDF / arXiv / proceedings
+---
+
+# Abstract
+Your abstract here. Use `# Heading` (h1) for section titles — the detail
+layout styles `nc-doc--publication h1` with a crimson rule and ivory
+top-border to match the CV's section dividers.
+
+# Contents
+- [SIAM Proceedings](https://...)
+- [arXiv](https://...)
+```
+
+The detail page automatically renders:
+1. A small "← All publications" back-link
+2. The venue tag (eyebrow style)
+3. The title (large italic display)
+4. The publication date
+5. The citation as an ochre-bordered pull-quote
+6. Your markdown body
+7. A "Read the paper →" outlined button if `paperurl` is set
+
+### Why `# Heading` instead of `## Heading`
+
+CV uses `## Heading` (h2) because its layout (`neoclassical-page`) styles `.nc-doc h2`. Publications use `# Heading` (h1) because the existing `_publications/*.md` files were authored that way; the publication detail layout styles `.nc-doc--publication h1` with the same look. If you start a new tradition with `##`, the styling won't apply unless you also add a `.nc-doc--publication h2` rule (or just stick with `#`).
+
+### Editing the list page hero
+
+The list page itself has almost no body — only front-matter:
+
+```yaml
+---
+layout: neoclassical-publications
+title: "Publications"
+eyebrow: "Lucius Vo · Library"
+lede: "An archive of papers, preprints, and book chapters — ..."
+permalink: /publications/
+---
+```
+
+The year-grouped index is generated by the layout from `site.publications`.
+
+### Changing the layout default for new publications
+
+`_config.yml` defaults set `layout: neoclassical-publication` for all files under `_publications/`. If you ever want a single publication to fall back to the old `single` layout, override `layout:` in its front matter.
 
 ---
 
@@ -365,6 +444,7 @@ A condensed log of the design decisions made during the initial build. Each row 
 | "Begin Reading still need more contrast. Can we blur the background more?" | Added `filter: blur(3px)` and lowered brightness on `.nc-hero__bg`, counter-scaled to 1.10 to hide blur edges. Strengthened the veil's left-side and bottom darkening. Fixed `.nc-hero__scroll` color regression by scoping under `.neoclassical` (same specificity gotcha as the title). | `_sass/_neoclassical.scss` |
 | "Where can I change the contents of [the prologue]?" | Body in `_pages/about.md` (`prologue:` field). Salute label and sign-off in `_layouts/neoclassical-home.html` (`nc-prologue__salute`, `nc-prologue__sign`). | (see [Prologue](#prologue-lectori-salutem)) |
 | "Increase salute font size and include English translation; justify the body prose; expand it for visual balance." | Salute → `1rem` (was `0.82rem`), letter-spacing tightened slightly, added flanking crimson lines via `::before`/`::after` to match the hero greeting pattern. Salute text expanded to `Lectori Salutem — To the Reader`. Body now `text-align: justify` with `hyphens: auto` and centered last line. Prose rewritten: "researcher in three places I never expected" → "researcher in the US", and expanded by ~20 words across three rhythmic clauses (metrology / manufacturing / open questions) for better visual fill. | `_sass/_neoclassical.scss`, `_layouts/neoclassical-home.html`, `_pages/about.md` |
+| "The 'Read recent work' link goes to the old publications site. Adopt the Neoclassical style." | Built `neoclassical-publications.html` (year-grouped list view) and `neoclassical-publication.html` (per-paper detail view with back-link, venue eyebrow, italic title, citation pull-quote, "Read the paper →" button). Added a `.nc-pub-*` SCSS block with title hover underline, year rule headers, ochre tag chips. Switched `_pages/publications.md` to the new list layout (front-matter only) and set the `publications` collection default in `_config.yml` to `layout: neoclassical-publication`. Documented the `# Heading` vs `## Heading` quirk because publication body markdown uses `# Abstract` / `# Contents`. | `_layouts/neoclassical-publications.html`, `_layouts/neoclassical-publication.html`, `_sass/_neoclassical.scss`, `_pages/publications.md`, `_config.yml` |
 
 ---
 

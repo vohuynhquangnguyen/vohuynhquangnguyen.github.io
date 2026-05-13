@@ -1,0 +1,103 @@
+---
+layout: compress
+---
+{% include base_path %}
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+  <body class="neoclassical neoclassical--page neoclassical--publications">
+
+    <div class="nc-progress" aria-hidden="true"></div>
+
+    <header class="nc-nav" role="banner">
+      <div class="nc-nav__inner">
+        <a class="nc-nav__brand" href="{{ base_path }}/">
+          <span class="nc-nav__brand-mark" aria-hidden="true"></span>
+          <span>Lucius&nbsp;Vo</span>
+        </a>
+        <button class="nc-nav__toggle" type="button" aria-expanded="false" aria-controls="nc-primary-nav">
+          <span>Menu</span>
+        </button>
+        <ul id="nc-primary-nav" class="nc-nav__links">
+          <li><a href="{{ base_path }}/">Home</a></li>
+          <li><a href="{{ base_path }}/publications/" aria-current="page">Publications</a></li>
+          <li><a href="{{ base_path }}/talks/">Talks</a></li>
+          <li><a href="{{ base_path }}/teaching/">Teaching</a></li>
+          <li><a href="{{ base_path }}/portfolio/">Portfolio</a></li>
+          <li><a href="{{ base_path }}/cv/">CV</a></li>
+        </ul>
+      </div>
+    </header>
+
+    <main id="nc-main">
+
+      <section class="nc-page-hero">
+        {% if page.eyebrow %}<span class="nc-page-hero__eyebrow">{{ page.eyebrow }}</span>{% endif %}
+        <h1 class="nc-page-hero__title">{{ page.title }}</h1>
+        {% if page.lede %}<p class="nc-page-hero__lede">{{ page.lede }}</p>{% endif %}
+        {% if site.author.googlescholar %}
+          <p class="nc-page-hero__aside">
+            A live list also lives on
+            <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a>.
+          </p>
+        {% endif %}
+      </section>
+
+      <div class="nc-pub-list">
+
+        {% assign pubs_by_year = site.publications
+            | group_by_exp: "pub", "pub.date | date: '%Y'"
+            | sort: "name"
+            | reverse %}
+
+        {% for year_group in pubs_by_year %}
+          <section class="nc-pub-year nc-reveal">
+            <header class="nc-pub-year__header">
+              <span class="nc-pub-year__rule" aria-hidden="true"></span>
+              <h2 class="nc-pub-year__heading">{{ year_group.name }}</h2>
+              <span class="nc-pub-year__rule" aria-hidden="true"></span>
+            </header>
+
+            {% assign sorted_in_year = year_group.items | sort: "date" | reverse %}
+            {% for pub in sorted_in_year %}
+              <article class="nc-pub">
+                {% if pub.venue %}
+                  <span class="nc-pub__tag">{{ pub.venue }}</span>
+                {% endif %}
+                <h3 class="nc-pub__title">
+                  <a href="{{ base_path }}{{ pub.url }}">{{ pub.title }}</a>
+                </h3>
+                {% if pub.citation %}
+                  <p class="nc-pub__citation">{{ pub.citation }}</p>
+                {% endif %}
+                {% if pub.excerpt %}
+                  <p class="nc-pub__excerpt">{{ pub.excerpt | strip_html | strip_newlines }}</p>
+                {% endif %}
+                <p class="nc-pub__cta">
+                  <a href="{{ base_path }}{{ pub.url }}">Read details →</a>
+                </p>
+              </article>
+            {% endfor %}
+          </section>
+        {% endfor %}
+
+      </div>
+
+    </main>
+
+    <footer class="nc-footer">
+      <div class="nc-footer__crest">
+        <span class="nc-footer__crest-mark" aria-hidden="true"></span>
+        <p class="nc-footer__name">Lucius Vo</p>
+      </div>
+      <p class="nc-footer__meta">{{ site.author.location }} · MMXXVI</p>
+    </footer>
+
+    <script src="{{ base_path }}/assets/js/neoclassical.js" defer></script>
+
+    {% include analytics.html %}
+  </body>
+</html>
