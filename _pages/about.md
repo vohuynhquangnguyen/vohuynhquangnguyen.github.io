@@ -18,7 +18,7 @@ journey:
   - year: "Origin · Vietnam"
     place: "Where the curiosity began"
     role: "A childhood between books and circuit boards"
-    body: "My journey didn't start in a university laboratory, but in Vietnam, driven by a childhood fascination with natural philosophy. Long before I was designing computational systems, I was trying to understand the basic rules of physics and chemistry. The questions that drive my research today took root there—quietly, and before I even knew the math to describe them."
+    body: "My journey did not start in a university laboratory, but in Vietnam, driven by a childhood fascination with natural philosophy. Long before I was designing computational systems, I was trying to understand the basic rules of physics and chemistry. The questions that drive my research today took root there—quietly, and before I even knew the math to describe them."
 
   - year: "2014 — 2018 · Helsinki, Finland"
     place: "Metropolia University of Applied Sciences"
@@ -28,17 +28,17 @@ journey:
   - year: "2018 — 2020 · Espoo, Finland"
     place: "Aalto University"
     role: "M.Sc., Automation and Electrical Engineering — Data Science"
-    body: "At Aalto's Metrology Research Institute, my research scope rapidly expanded. Working alongside Dr. Petri Kärhä and Dr. Erkki Ikonen, I investigated the differential spectral responsivity of solar cells, and modeled Maximum Power Point Tracking under the mentorship of Dr. Amir Sepehr. Beyond energy systems, I broadened my focus to author a pioneering Life Cycle Assessment of the Samsung Galaxy Smartwatch. But quietly, running parallel to the hardware and modeling, I fell into machine learning during my master's research—and never came out. I graduated with honors, bridging the physical and the algorithmic with a thesis on deep learning for PV module fault diagnosis."
+    body: "At the Metrology Research Institute in Aalto University, my research scope rapidly expanded. Working alongside Dr. Petri Kärhä and Dr. Erkki Ikonen, I investigated the differential spectral responsivity of solar cells, and modeled Maximum Power Point Tracking (MPPT) for photovoltaic (PV) panels under the mentorship of Dr. Amir Sepehr. Beyond energy systems, I broadened my focus to author a pioneering Life Cycle Assessment of the Samsung Galaxy Smartwatch. But quietly, running parallel to the hardware and modeling, I fell into machine learning during my master's research—and never came out. I graduated with honors, bridging the physical and the algorithmic with a thesis on deep learning for PV module fault diagnosis."
 
   - year: "2020 — 2022 · Saigon, Vietnam"
     place: "First Solar and Intel Products Vietnam"
     role: "Manufacturing and Deep Learning Engineer"
-    body: "When COVID-19 paused my PhD prospects at VTT (Technical Research Centre of Finland), I returned home, unaware that this setback would become my greatest catalyst. Stepping into the industry, I had the chance to deploy my research at massive scale. At First Solar, I developed defect-commonality tooling that remains in active use across their factories. Moving to Intel, I fully transitioned into an industrial researcher, leading the ILLIAD inspection system—highlighted at the 2023 AI Everywhere Conference—and teaching Python and ML across the global organization."
+    body: "When COVID-19 paused my PhD prospects at VTT (Technical Research Centre of Finland), I returned home, unaware that this setback would become my greatest catalyst. Stepping into the industry, I had the chance to deploy my research at massive scale. At First Solar, I developed defect-commonality tooling that remains in active use across their factories. Moving to Intel, I fully transitioned into an industrial researcher, leading the Intelligent Inspection and Automatic Disposition (ILLIAD) system—highlighted at the 2023 AI Everywhere Conference—and teaching Python and ML across the global organization."
 
   - year: "2023 — present · Stillwater, Oklahoma"
     place: "Oklahoma State University"
     role: "Ph.D., Industrial Engineering and Management"
-    body: "My current home. I work on resistive random-access memory (RRAM), in-memory computing, and the optimization algorithms that can take advantage of both. Two-time finalist in the IISE Student Paper Competition, SIAM Travel Awardee for PP26, and currently President of the OSU INFORMS Chapter."
+    body: "My current home. I work on resistive random-access memory (RRAM), in-memory computing, and the optimization algorithms that can take advantage of both. Two-time finalist in the Institute of Industrial and Systems Engineers (IISE) Student Paper Competition, Society for Industrial and Applied Mathematics (SIAM) Travel Awardee for PP26, and currently President of the OSU Institute for Operations Research and the Management Sciences (INFORMS) Chapter."
 
   - year: "Summer 2025 · Lemont, Illinois"
     place: "Argonne National Laboratory"
