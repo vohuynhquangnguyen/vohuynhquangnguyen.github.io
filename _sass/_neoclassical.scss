@@ -612,12 +612,35 @@
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("../../images/neoclassical/oath-of-the-horatii.jpg");
+  background-image: url("../../images/neoclassical/attributes-of-music.jpg");
   background-size: cover;
   background-position: center;
-  opacity: 0.07;
-  filter: saturate(0.5);
+  /* slightly higher opacity than Horatii — the music still life has darker
+     overall values, so it reads as atmosphere at ~0.12 rather than 0.07 */
+  opacity: 0.12;
+  filter: saturate(0.55);
   z-index: 0;
+}
+.nc-vision__caption {
+  position: absolute;
+  bottom: 1.4rem;
+  right: 1.5rem;
+  margin: 0;
+  font-family: var(--nc-smallcaps);
+  font-size: 0.68rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(244, 235, 217, 0.55);
+  z-index: 2;
+}
+.nc-vision__caption em { font-style: italic; }
+@media (max-width: 880px) {
+  .nc-vision__caption {
+    position: static;
+    text-align: center;
+    margin-top: 2.5rem;
+    padding: 0 1.5rem;
+  }
 }
 .nc-vision__inner {
   position: relative;
