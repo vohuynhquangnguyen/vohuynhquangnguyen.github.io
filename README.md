@@ -87,6 +87,8 @@ images/neoclassical/
 | Sign-off "— L. V., Stillwater, MMXXVI" | `_layouts/neoclassical-home.html` | inside `<span class="nc-prologue__sign">` |
 | Journey timeline (Vietnam → Argonne) | `_pages/about.md` | `journey:` list of stops |
 | Research vision prose / triad nodes | `_layouts/neoclassical-home.html` | sections labeled "VISION" / "Act II" |
+| Triad node link targets (RRAM / Analog / Optimization) | `_layouts/neoclassical-home.html` | each `<a class="nc-triad__link" href="...">` |
+| RRAM / Analog / Optimization research pages | `_pages/research-{rram,analog,optimization}.md` | `permalink: /research/<topic>/` |
 | Number of "Selected works" cards | `_layouts/neoclassical-home.html` | `limit: 4` in the `for pub in sorted_pubs` loop |
 | Connect section copy / contact links | `_layouts/neoclassical-home.html` | section with `id="connect"` |
 | CV body | `_pages/cv.md` | plain markdown |
@@ -180,7 +182,21 @@ journey:
 
 ### Research vision
 
-The "Teaching matter to think" section copy is hardcoded in `_layouts/neoclassical-home.html` under the comment `============== VISION ==============`. The animated SVG triad (RRAM / Analog / Optimization) is also there — node labels are inside `<text>` elements. Edit directly.
+The "Teaching matter to think" section copy is hardcoded in `_layouts/neoclassical-home.html` under the comment `============== VISION ==============`. The animated SVG triad (RRAM / Analog / Optimization) is also there.
+
+**The three triad circles are clickable links** — each is an SVG `<a class="nc-triad__link">` wrapping a `<g class="nc-triad__node">`. The link targets are:
+
+| Circle | Target page | Page source |
+| --- | --- | --- |
+| RRAM | `/research/rram/` | `_pages/research-rram.md` |
+| Analog | `/research/analog/` | `_pages/research-analog.md` |
+| Optimization | `/research/optimization/` | `_pages/research-optimization.md` |
+
+Each node also has an SVG `<title>` element that renders as a tooltip on hover (and is read aloud by screen readers). To change a circle's destination, edit the `href` on its anchor; to retitle, edit the `<text class="nc-triad__node-label">` and the `<title>`.
+
+**Retitling a circle** is mostly free, but if the new label is longer than ~13 characters at 17 px italic, it may overflow the 56 px-radius circle. Two fixes: shrink `.nc-triad__node-label` font-size, or grow the base `r` (also grow the hover `r` in `.nc-triad__link:hover .nc-triad__node circle` to keep the proportion).
+
+**Editing the research-page bodies**: each page uses `layout: neoclassical-page` (same as the CV), so it inherits the `.nc-doc` markdown styles — `## Headings` get the crimson section tick, lists get the gold dash bullets, blockquotes get the ochre left rule.
 
 ### Selected works
 
@@ -477,6 +493,7 @@ A condensed log of the design decisions made during the initial build. Each row 
 | Author's second-pass content edits + bug fixes during merge of PR #4 | Hero title → `"Doctoral Candidate, Data-in-Place Pioneer"`. Subtitle → `Huynh \"Lucius Vo\"` (note backslash-escape) with `(OSU)` and `artificial intelligence, and optimization` added. Prologue prose fully rewritten by the author with three replaced disciplines (optical metrology / semiconductor manufacturing / software-hardware co-design). All six journey body paragraphs expanded with more specific detail (Osnabrück Hochschule collaboration, Petri Kärhä & Erkki Ikonen, Dr. Amir Sepehr's Maximum Power Point Tracking, Samsung Smartwatch LCA, COVID/VTT pivot, ILLIAD, INFORMS chapter presidency). Fixed two YAML bugs introduced during the edits: unescaped inner `"` around `"Lucius Vo"` (closed the string early) and `andamp;` residue from a global `&`→`and` replace colliding with the existing `&amp;` HTML entity. | `_pages/about.md` |
 | Companion polish during PR #5 (publications) | Act II vision text: `Analog &amp; in-memory computing` → `Analog and in-memory computing` and `And optimization &amp; learning` → `Optimization and learning`. Matches the "and" convention applied across the rest of the homepage. | `_layouts/neoclassical-home.html` |
 | Documentation refresh after PR #5 | README examples synced with current `_pages/about.md` (subtitle, journey role). Added "Content gotchas" subsection covering YAML quote escaping and the `andamp;` find/replace pitfall. TOC updated. | `README.md` |
+| "Make the Act II triad clickable — RRAM / Analog / Optimization each go to a dedicated page." | Wrapped each `<g class="nc-triad__node">` in an SVG `<a class="nc-triad__link">` pointing to `/research/rram/`, `/research/analog/`, `/research/optimization/`. Replaced the previous two-line labels (`RRAM` / `Hardware`, `Analog` / `Compute`, `Optim.` / `& Learning`) with single titles. Grew the base circle radius `46` → `56` and the hover radius `56` → `64` to fit "Optimization" without overflow. Bumped label font-size to `17px`, added `dominant-baseline: central` for vertical centering. Reset the `.neoclassical a` underline-gradient and added a keyboard `:focus-visible` ivory ring on the circle. Added an SVG `<title>` per node so hover tooltips and screen-readers see the full concept name. Created three accompanying research pages (`_pages/research-rram.md`, `research-analog.md`, `research-optimization.md`) using the existing `neoclassical-page` layout. | `_layouts/neoclassical-home.html`, `_sass/_neoclassical.scss`, `_pages/research-{rram,analog,optimization}.md` |
 
 ---
 
