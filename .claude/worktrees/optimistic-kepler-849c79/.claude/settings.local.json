@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api *)",
+      "Bash(curl -sI -A \"Mozilla/5.0\" \"https://vohuynhquangnguyen.github.io/images/neoclassical/attributes-of-the-arts.jpg\")",
+      "Bash(git fetch *)",
+      "Read(//c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io/.git/worktrees//**)",
+      "Read(//c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io/.git/worktrees/optimistic-kepler-849c79//**)",
+      "Bash(ls -la \"/c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io/.git/worktrees/optimistic-kepler-849c79/\" 2>&1; echo \"---\"; echo \"[commondir contents]\"; cat \"/c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io/.git/worktrees/optimistic-kepler-849c79/commondir\" 2>&1; echo \"---\"; echo \"[gitdir contents]\"; cat \"/c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io/.git/worktrees/optimistic-kepler-849c79/gitdir\" 2>&1; echo \"---\"; echo \"[HEAD contents]\"; cat \"/c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io/.git/worktrees/optimistic-kepler-849c79/HEAD\" 2>&1; echo \"---\"; echo \"[parent .git is dir or file?]\"; ls -la \"/c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io/.git\" 2>&1 | head -3)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io status -b --short)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io log --oneline -8 claude/optimistic-kepler-849c79)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io log --oneline main..claude/optimistic-kepler-849c79)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io show 98776b0 --stat --format=)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io fetch origin --prune)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io hash-object :2:images/neoclassical/attributes-of-the-arts.jpg)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io hash-object :3:images/neoclassical/attributes-of-the-arts.jpg)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io checkout --ours -- images/neoclassical/attributes-of-the-arts.jpg)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io add images/neoclassical/attributes-of-the-arts.jpg)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io cherry-pick --continue)",
+      "Bash(gh pr *)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io diff --stat)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io add _sass/_neoclassical.scss)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io commit -m ' *)",
+      "Bash(PARENT=/c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io; cd \"$PARENT\" && gh pr create --title \"Polish hero: larger type, blurred background, fix Begin Reading\" --body \"$\\(cat <<'EOF' *)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io status --short)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io branch --show-current)",
+      "Bash(git -C /c/Users/quang/OneDrive/Documents/GitHub/vohuynhquangnguyen.github.io stash push -m wip-readme -- README.md)"
+    ]
+  }
+}
