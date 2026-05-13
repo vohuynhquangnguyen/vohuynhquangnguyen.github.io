@@ -1,0 +1,80 @@
+---
+layout: compress
+---
+{% include base_path %}
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+  <body class="neoclassical neoclassical--page neoclassical--publication">
+
+    <div class="nc-progress" aria-hidden="true"></div>
+
+    <header class="nc-nav" role="banner">
+      <div class="nc-nav__inner">
+        <a class="nc-nav__brand" href="{{ base_path }}/">
+          <span class="nc-nav__brand-mark" aria-hidden="true"></span>
+          <span>Lucius&nbsp;Vo</span>
+        </a>
+        <button class="nc-nav__toggle" type="button" aria-expanded="false" aria-controls="nc-primary-nav">
+          <span>Menu</span>
+        </button>
+        <ul id="nc-primary-nav" class="nc-nav__links">
+          <li><a href="{{ base_path }}/">Home</a></li>
+          <li><a href="{{ base_path }}/publications/" aria-current="page">Publications</a></li>
+          <li><a href="{{ base_path }}/talks/">Talks</a></li>
+          <li><a href="{{ base_path }}/teaching/">Teaching</a></li>
+          <li><a href="{{ base_path }}/portfolio/">Portfolio</a></li>
+          <li><a href="{{ base_path }}/cv/">CV</a></li>
+        </ul>
+      </div>
+    </header>
+
+    <main id="nc-main">
+
+      <section class="nc-pub-detail__hero">
+        <a class="nc-pub-detail__back" href="{{ base_path }}/publications/">
+          <span aria-hidden="true">←</span> All publications
+        </a>
+        {% if page.venue %}<span class="nc-pub-detail__venue">{{ page.venue }}</span>{% endif %}
+        <h1 class="nc-pub-detail__title">{{ page.title }}</h1>
+        {% if page.date %}
+          <p class="nc-pub-detail__date">
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %Y" }}</time>
+          </p>
+        {% endif %}
+      </section>
+
+      <article class="nc-doc nc-doc--publication">
+        {% if page.citation %}
+          <blockquote class="nc-pub-detail__citation">
+            {{ page.citation }}
+          </blockquote>
+        {% endif %}
+
+        {{ content }}
+
+        {% if page.paperurl %}
+          <p class="nc-pub-detail__cta">
+            <a href="{{ page.paperurl }}" target="_blank" rel="noopener">Read the paper →</a>
+          </p>
+        {% endif %}
+      </article>
+
+    </main>
+
+    <footer class="nc-footer">
+      <div class="nc-footer__crest">
+        <span class="nc-footer__crest-mark" aria-hidden="true"></span>
+        <p class="nc-footer__name">Lucius Vo</p>
+      </div>
+      <p class="nc-footer__meta">{{ site.author.location }} · MMXXVI</p>
+    </footer>
+
+    <script src="{{ base_path }}/assets/js/neoclassical.js" defer></script>
+
+    {% include analytics.html %}
+  </body>
+</html>
