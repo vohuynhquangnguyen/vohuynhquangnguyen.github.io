@@ -25,6 +25,7 @@ This README is a **practical editing guide** for the homepage, the CV page, and 
    - [Change font sizes](#change-font-sizes)
    - [Change the hero blur / darkness](#change-the-hero-blur--darkness)
    - [The two specificity gotchas](#the-two-specificity-gotchas)
+   - [Content gotchas](#content-gotchas)
 7. [Local preview & deployment](#local-preview--deployment)
 8. [Past edits — quick recipe log](#past-edits--quick-recipe-log)
 9. [Credits](#credits)
@@ -115,18 +116,20 @@ The homepage source is `_pages/about.md`. Most content lives in **YAML front mat
 hero:
   greeting: "Salvete — Welcome"
   title: "Between marble and silicon."
-  subtitle: "I'm Lucius Vo — a Ph.D. candidate at Oklahoma State University working at the seam where neuromorphic hardware, in-memory computing, and machine learning meet."
+  subtitle: "I'm Huynh \"Lucius Vo\" — a Ph.D. candidate at Oklahoma State University (OSU) working at the seam where neuromorphic hardware, in-memory computing, artificial intelligence, and optimization meet."
 ```
 
 Notes:
 - Wrap each value in double quotes if it contains a colon, em-dash, or apostrophe.
+- **Escaping inner double-quotes**: when you need literal `"..."` inside a double-quoted YAML string (as around `"Lucius Vo"` above), escape them with backslash: `\"`. Forgetting this closes the string early and Jekyll renders only the first fragment — see the [Content gotchas](#content-gotchas) section.
 - The title supports `<em>...</em>` if you want a word in italic ochre — e.g. `title: "Between <em>marble</em> and silicon."` (already inside an italic display face, so this is for accent color rather than slant).
-- Multi-line subtitle: switch to YAML block syntax:
+- Multi-line subtitle: switch to YAML block syntax (no `\"` escaping needed inside block scalars):
   ```yaml
   subtitle: >-
-    I'm Lucius Vo — a Ph.D. candidate at Oklahoma State University
-    working at the seam where neuromorphic hardware, in-memory
-    computing, and machine learning meet.
+    I'm Huynh "Lucius Vo" — a Ph.D. candidate at Oklahoma State
+    University (OSU) working at the seam where neuromorphic
+    hardware, in-memory computing, artificial intelligence, and
+    optimization meet.
   ```
 
 **Painting credit** (bottom-right caption) → edit `_layouts/neoclassical-home.html`, the line containing `nc-hero__caption`:
@@ -165,7 +168,7 @@ The six stops (Vietnam → Helsinki → Espoo → Saigon → Stillwater → Lemo
 journey:
   - year: "2014 — 2018 · Helsinki, Finland"
     place: "Metropolia University of Applied Sciences"
-    role: "B.Tech., Electrical & Electronics Engineering"
+    role: "B.Tech., Electrical and Electronics Engineering"
     body: "My first real engineering apprenticeship. ..."
 ```
 
@@ -402,6 +405,32 @@ If you set e.g. `.nc-hero__title { color: white }` and it doesn't take, **scope 
 
 This is why the title and "BEGIN READING" rules in the SCSS are written `.neoclassical .nc-something`.
 
+### Content gotchas
+
+Two paper-cuts that came up while editing `_pages/about.md` — both silent, both fixable:
+
+**1. Unescaped `"` inside a double-quoted YAML string.** A subtitle like
+
+```yaml
+subtitle: "I'm Huynh "Lucius Vo" — a Ph.D. candidate..."
+```
+
+closes the string at the first inner `"`, so Jekyll parses only `I'm Huynh ` and the rest becomes garbage. Two fixes:
+
+```yaml
+# (a) escape with backslash inside double quotes:
+subtitle: "I'm Huynh \"Lucius Vo\" — a Ph.D. candidate..."
+
+# (b) use single quotes outside, double-up apostrophes:
+subtitle: 'I''m Huynh "Lucius Vo" — a Ph.D. candidate...'
+
+# (c) use a block scalar — no escaping needed:
+subtitle: >-
+  I'm Huynh "Lucius Vo" — a Ph.D. candidate...
+```
+
+**2. `andamp;` — the HTML-entity find/replace collision.** Some editors offer a global "replace `&` with `and`" tidy-up. That can collide with existing `&amp;` HTML entities and leave the residue `andamp;`, which then renders literally on the page (e.g. "First Solar andamp; Intel"). If you see this string anywhere, just delete the `amp;` to get back to `and`.
+
 ---
 
 ## Local preview & deployment
@@ -445,6 +474,9 @@ A condensed log of the design decisions made during the initial build. Each row 
 | "Where can I change the contents of [the prologue]?" | Body in `_pages/about.md` (`prologue:` field). Salute label and sign-off in `_layouts/neoclassical-home.html` (`nc-prologue__salute`, `nc-prologue__sign`). | (see [Prologue](#prologue-lectori-salutem)) |
 | "Increase salute font size and include English translation; justify the body prose; expand it for visual balance." | Salute → `1rem` (was `0.82rem`), letter-spacing tightened slightly, added flanking crimson lines via `::before`/`::after` to match the hero greeting pattern. Salute text expanded to `Lectori Salutem — To the Reader`. Body now `text-align: justify` with `hyphens: auto` and centered last line. Prose rewritten: "researcher in three places I never expected" → "researcher in the US", and expanded by ~20 words across three rhythmic clauses (metrology / manufacturing / open questions) for better visual fill. | `_sass/_neoclassical.scss`, `_layouts/neoclassical-home.html`, `_pages/about.md` |
 | "The 'Read recent work' link goes to the old publications site. Adopt the Neoclassical style." | Built `neoclassical-publications.html` (year-grouped list view) and `neoclassical-publication.html` (per-paper detail view with back-link, venue eyebrow, italic title, citation pull-quote, "Read the paper →" button). Added a `.nc-pub-*` SCSS block with title hover underline, year rule headers, ochre tag chips. Switched `_pages/publications.md` to the new list layout (front-matter only) and set the `publications` collection default in `_config.yml` to `layout: neoclassical-publication`. Documented the `# Heading` vs `## Heading` quirk because publication body markdown uses `# Abstract` / `# Contents`. | `_layouts/neoclassical-publications.html`, `_layouts/neoclassical-publication.html`, `_sass/_neoclassical.scss`, `_pages/publications.md`, `_config.yml` |
+| Author's second-pass content edits + bug fixes during merge of PR #4 | Hero title → `"Doctoral Candidate, Data-in-Place Pioneer"`. Subtitle → `Huynh \"Lucius Vo\"` (note backslash-escape) with `(OSU)` and `artificial intelligence, and optimization` added. Prologue prose fully rewritten by the author with three replaced disciplines (optical metrology / semiconductor manufacturing / software-hardware co-design). All six journey body paragraphs expanded with more specific detail (Osnabrück Hochschule collaboration, Petri Kärhä & Erkki Ikonen, Dr. Amir Sepehr's Maximum Power Point Tracking, Samsung Smartwatch LCA, COVID/VTT pivot, ILLIAD, INFORMS chapter presidency). Fixed two YAML bugs introduced during the edits: unescaped inner `"` around `"Lucius Vo"` (closed the string early) and `andamp;` residue from a global `&`→`and` replace colliding with the existing `&amp;` HTML entity. | `_pages/about.md` |
+| Companion polish during PR #5 (publications) | Act II vision text: `Analog &amp; in-memory computing` → `Analog and in-memory computing` and `And optimization &amp; learning` → `Optimization and learning`. Matches the "and" convention applied across the rest of the homepage. | `_layouts/neoclassical-home.html` |
+| Documentation refresh after PR #5 | README examples synced with current `_pages/about.md` (subtitle, journey role). Added "Content gotchas" subsection covering YAML quote escaping and the `andamp;` find/replace pitfall. TOC updated. | `README.md` |
 
 ---
 
