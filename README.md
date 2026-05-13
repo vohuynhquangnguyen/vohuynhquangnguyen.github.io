@@ -69,8 +69,9 @@ _includes/
 
 images/neoclassical/
   attributes-of-the-arts.jpg   ← current hero painting (Chardin, 1766)
+  attributes-of-music.jpg      ← current Act II vision background (Vallayer-Coster, 1770)
+  oath-of-the-horatii.jpg      ← used as faint background in CV hero
   death-of-socrates.jpg        ← unused; previous hero
-  oath-of-the-horatii.jpg      ← used as faint background in CV hero + research vision
   napoleon-crossing-the-alps.jpg  ← unused but available
 ```
 
@@ -88,6 +89,8 @@ images/neoclassical/
 | Journey timeline (Vietnam → Argonne) | `_pages/about.md` | `journey:` list of stops |
 | Research vision prose / triad nodes | `_layouts/neoclassical-home.html` | sections labeled "VISION" / "Act II" |
 | Triad node link targets (RRAM / Analog / Optimization) | `_layouts/neoclassical-home.html` | each `<a class="nc-triad__link" href="...">` |
+| Act II vision background painting | `_sass/_neoclassical.scss` `.nc-vision::before` `background-image` | drop the file in `images/neoclassical/`, update the URL, optionally tweak `opacity` and `filter: saturate(...)` |
+| Act II vision painting credit caption | `_layouts/neoclassical-home.html` | inside `<p class="nc-vision__caption">` |
 | RRAM / Analog / Optimization research pages | `_pages/research-{rram,analog,optimization}.md` | `permalink: /research/<topic>/` |
 | Number of "Selected works" cards | `_layouts/neoclassical-home.html` | `limit: 4` in the `for pub in sorted_pubs` loop |
 | Connect section copy / contact links | `_layouts/neoclassical-home.html` | section with `id="connect"` |
@@ -494,6 +497,7 @@ A condensed log of the design decisions made during the initial build. Each row 
 | Companion polish during PR #5 (publications) | Act II vision text: `Analog &amp; in-memory computing` → `Analog and in-memory computing` and `And optimization &amp; learning` → `Optimization and learning`. Matches the "and" convention applied across the rest of the homepage. | `_layouts/neoclassical-home.html` |
 | Documentation refresh after PR #5 | README examples synced with current `_pages/about.md` (subtitle, journey role). Added "Content gotchas" subsection covering YAML quote escaping and the `andamp;` find/replace pitfall. TOC updated. | `README.md` |
 | "Make the Act II triad clickable — RRAM / Analog / Optimization each go to a dedicated page." | Wrapped each `<g class="nc-triad__node">` in an SVG `<a class="nc-triad__link">` pointing to `/research/rram/`, `/research/analog/`, `/research/optimization/`. Replaced the previous two-line labels (`RRAM` / `Hardware`, `Analog` / `Compute`, `Optim.` / `& Learning`) with single titles. Grew the base circle radius `46` → `56` and the hover radius `56` → `64` to fit "Optimization" without overflow. Bumped label font-size to `17px`, added `dominant-baseline: central` for vertical centering. Reset the `.neoclassical a` underline-gradient and added a keyboard `:focus-visible` ivory ring on the circle. Added an SVG `<title>` per node so hover tooltips and screen-readers see the full concept name. Created three accompanying research pages (`_pages/research-rram.md`, `research-analog.md`, `research-optimization.md`) using the existing `neoclassical-page` layout. | `_layouts/neoclassical-home.html`, `_sass/_neoclassical.scss`, `_pages/research-{rram,analog,optimization}.md` |
+| "Replace the Act II background with Vallayer-Coster's *Attributes of Music* (1770) and credit the painter." | Switched `.nc-vision::before` `background-image` from `oath-of-the-horatii.jpg` to `attributes-of-music.jpg`. Bumped opacity `0.07` → `0.12` (the music still life reads darker overall, so a touch more presence is needed to sense it). Added a new `.nc-vision__caption` rule mirroring `.nc-hero__caption` — bottom-right small-caps in `rgba(244,235,217,0.55)`, with a `@media (max-width: 880px)` rule that drops it to centered static below the section on mobile. Inserted `<p class="nc-vision__caption">Anne Vallayer-Coster — <em>The Attributes of Music</em>, 1770</p>` at the end of the Vision section in the homepage layout. | `_sass/_neoclassical.scss`, `_layouts/neoclassical-home.html` |
 
 ---
 
@@ -501,5 +505,6 @@ A condensed log of the design decisions made during the initial build. Each row 
 
 - **AcademicPages** — Stuart Geiger's [academicpages.github.io](https://github.com/academicpages/academicpages.github.io), forked and detached from Michael Rose's [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) (MIT).
 - **Hero painting** — Jean-Baptiste-Siméon Chardin, *The Attributes of the Arts and the Rewards Which Are Accorded Them* (1766), Minneapolis Institute of Art. Public domain via [Wikimedia Commons](https://commons.wikimedia.org/).
+- **Act II background painting** — Anne Vallayer-Coster, *The Attributes of Music* (1770), Louvre. Public domain via Wikimedia Commons.
 - **Section paintings** — Jacques-Louis David, *The Death of Socrates* (1787), *Oath of the Horatii* (1784), *Napoleon Crossing the Alps* (1801). All public domain via Wikimedia Commons.
 - **Typography** — Cormorant Garamond, Cormorant SC, EB Garamond, and Inter, served by Google Fonts.
