@@ -10,7 +10,7 @@ redirect_from:
 hero:
   greeting: "Salvete — Welcome"
   title: "Between marble and silicon."
-  subtitle: "I'm Huynh \"Lucius Vo\" — a Ph.D. candidate at Oklahoma State University (OSU) working at the seam where neuromorphic hardware, in-memory computing, artificial intelligence, and optimization meet."
+  subtitle: "I'm Huynh \"Lucius\" Vo — a Ph.D. candidate at Oklahoma State University (OSU) working at the seam where neuromorphic hardware, in-memory computing, artificial intelligence, and optimization meet."
 
 prologue: "From growing up in Vietnam, to training as an engineer in Finland, and now conducting research in the US, each chapter of my journey has equipped me with a new discipline. I carry forward the patience of optical metrology, the scale of semiconductor manufacturing, and the complex, open questions of software-hardware co-design. This site is an exhibition of that path and a window into what I am building next: in-memory computing systems that no longer separate memory from thought."
 
