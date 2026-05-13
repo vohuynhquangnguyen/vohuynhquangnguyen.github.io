@@ -663,27 +663,44 @@
   margin: 0 auto;
 }
 .nc-triad svg { width: 100%; height: 100%; display: block; overflow: visible; }
+/* SVG <a> wrapper — reset .neoclassical a decorations so we don't get
+   the animated-underline gradient, and keep the pointer cursor. */
+.neoclassical .nc-triad__link {
+  cursor: pointer;
+  background: none;
+  text-decoration: none;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.neoclassical .nc-triad__link:hover,
+.neoclassical .nc-triad__link:focus { background: none; }
+/* Keyboard focus ring: a soft ivory ring on the circle */
+.neoclassical .nc-triad__link:focus-visible .nc-triad__node circle {
+  stroke: var(--nc-ivory);
+  stroke-width: 2;
+}
+
 .nc-triad__node circle {
   transition: r 0.4s var(--nc-ease), fill 0.4s var(--nc-ease);
-  cursor: pointer;
 }
-.nc-triad__node:hover circle { r: 56; fill: var(--nc-crimson); }
-.nc-triad__node text {
-  font-family: var(--nc-smallcaps);
-  font-size: 11px;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
+/* Hover and focus expand the circle and shift to deeper crimson */
+.nc-triad__link:hover .nc-triad__node circle,
+.nc-triad__link:focus-visible .nc-triad__node circle {
+  r: 64;
+  fill: var(--nc-crimson);
+}
+
+.nc-triad__node-label {
+  font-family: var(--nc-serif-display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: 17px;
+  letter-spacing: 0;
+  text-transform: none;
   fill: var(--nc-ivory);
   text-anchor: middle;
+  dominant-baseline: central;
   pointer-events: none;
-}
-.nc-triad__node-label {
-  font-family: var(--nc-serif-display) !important;
-  font-style: italic;
-  font-size: 16px !important;
-  letter-spacing: 0 !important;
-  text-transform: none !important;
-  font-weight: 400;
 }
 .nc-triad__edge {
   stroke: var(--nc-ochre);

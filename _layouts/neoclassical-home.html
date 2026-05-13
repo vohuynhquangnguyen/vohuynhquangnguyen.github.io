@@ -91,30 +91,36 @@ layout: compress
             <p class="nc-vision__body">I am building the bridge between the three — designing distributed primal-dual algorithms that run natively on RRAM crossbars, and chasing the day when neuromorphic hardware quietly outperforms a rack of GPUs on the world's hardest linear programs.</p>
             <p class="nc-vision__body"><a href="{{ base_path }}/publications/">Read recent work →</a></p>
           </div>
-          <div class="nc-triad" aria-hidden="true">
-            <svg viewBox="0 0 400 400" role="img" aria-label="Three research threads connecting around a central core">
-              <!-- triangle edges -->
-              <path class="nc-triad__edge" d="M 200 60 L 60 320 L 340 320 Z" />
-              <!-- inner triangle -->
-              <path class="nc-triad__edge" d="M 200 140 L 140 270 L 260 270 Z" style="animation-duration: 14s;" />
-              <!-- core -->
-              <circle class="nc-triad__core" cx="200" cy="226" r="10" />
-              <!-- nodes -->
-              <g class="nc-triad__node" transform="translate(200 60)">
-                <circle r="46" fill="rgba(139,30,63,0.85)" stroke="#c19a4f" stroke-width="1" />
-                <text class="nc-triad__node-label" y="-2">RRAM</text>
-                <text y="14">Hardware</text>
-              </g>
-              <g class="nc-triad__node" transform="translate(60 320)">
-                <circle r="46" fill="rgba(139,30,63,0.85)" stroke="#c19a4f" stroke-width="1" />
-                <text class="nc-triad__node-label" y="-2">Analog</text>
-                <text y="14">Compute</text>
-              </g>
-              <g class="nc-triad__node" transform="translate(340 320)">
-                <circle r="46" fill="rgba(139,30,63,0.85)" stroke="#c19a4f" stroke-width="1" />
-                <text class="nc-triad__node-label" y="-2">Optim.</text>
-                <text y="14">&amp; Learning</text>
-              </g>
+          <div class="nc-triad">
+            <svg viewBox="0 0 400 400" role="img" aria-label="Three research threads — each circle is a link to its dedicated page">
+              <!-- decorative triangle edges -->
+              <path class="nc-triad__edge" d="M 200 60 L 60 320 L 340 320 Z" aria-hidden="true" />
+              <path class="nc-triad__edge" d="M 200 140 L 140 270 L 260 270 Z" style="animation-duration: 14s;" aria-hidden="true" />
+              <!-- pulsing core -->
+              <circle class="nc-triad__core" cx="200" cy="226" r="10" aria-hidden="true" />
+
+              <!-- nodes — each is a link to a dedicated research page -->
+              <a href="{{ base_path }}/research/rram/" class="nc-triad__link">
+                <g class="nc-triad__node" transform="translate(200 60)">
+                  <title>RRAM — Resistive Random-Access Memory</title>
+                  <circle r="56" fill="rgba(139,30,63,0.85)" stroke="#c19a4f" stroke-width="1" />
+                  <text class="nc-triad__node-label">RRAM</text>
+                </g>
+              </a>
+              <a href="{{ base_path }}/research/analog/" class="nc-triad__link">
+                <g class="nc-triad__node" transform="translate(60 320)">
+                  <title>Analog — Analog and In-Memory Computing</title>
+                  <circle r="56" fill="rgba(139,30,63,0.85)" stroke="#c19a4f" stroke-width="1" />
+                  <text class="nc-triad__node-label">Analog</text>
+                </g>
+              </a>
+              <a href="{{ base_path }}/research/optimization/" class="nc-triad__link">
+                <g class="nc-triad__node" transform="translate(340 320)">
+                  <title>Optimization — Optimization and Learning on Analog Substrates</title>
+                  <circle r="56" fill="rgba(139,30,63,0.85)" stroke="#c19a4f" stroke-width="1" />
+                  <text class="nc-triad__node-label">Optimization</text>
+                </g>
+              </a>
             </svg>
           </div>
         </div>
