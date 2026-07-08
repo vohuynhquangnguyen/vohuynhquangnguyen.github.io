@@ -13,5 +13,5 @@ Stochastic optimization problems in large-scale multi-stakeholder networked syst
 
 # Contents
 The contents of this article can be accessed here:
-- [arXiv](https://arxiv.org/abs/2508.13298).
+- [arXiv](https://arxiv.org/abs/2409.12328).
 - [IEEE Proceedings](https://staging.computer.org/csdl/proceedings-article/bigdata/2024/10826070/23ykTjiiraU).
