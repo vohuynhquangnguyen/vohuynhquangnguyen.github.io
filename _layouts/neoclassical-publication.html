@@ -56,6 +56,26 @@ layout: compress
 
         {{ content }}
 
+        {% if page.poster %}
+          {% if page.poster contains '://' %}
+            {% assign poster_url = page.poster %}
+          {% else %}
+            {% assign poster_url = page.poster | prepend: base_path %}
+          {% endif %}
+          <h1 id="poster">Poster</h1>
+          <figure class="nc-poster">
+            <object class="nc-poster__frame" data="{{ poster_url }}#view=FitH" type="application/pdf">
+              <iframe class="nc-poster__frame" src="{{ poster_url }}#view=FitH" title="{{ page.title | escape }} — poster" loading="lazy"></iframe>
+            </object>
+            <figcaption class="nc-poster__caption">
+              Trouble viewing the poster? <a href="{{ poster_url }}" target="_blank" rel="noopener">Open it in a new tab</a>.
+            </figcaption>
+          </figure>
+          <p class="nc-pub-detail__cta nc-poster__cta">
+            <a href="{{ poster_url }}" target="_blank" rel="noopener" download>Download poster (PDF)</a>
+          </p>
+        {% endif %}
+
         {% if page.paperurl %}
           <p class="nc-pub-detail__cta">
             <a href="{{ page.paperurl }}" target="_blank" rel="noopener">Read the paper →</a>

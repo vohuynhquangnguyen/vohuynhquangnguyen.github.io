@@ -6,6 +6,7 @@ excerpt: 'We present a distributed primal-dual hybrid gradient (PDHG) method co-
 date: '2026-02-24'
 venue: '2026 SIAM Conference on Parallel Processing for Scientific Computing (PP26)'
 citation: 'Huynh Q. N. Vo, Md Tawsif Rahman Chowdhury, Paritosh Ramanan, Gozde Tutuncuoglu, Junchi Yang, Feng Qiu, and Murat Yildirim. (2026). From GPUs to RRAMs: Distributed In-Memory Primal-Dual Hybrid Gradient Method for Solving Large-Scale Linear Optimization Problems. In: Proceedings of the 2026 SIAM Conference on Parallel Processing for Scientific Computing (PP26).'
+poster: /files/posters/2026-02-24-from-gpus-to-rrams_poster.pdf
 ---
 
 # Abstract

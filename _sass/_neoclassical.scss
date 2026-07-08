@@ -1321,3 +1321,30 @@
   background: var(--nc-ink);
   color: var(--nc-ivory);
 }
+
+/* Poster embed — inline PDF viewer with a download fallback.
+   The injected `<h1>Poster</h1>` reuses the .nc-doc--publication section-header
+   style; .nc-poster is a <figure>, so its base rule also resets the UA margin. */
+.nc-poster {
+  margin: 1.8rem 0 0;
+  padding: 0.6rem;
+  border: 1px solid var(--nc-marble);
+  background: var(--nc-ivory-soft);
+}
+.nc-poster__frame {
+  display: block;
+  width: 100%;
+  height: clamp(440px, 82vh, 960px);
+  border: 0;
+  background: var(--nc-ivory);
+}
+.nc-poster__caption {
+  margin: 0.75rem 0.25rem 0.15rem;
+  font-family: var(--nc-serif-body);
+  font-style: italic;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--nc-ink-soft);
+  text-align: center;
+}
+.nc-doc--publication .nc-poster__cta { margin-top: 1.8rem; }
